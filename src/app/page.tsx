@@ -6,7 +6,7 @@ import { ProjectsSection } from "@/components/projects-section";
 
 export default function Home() {
   return (
-    <main className="mx-auto w-full max-w-6xl flex-1 px-6 py-16">
+    <main className="mx-auto w-full max-w-6xl flex-1 px-6 pb-16 pt-24">
       <HeroSection />
       <ExpertiseSection />
       <ProjectsSection />
