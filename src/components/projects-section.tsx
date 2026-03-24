@@ -1,52 +1,58 @@
-const projects = [
-  {
-    title: "Connexions Spectrum Mobile App",
-    stack: "React Native, TypeScript, OpenAI, Supabase",
-    highlights: [
-      "Built a cross-platform mobile app for iOS and Android from a single React Native codebase.",
-      "Integrated an AI conversation assistant with OpenAI API to generate real-time response suggestions.",
-      "Developed real-time WebSocket chat features including delivery receipts, typing indicators, and persistent inbox.",
-      "Implemented an MVP matching algorithm in JavaScript to connect users based on preferences.",
-    ],
-  },
-  {
-    title: "Game Hub",
-    stack: "React, TypeScript, Tailwind CSS, React Query, Zustand",
-    highlights: [
-      "Developed an interactive game discovery platform with optimized data fetching using React Query.",
-      "Designed a responsive Tailwind UI and achieved 95%+ mobile accessibility in Lighthouse.",
-      "Built advanced search and filtering by genre, platform, popularity, and user ratings.",
-    ],
-  },
-];
-
 export function ProjectsSection() {
   return (
-    <section id="projects" className="border-b border-zinc-200 py-16 dark:border-zinc-800">
+    <section id="work" className="border-b border-zinc-900 py-16">
       <div className="mb-8 space-y-2">
-        <h2 className="text-2xl font-semibold tracking-tight">Projects</h2>
-        <p className="text-sm text-zinc-600 dark:text-zinc-300">
-          Selected work based on my recent product and AI-focused development experience.
+        <h2 className="text-2xl font-semibold tracking-tight">Featured Project</h2>
+        <p className="text-sm text-zinc-400">
+          Selected product work and enterprise delivery highlights.
         </p>
       </div>
 
-      <div className="grid gap-6 md:grid-cols-2">
-        {projects.map((project) => (
-          <article
-            key={project.title}
-            className="rounded-xl border border-zinc-200 p-5 dark:border-zinc-800"
-          >
-            <h3 className="text-lg font-semibold tracking-tight">{project.title}</h3>
-            <p className="mt-1 text-sm text-zinc-600 dark:text-zinc-300">{project.stack}</p>
-            <ul className="mt-4 space-y-2 text-sm text-zinc-700 dark:text-zinc-200">
-              {project.highlights.map((item) => (
-                <li key={item} className="list-inside list-disc">
-                  {item}
-                </li>
-              ))}
-            </ul>
+      <div className="rounded-2xl border border-zinc-800 bg-zinc-950/70 p-6">
+        <h3 className="text-xl font-semibold tracking-tight">Tryotel App</h3>
+        <p className="mt-2 text-sm text-zinc-400">
+          Cross-platform travel technology solution focused on modern UX,
+          scalability, and business impact.
+        </p>
+        <div className="mt-4 flex flex-wrap gap-2">
+          {[
+            "React",
+            "Next.js",
+            "TypeScript",
+            "Flutter",
+            "Dart",
+            "Node.js",
+          ].map((tech) => (
+            <span
+              key={tech}
+              className="rounded-full border border-zinc-700 px-3 py-1 text-xs text-zinc-300"
+            >
+              {tech}
+            </span>
+          ))}
+        </div>
+
+        <div className="mt-6 grid gap-4 md:grid-cols-3">
+          <article className="rounded-xl border border-zinc-800 p-4">
+            <p className="text-xs uppercase tracking-[0.18em] text-zinc-500">Role</p>
+            <p className="mt-2 text-sm text-zinc-200">Senior Lead Software Engineer</p>
           </article>
-        ))}
+          <article className="rounded-xl border border-zinc-800 p-4">
+            <p className="text-xs uppercase tracking-[0.18em] text-zinc-500">Company</p>
+            <p className="mt-2 text-sm text-zinc-200">Saimon Global Ltd</p>
+          </article>
+          <article className="rounded-xl border border-zinc-800 p-4">
+            <p className="text-xs uppercase tracking-[0.18em] text-zinc-500">Timeline</p>
+            <p className="mt-2 text-sm text-zinc-200">2019 — 2024</p>
+          </article>
+        </div>
+
+        <a
+          href="#"
+          className="mt-6 inline-flex rounded-full bg-zinc-100 px-5 py-2.5 text-sm font-medium text-zinc-900 transition-opacity hover:opacity-90"
+        >
+          View Project
+        </a>
       </div>
     </section>
   );
