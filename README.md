@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# mahfuj.dev — Developer Portfolio
+
+A modern, animated developer portfolio built with **Next.js 14**, **TypeScript**, **TailwindCSS**, **Framer Motion**, and **React Three Fiber** for interactive 3D elements.
+
+**Live:** [mahfuj.dev](https://mahfuj.dev)
+
+## Features
+
+- ⚡ **Next.js 14** with App Router
+- 🎨 **TailwindCSS** for responsive design
+- ✨ **Framer Motion** for smooth animations
+- 🎯 **React Three Fiber** for 3D graphics and interactive backgrounds
+- 📱 **Fully Responsive** mobile-first design
+- ♿ **Accessible** and performant
+
+## Tech Stack
+
+- **Framework:** Next.js 14
+- **Language:** TypeScript
+- **Styling:** TailwindCSS
+- **Animations:** Framer Motion
+- **3D Graphics:** React Three Fiber, Three.js
+- **Package Manager:** npm
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+- Node.js 18+ and npm installed
+
+### Installation
+
+```bash
+git clone https://github.com/mahfuj02/mahfuj.dev.git
+cd mahfuj.dev
+npm install
+```
+
+### Development
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to see your portfolio.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Production Build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+npm run start
+```
 
-## Learn More
+## Deployment
 
-To learn more about Next.js, take a look at the following resources:
+Deploy easily to **Vercel** (recommended for Next.js):
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Push your code to GitHub
+2. Connect repo to [Vercel](https://vercel.com)
+3. Link your custom domain (`mahfuj.dev`)
+4. Auto-deploys on every push
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Project Structure
 
-## Deploy on Vercel
+```
+src/
+├── app/
+│   ├── layout.tsx      # Main layout
+│   ├── page.tsx        # Home page
+│   └── globals.css     # Global styles
+├── components/         # Reusable components
+│   ├── Hero.tsx
+│   ├── Projects.tsx
+│   ├── Experience.tsx
+│   └── Contact.tsx
+└── lib/               # Utilities
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+MIT
