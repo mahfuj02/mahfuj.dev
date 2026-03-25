@@ -10,7 +10,6 @@ export default function Home() {
     <main className="mx-auto w-full max-w-6xl flex-1 px-6 pb-16 pt-0 lg:pt-6">
       <HeroSection />
       <ExpertiseSection />
-      <MobilePreviewSection />
       <ProjectsSection />
       <ExperienceSection />
       <ContactSection />
