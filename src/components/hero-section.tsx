@@ -6,9 +6,13 @@ export function HeroSection() {
   return (
     <section
       id="home"
-      className="flex min-h-[76vh] items-center border-b border-zinc-900 py-16"
+      className="relative flex min-h-[76vh] items-center overflow-hidden border-b border-zinc-900 py-16"
     >
-      <div className="space-y-7">
+      <div className="hero-glow hero-glow-left" />
+      <div className="hero-glow hero-glow-right" />
+
+      <div className="relative z-10 grid w-full items-center gap-10 lg:grid-cols-[1.2fr_0.8fr]">
+        <div className="space-y-7">
         <motion.p
           initial={{ opacity: 0, y: 24 }}
           animate={{ opacity: 1, y: 0 }}
@@ -63,6 +67,25 @@ export function HeroSection() {
             >
               Contact
             </a>
+          </div>
+        </motion.div>
+        </div>
+
+        <motion.div
+          initial={{ opacity: 0, y: 24, scale: 0.96 }}
+          animate={{ opacity: 1, y: 0, scale: 1 }}
+          transition={{ duration: 0.65, delay: 0.2, ease: "easeOut" }}
+          className="relative mx-auto hidden h-80 w-80 items-center justify-center lg:flex"
+        >
+          <div className="hero-cube-wrap">
+            <div className="hero-cube">
+              <span className="hero-face hero-face-front" />
+              <span className="hero-face hero-face-back" />
+              <span className="hero-face hero-face-left" />
+              <span className="hero-face hero-face-right" />
+              <span className="hero-face hero-face-top" />
+              <span className="hero-face hero-face-bottom" />
+            </div>
           </div>
         </motion.div>
       </div>

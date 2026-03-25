@@ -52,3 +52,126 @@ html {
   scroll-behavior: smooth;
   scroll-padding-top: 5rem;
 }
+
+.hero-glow {
+  position: absolute;
+  z-index: 0;
+  width: 22rem;
+  height: 22rem;
+  border-radius: 9999px;
+  filter: blur(60px);
+  pointer-events: none;
+}
+
+.hero-glow-left {
+  top: -5rem;
+  left: -6rem;
+  background: rgba(63, 63, 70, 0.34);
+}
+
+.hero-glow-right {
+  right: -4rem;
+  bottom: -6rem;
+  background: rgba(82, 82, 91, 0.28);
+}
+
+.hero-cube-wrap {
+  position: relative;
+  width: 210px;
+  height: 210px;
+  perspective: 900px;
+}
+
+.hero-cube {
+  position: absolute;
+  inset: 0;
+  transform-style: preserve-3d;
+  animation: spinCube 14s linear infinite;
+}
+
+.hero-face {
+  position: absolute;
+  width: 210px;
+  height: 210px;
+  border: 1px solid rgba(161, 161, 170, 0.45);
+  background: linear-gradient(
+    135deg,
+    rgba(24, 24, 27, 0.65),
+    rgba(39, 39, 42, 0.35)
+  );
+  box-shadow: inset 0 0 24px rgba(161, 161, 170, 0.08);
+}
+
+.hero-face-front {
+  transform: translateZ(105px);
+}
+
+.hero-face-back {
+  transform: rotateY(180deg) translateZ(105px);
+}
+
+.hero-face-left {
+  transform: rotateY(-90deg) translateZ(105px);
+}
+
+.hero-face-right {
+  transform: rotateY(90deg) translateZ(105px);
+}
+
+.hero-face-top {
+  transform: rotateX(90deg) translateZ(105px);
+}
+
+.hero-face-bottom {
+  transform: rotateX(-90deg) translateZ(105px);
+}
+
+.mobile-3d-wrap {
+  perspective: 1200px;
+}
+
+.mobile-frame {
+  width: 220px;
+  height: 430px;
+  border-radius: 2.2rem;
+  border: 1px solid rgba(82, 82, 91, 0.9);
+  background: linear-gradient(180deg, rgba(24, 24, 27, 0.95), rgba(9, 9, 11, 0.92));
+  padding: 12px;
+  box-shadow: 0 28px 70px rgba(0, 0, 0, 0.55);
+}
+
+.mobile-notch {
+  margin: 0 auto 8px;
+  width: 88px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #27272a;
+}
+
+.mobile-screen {
+  position: relative;
+  height: calc(100% - 16px);
+  border-radius: 1.6rem;
+  border: 1px solid rgba(63, 63, 70, 0.9);
+  background: linear-gradient(180deg, #101014, #09090b);
+  padding: 14px;
+  overflow: hidden;
+}
+
+.mobile-screen-glow {
+  position: absolute;
+  inset: -22% auto auto -18%;
+  width: 180px;
+  height: 180px;
+  border-radius: 9999px;
+  background: radial-gradient(circle, rgba(113, 113, 122, 0.3), transparent 70%);
+}
+
+@keyframes spinCube {
+  0% {
+    transform: rotateX(-24deg) rotateY(0deg) rotateZ(10deg);
+  }
+  100% {
+    transform: rotateX(-24deg) rotateY(360deg) rotateZ(10deg);
+  }
+}
