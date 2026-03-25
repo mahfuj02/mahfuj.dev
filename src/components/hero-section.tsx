@@ -6,18 +6,61 @@ export function HeroSection() {
   return (
     <section
       id="home"
-      className="relative flex min-h-[76vh] items-center overflow-hidden border-b border-zinc-900 py-16"
+      className="relative flex min-h-[82vh] items-center overflow-hidden border-b border-zinc-900 py-16"
     >
-      <div className="hero-glow hero-glow-left" />
-      <div className="hero-glow hero-glow-right" />
+      <div className="hero-scene" aria-hidden="true">
+        <div className="hero-laptop-scene">
+          <div className="hero-laptop-screen">
+            <div className="hero-laptop-camera" />
+            <div className="hero-laptop-wallpaper" />
+            <div className="hero-laptop-code-row hero-laptop-code-row-1" />
+            <div className="hero-laptop-code-row hero-laptop-code-row-2" />
+            <div className="hero-laptop-code-row hero-laptop-code-row-3" />
+          </div>
+          <div className="hero-laptop-base" />
+          <div className="hero-keyboard">
+            <span />
+            <span />
+            <span />
+            <span />
+            <span />
+            <span />
+            <span />
+            <span />
+            <span />
+            <span />
+            <span />
+            <span />
+          </div>
+          <div className="hero-mouse" />
+        </div>
+        <div className="hero-orb" />
+        <div className="hero-lang-orbit hero-lang-orbit-outer">
+          <span>C++</span>
+          <span>TypeScript</span>
+          <span>Python</span>
+          <span>React</span>
+          <span>Next.js</span>
+          <span>Node.js</span>
+          <span>Java</span>
+          <span>C</span>
+        </div>
+        <div className="hero-lang-orbit hero-lang-orbit-inner">
+          <span>Django</span>
+          <span>PostgreSQL</span>
+          <span>Supabase</span>
+          <span>OpenAI</span>
+          <span>AWS</span>
+          <span>Docker</span>
+        </div>
+      </div>
 
-      <div className="relative z-10 grid w-full items-center gap-10 lg:grid-cols-[1.2fr_0.8fr]">
-        <div className="space-y-7">
+      <div className="relative z-10 w-full text-center">
         <motion.p
           initial={{ opacity: 0, y: 24 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, ease: "easeOut" }}
-          className="text-xs uppercase tracking-[0.25em] text-zinc-400"
+          className="text-xs uppercase tracking-[0.26em] text-zinc-300"
         >
           Software Engineer, Front End & App Developer
         </motion.p>
@@ -26,66 +69,33 @@ export function HeroSection() {
           initial={{ opacity: 0, y: 24 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.55, delay: 0.08, ease: "easeOut" }}
-          className="text-5xl font-bold tracking-tight sm:text-6xl"
+          className="mt-6 text-6xl font-bold tracking-tight text-zinc-100 sm:text-7xl lg:text-8xl"
         >
-          TAMAL SEN
+          MAHFUJ AHMED
         </motion.h1>
 
         <motion.p
           initial={{ opacity: 0, y: 24 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.55, delay: 0.16, ease: "easeOut" }}
-          className="max-w-3xl text-base leading-7 text-zinc-300 sm:text-lg"
+          className="mx-auto mt-7 max-w-4xl text-lg uppercase tracking-[0.22em] text-zinc-200 sm:text-2xl"
         >
-          I design and build production-grade web and mobile products using React,
-          Next.js, TypeScript, and Flutter. Collaborated on 140+ projects with 50+
-          clients worldwide.
+          Software Engineer, Front End & App Developer.
         </motion.p>
 
         <motion.div
           initial={{ opacity: 0, y: 24 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.55, delay: 0.24, ease: "easeOut" }}
-          className="space-y-3"
+          className="mt-14 space-y-4"
         >
-          <p className="text-xs uppercase tracking-[0.22em] text-zinc-500">As featured in</p>
-          <div className="flex flex-wrap gap-4 text-sm text-zinc-300">
-            <a className="transition-colors hover:text-white" href="https://www.wearedevelopers.com/" target="_blank" rel="noreferrer">WeAreDevelopers</a>
-            <a className="transition-colors hover:text-white" href="https://colorlib.com/" target="_blank" rel="noreferrer">Colorlib</a>
-            <a className="transition-colors hover:text-white" href="https://careerfoundry.com/" target="_blank" rel="noreferrer">CareerFoundry</a>
-          </div>
-          <div className="flex flex-wrap gap-3 pt-2">
-            <a
-              href="#work"
-              className="rounded-full bg-zinc-100 px-5 py-2.5 text-sm font-medium text-zinc-900 transition-opacity hover:opacity-90"
-            >
-              View Work
-            </a>
-            <a
-              href="#contact"
-              className="rounded-full border border-zinc-700 px-5 py-2.5 text-sm font-medium text-zinc-100 transition-colors hover:border-zinc-500"
-            >
-              Contact
-            </a>
-          </div>
-        </motion.div>
-        </div>
-
-        <motion.div
-          initial={{ opacity: 0, y: 24, scale: 0.96 }}
-          animate={{ opacity: 1, y: 0, scale: 1 }}
-          transition={{ duration: 0.65, delay: 0.2, ease: "easeOut" }}
-          className="relative mx-auto hidden h-80 w-80 items-center justify-center lg:flex"
-        >
-          <div className="hero-cube-wrap">
-            <div className="hero-cube">
-              <span className="hero-face hero-face-front" />
-              <span className="hero-face hero-face-back" />
-              <span className="hero-face hero-face-left" />
-              <span className="hero-face hero-face-right" />
-              <span className="hero-face hero-face-top" />
-              <span className="hero-face hero-face-bottom" />
-            </div>
+          <p className="text-xs uppercase tracking-[0.24em] text-zinc-500">As featured in</p>
+          <div className="flex flex-wrap items-center justify-center gap-x-7 gap-y-3 text-xl font-semibold text-zinc-500/70 sm:text-4xl">
+            <span>upwork</span>
+            <span>CAREERFOUNDRY</span>
+            <span>Frontend Mentor</span>
+            <span>WeAreDevelopers</span>
+            <span>colorlib</span>
           </div>
         </motion.div>
       </div>
