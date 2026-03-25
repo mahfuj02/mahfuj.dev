@@ -15,7 +15,7 @@ const testimonials = [
 
 export function ContactSection() {
   return (
-    <section id="contact" className="relative py-16 after:absolute after:bottom-0 after:left-0 after:right-0 after:h-32 after:bg-gradient-to-b after:from-transparent after:to-[#09090b] after:pointer-events-none">
+    <section id="contact" className="relative py-16 section-fade">
       <div className="mb-8 space-y-2">
         <h2 className="text-2xl font-semibold tracking-tight">Contact</h2>
         <p className="text-sm text-zinc-400">Available for product engineering and consulting work.</p>

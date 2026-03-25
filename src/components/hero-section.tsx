@@ -6,7 +6,7 @@ export function HeroSection() {
   return (
     <section
       id="home"
-      className="relative flex min-h-[115vh] items-center overflow-hidden border-b border-zinc-900 pb-28 pt-16 after:absolute after:bottom-0 after:left-0 after:right-0 after:h-32 after:bg-gradient-to-b after:from-transparent after:to-[#09090b] after:pointer-events-none"
+      className="relative flex min-h-[115vh] items-center overflow-hidden pb-28 pt-4 sm:pt-8 lg:pt-16 section-fade"
     >
       <div className="hero-scene" aria-hidden="true">
         <div className="hero-laptop-scene">
@@ -52,7 +52,7 @@ export function HeroSection() {
           initial={{ opacity: 0, y: 24 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, ease: "easeOut" }}
-          className="text-[10px] uppercase tracking-[0.24em] text-zinc-300 sm:text-xs"
+          className="text-[clamp(0.52rem,1.4vw,0.75rem)] uppercase tracking-[0.24em] text-zinc-300"
         >
           Software Engineer, Front End & App Developer
         </motion.p>
@@ -61,7 +61,7 @@ export function HeroSection() {
           initial={{ opacity: 0, y: 24 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.55, delay: 0.08, ease: "easeOut" }}
-          className="mt-5 text-5xl font-bold tracking-tight text-zinc-100 sm:text-6xl lg:text-7xl"
+          className="mt-5 text-[clamp(2rem,6.5vw,4.5rem)] font-bold tracking-tight text-zinc-100"
         >
           MAHFUJ AHMED
         </motion.h1>
@@ -70,7 +70,7 @@ export function HeroSection() {
           initial={{ opacity: 0, y: 24 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.55, delay: 0.16, ease: "easeOut" }}
-          className="mx-auto mt-5 max-w-3xl text-sm uppercase tracking-[0.18em] text-zinc-200 sm:text-lg"
+          className="mx-auto mt-5 max-w-3xl text-[clamp(0.62rem,1.8vw,1.05rem)] uppercase tracking-[0.16em] text-zinc-200"
         >
           Software Engineer, Front End & App Developer.
         </motion.p>
@@ -79,10 +79,10 @@ export function HeroSection() {
           initial={{ opacity: 0, y: 24 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.55, delay: 0.24, ease: "easeOut" }}
-          className="mt-8 space-y-3"
+          className="mt-7 space-y-2.5"
         >
           <p className="text-xs uppercase tracking-[0.24em] text-zinc-500">As featured in</p>
-          <div className="flex flex-wrap items-center justify-center gap-x-5 gap-y-2 text-sm font-semibold text-zinc-500/70 sm:text-xl">
+          <div className="flex flex-wrap items-center justify-center gap-x-4 gap-y-1.5 text-[clamp(0.72rem,1.9vw,1.25rem)] font-semibold text-zinc-500/70">
             <span>upwork</span>
             <span>CAREERFOUNDRY</span>
             <span>Frontend Mentor</span>

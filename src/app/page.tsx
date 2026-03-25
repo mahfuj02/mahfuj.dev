@@ -7,7 +7,7 @@ import { ProjectsSection } from "@/components/projects-section";
 
 export default function Home() {
   return (
-    <main className="mx-auto w-full max-w-6xl flex-1 px-6 pb-16 pt-24">
+    <main className="mx-auto w-full max-w-6xl flex-1 px-6 pb-16 pt-0 lg:pt-6">
       <HeroSection />
       <ExpertiseSection />
       <MobilePreviewSection />

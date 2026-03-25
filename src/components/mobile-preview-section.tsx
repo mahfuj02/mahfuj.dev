@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 export function MobilePreviewSection() {
   return (
-    <section className="relative border-b border-zinc-900 py-16 after:absolute after:bottom-0 after:left-0 after:right-0 after:h-32 after:bg-gradient-to-b after:from-transparent after:to-[#09090b] after:pointer-events-none">
+    <section className="relative py-16 section-fade">
       <div className="mb-8 space-y-2">
         <p className="text-xs uppercase tracking-[0.2em] text-zinc-500">Preview</p>
         <h2 className="text-2xl font-semibold tracking-tight">Product in motion</h2>

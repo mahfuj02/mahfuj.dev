@@ -11,7 +11,7 @@ const expertise = [
 
 export function ExpertiseSection() {
   return (
-    <section id="expertise" className="relative border-b border-zinc-900 py-16 after:absolute after:bottom-0 after:left-0 after:right-0 after:h-32 after:bg-gradient-to-b after:from-transparent after:to-[#09090b] after:pointer-events-none">
+    <section id="expertise" className="relative py-16 section-fade">
       <div className="mb-8 space-y-2">
         <h2 className="text-2xl font-semibold tracking-tight">Expertise</h2>
         <p className="text-sm text-zinc-400">
