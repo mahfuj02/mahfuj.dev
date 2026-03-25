@@ -68,10 +68,10 @@ export function ExpertiseSection() {
 
       <div className="relative overflow-hidden border border-zinc-600/80 bg-zinc-950/50">
         <pre className="pointer-events-none absolute -bottom-6 left-10 hidden text-xs leading-7 text-zinc-700/30 lg:block">
-{`<html lang="en">\n  <head>\n    <meta name="viewport" content="width=device-width, initial-scale=1.0" />\n    <title>What do I do</title>\n  </head>\n</html>`}
+{`<html lang="en">\n  <head>\n    <meta name="viewport" content="width=device-width, initial-scale=1.0" />\n    <title>Serious Builds, Funny Bugs</title>\n  </head>\n</html>`}
         </pre>
         <pre className="pointer-events-none absolute bottom-2 right-12 hidden text-xs leading-7 text-zinc-700/25 xl:block">
-{`<body>\n  <h1>Things I build</h1>\n  <section>frontend + backend + mobile</section>\n</body>`}
+{`<body>\n  <h1>We ship serious products, then laugh at one missing semicolon.</h1>\n  <section>frontend + backend + mobile</section>\n</body>`}
         </pre>
 
         <div className="relative z-10 grid grid-cols-1 lg:grid-cols-3">
