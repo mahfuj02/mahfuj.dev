@@ -59,6 +59,12 @@ html {
   pointer-events: none;
 }
 
+.hero-text-frame {
+  width: min(58vw, 680px);
+  margin: 0 auto;
+  padding-top: 3.2rem;
+}
+
 .hero-laptop-scene {
   position: absolute;
   left: 50%;
@@ -72,9 +78,9 @@ html {
 .hero-laptop-screen {
   position: absolute;
   left: 50%;
-  top: 14%;
-  width: min(54vw, 620px);
-  height: min(34vw, 360px);
+  top: 4%;
+  width: min(62vw, 760px);
+  height: min(38vw, 430px);
   transform: translateX(-50%);
   border-radius: 16px;
   border: 1px solid rgba(82, 82, 91, 0.85);
@@ -131,9 +137,9 @@ html {
 .hero-laptop-base {
   position: absolute;
   left: 50%;
-  top: calc(14% + min(34vw, 360px) - 6px);
-  width: min(60vw, 700px);
-  height: 30px;
+  top: calc(4% + min(38vw, 430px) - 6px);
+  width: min(66vw, 820px);
+  height: 34px;
   transform: translateX(-50%);
   border-radius: 0 0 18px 18px;
   background: linear-gradient(180deg, #3f3f46, #18181b);
@@ -141,36 +147,49 @@ html {
 
 .hero-keyboard {
   position: absolute;
-  left: 46%;
-  bottom: 8%;
-  width: min(40vw, 430px);
-  height: min(11vw, 120px);
-  transform: translateX(-50%) perspective(600px) rotateX(62deg);
-  border: 1px solid rgba(82, 82, 91, 0.7);
+  left: 50%;
+  top: calc(4% + min(38vw, 430px) + 62px);
+  width: min(48vw, 560px);
+  height: min(14vw, 156px);
+  transform: translateX(-50%) perspective(760px) rotateX(18deg);
+  border: 1px solid rgba(113, 113, 122, 0.72);
   border-radius: 14px;
-  background: linear-gradient(180deg, rgba(24, 24, 27, 0.9), rgba(9, 9, 11, 0.95));
+  background: linear-gradient(180deg, rgba(39, 39, 42, 0.92), rgba(9, 9, 11, 0.96));
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 6px;
-  padding: 10px;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 9px;
+  padding: 14px;
+  pointer-events: auto;
+  box-shadow:
+    0 14px 30px rgba(0, 0, 0, 0.42),
+    inset 0 1px 0 rgba(228, 228, 231, 0.18);
 }
 
-.hero-keyboard span {
-  border-radius: 6px;
-  background: linear-gradient(180deg, rgba(82, 82, 91, 0.78), rgba(39, 39, 42, 0.85));
+.hero-keyboard a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  border: 1px solid rgba(161, 161, 170, 0.55);
+  background: linear-gradient(180deg, rgba(113, 113, 122, 0.95), rgba(63, 63, 70, 0.95));
+  color: rgba(250, 250, 250, 0.98);
+  text-transform: uppercase;
+  font-size: clamp(0.62rem, 0.78vw, 0.92rem);
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  line-height: 1;
+  text-decoration: none;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.45);
+  transition: transform 160ms ease, background-color 160ms ease, border-color 160ms ease;
+  box-shadow:
+    0 2px 0 rgba(24, 24, 27, 0.9),
+    inset 0 1px 0 rgba(244, 244, 245, 0.28);
 }
 
-.hero-mouse {
-  position: absolute;
-  left: calc(46% + min(24vw, 270px));
-  bottom: 10.5%;
-  width: min(7vw, 74px);
-  height: min(10vw, 104px);
-  border-radius: 9999px;
-  border: 1px solid rgba(82, 82, 91, 0.7);
-  background: linear-gradient(180deg, rgba(39, 39, 42, 0.95), rgba(9, 9, 11, 0.98));
-  transform: perspective(520px) rotateX(56deg) rotateZ(-10deg);
-  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.35);
+.hero-keyboard a:hover {
+  transform: translateY(-1px) scale(1.01);
+  background: linear-gradient(180deg, rgba(125, 211, 252, 0.78), rgba(37, 99, 235, 0.72));
+  border-color: rgba(186, 230, 253, 0.92);
 }
 
 .hero-orb {
@@ -178,8 +197,8 @@ html {
   width: 82px;
   height: 82px;
   border-radius: 9999px;
-  left: 63%;
-  top: 19%;
+  left: 88%;
+  top: 5%;
   background: radial-gradient(circle at 35% 28%, #ffe8a3 0%, #f8b070 42%, #ec7d4f 68%, #b64554 100%);
   box-shadow:
     0 0 24px rgba(255, 196, 123, 0.72),
@@ -346,37 +365,42 @@ html {
 }
 
 @media (max-width: 1024px) {
+  .hero-text-frame {
+    width: min(84vw, 600px);
+    padding-top: 1.8rem;
+  }
+
   .hero-laptop-scene {
     transform: translate(-50%, -46%);
   }
 
   .hero-laptop-screen {
-    width: min(72vw, 560px);
-    height: min(42vw, 300px);
+    top: 10%;
+    width: min(84vw, 640px);
+    height: min(46vw, 340px);
   }
 
   .hero-laptop-base {
-    width: min(78vw, 620px);
-    top: calc(14% + min(42vw, 300px) - 4px);
+    width: min(88vw, 700px);
+    top: calc(10% + min(46vw, 340px) - 4px);
   }
 
   .hero-keyboard {
     left: 50%;
-    bottom: 7%;
-    width: min(56vw, 420px);
-    height: min(16vw, 110px);
+    top: calc(10% + min(46vw, 340px) + 38px);
+    width: min(86vw, 520px);
+    height: min(22vw, 146px);
+    transform: translateX(-50%) perspective(700px) rotateX(12deg);
   }
 
-  .hero-mouse {
-    left: calc(50% + min(34vw, 240px));
-    bottom: 9.6%;
-    width: min(9vw, 70px);
-    height: min(13vw, 96px);
+  .hero-keyboard a {
+    font-size: clamp(0.58rem, 1.2vw, 0.78rem);
+    letter-spacing: 0.04em;
   }
 
   .hero-orb {
-    left: 64%;
-    top: 18%;
+    left: 88%;
+    top: 4%;
     width: 66px;
     height: 66px;
   }
