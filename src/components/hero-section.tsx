@@ -48,19 +48,10 @@ export function HeroSection() {
       </div>
 
       <div className="hero-text-frame relative z-10 text-center">
-        <motion.p
-          initial={{ opacity: 0, y: 24 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5, ease: "easeOut" }}
-          className="text-[clamp(0.52rem,1.4vw,0.75rem)] uppercase tracking-[0.24em] text-zinc-300"
-        >
-          Software Engineer, Front End & App Developer
-        </motion.p>
-
         <motion.h1
           initial={{ opacity: 0, y: 24 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.55, delay: 0.08, ease: "easeOut" }}
+          transition={{ duration: 0.55, delay: 0, ease: "easeOut" }}
           className="mt-5 text-[clamp(2rem,6.5vw,4.5rem)] font-bold tracking-tight text-zinc-100"
         >
           MAHFUJ AHMED
@@ -69,25 +60,24 @@ export function HeroSection() {
         <motion.p
           initial={{ opacity: 0, y: 24 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.55, delay: 0.16, ease: "easeOut" }}
+          transition={{ duration: 0.55, delay: 0.08, ease: "easeOut" }}
           className="mx-auto mt-5 max-w-3xl text-[clamp(0.62rem,1.8vw,1.05rem)] uppercase tracking-[0.16em] text-zinc-200"
         >
-          Software Engineer, Front End & App Developer.
+          Full Stack Web and App Developer
         </motion.p>
 
         <motion.div
           initial={{ opacity: 0, y: 24 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.55, delay: 0.24, ease: "easeOut" }}
+          transition={{ duration: 0.55, delay: 0.16, ease: "easeOut" }}
           className="mt-7 space-y-2.5"
         >
-          <p className="text-xs uppercase tracking-[0.24em] text-zinc-500">As featured in</p>
+          <p className="text-xs uppercase tracking-[0.24em] text-zinc-500">Problem Solving & Competitions</p>
           <div className="flex flex-wrap items-center justify-center gap-x-4 gap-y-1.5 text-[clamp(0.72rem,1.9vw,1.25rem)] font-semibold text-zinc-500/70">
-            <span>upwork</span>
-            <span>CAREERFOUNDRY</span>
-            <span>Frontend Mentor</span>
-            <span>WeAreDevelopers</span>
-            <span>colorlib</span>
+            <span>Codeforces</span>
+            <span>LeetCode</span>
+            <span>Hackathon</span>
+            <span>ICPC</span>
           </div>
         </motion.div>
       </div>
