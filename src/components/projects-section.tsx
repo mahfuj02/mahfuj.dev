@@ -1,17 +1,13 @@
 "use client";
 
 import dynamic from "next/dynamic";
-import { motion } from "framer-motion";
 
-const filters = [{ label: "All", count: "10" }];
+const filters = [{ label: "All", count: "03" }];
 
 const projects = [
   { title: "Flight Local (B2B Travel Solution)", category: "Web Development" },
   { title: "AI Lab Granada", category: "Data Visualization" },
   { title: "Khora - Urban Thinkers", category: "Web Development" },
-  { title: "Tryotel Mobile App", category: "Mobile Development" },
-  { title: "Analytics Dashboard", category: "Data Visualization" },
-  { title: "Enterprise Booking Portal", category: "Web Development" },
 ];
 
 const IphoneModelViewer = dynamic(() => import("./iphone-model-viewer").then((mod) => mod.IphoneModelViewer), {
@@ -52,13 +48,13 @@ export function ProjectsSection() {
         </div>
       </div>
 
-      <div className="mt-12 flex flex-wrap items-center gap-3 text-4xl font-semibold text-zinc-500">
+      <div className="mt-12 flex flex-wrap items-center gap-3 text-xl font-semibold text-zinc-500">
         <span>Filter by</span>
         {filters.map((item, index) => (
           <div key={item.label} className="flex items-start gap-3">
             <button
               type="button"
-              className={`transition-colors ${index === 0 ? "text-cyan-300" : "text-zinc-400 hover:text-zinc-200"}`}
+              className={`font-mono text-base transition-colors ${index === 0 ? "text-cyan-300" : "text-zinc-400 hover:text-zinc-200"}`}
             >
               {item.label}
             </button>
@@ -68,27 +64,38 @@ export function ProjectsSection() {
         ))}
       </div>
 
-      <div className="mt-10 grid gap-6 md:grid-cols-2 xl:grid-cols-3">
-        {projects.map((project, index) => (
-          <article key={project.title} className="overflow-hidden rounded-xl border border-zinc-800 bg-zinc-900/70">
-            <div
-              className={`h-72 border-b border-zinc-800 bg-gradient-to-br ${
-                index % 3 === 0
-                  ? "from-zinc-100 via-zinc-200 to-zinc-300"
-                  : index % 3 === 1
-                    ? "from-zinc-700 via-zinc-800 to-zinc-950"
-                    : "from-zinc-200 via-zinc-300 to-zinc-100"
-              }`}
-            />
-            <div className="p-6">
-              <h3 className="line-clamp-1 text-4xl font-bold text-zinc-100">{project.title}</h3>
-              <p className="mt-2 text-2xl font-semibold text-zinc-400">{project.category}</p>
-              <p className="mt-4 text-2xl font-semibold text-zinc-100">
+      <div className="mt-10 w-full">
+        <div className="grid gap-6 lg:grid-cols-2">
+          {projects.slice(0, 2).map((project, index) => (
+            <article key={project.title} className="overflow-hidden rounded-xl border border-zinc-800/80 bg-zinc-900/60">
+              <div
+                className={`h-72 border-b border-zinc-800 bg-gradient-to-br ${
+                  index % 2 === 0 ? "from-zinc-100 via-zinc-200 to-zinc-300" : "from-zinc-700 via-zinc-800 to-zinc-950"
+                }`}
+              />
+              <div className="p-5">
+                <h3 className="line-clamp-1 text-2xl font-bold text-zinc-100">{project.title}</h3>
+                <p className="mt-2 text-lg font-semibold text-zinc-400">{project.category}</p>
+                <p className="mt-3 text-lg font-semibold text-zinc-100">
+                  Show project <span className="ml-2 text-zinc-400">—</span>
+                </p>
+              </div>
+            </article>
+          ))}
+        </div>
+
+        <div className="mt-6 flex justify-center">
+          <article className="w-full lg:w-[72%] overflow-hidden rounded-xl border border-zinc-800/80 bg-zinc-900/60">
+            <div className="h-72 border-b border-zinc-800 bg-gradient-to-br from-zinc-200 via-zinc-300 to-zinc-100" />
+            <div className="p-5">
+              <h3 className="line-clamp-1 text-2xl font-bold text-zinc-100">{projects[2].title}</h3>
+              <p className="mt-2 text-lg font-semibold text-zinc-400">{projects[2].category}</p>
+              <p className="mt-3 text-lg font-semibold text-zinc-100">
                 Show project <span className="ml-2 text-zinc-400">—</span>
               </p>
             </div>
           </article>
-        ))}
+        </div>
       </div>
     </section>
   );

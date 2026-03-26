@@ -2,7 +2,6 @@ import { ContactSection } from "@/components/contact-section";
 import { ExperienceSection } from "@/components/experience-section";
 import { ExpertiseSection } from "@/components/expertise-section";
 import { HeroSection } from "@/components/hero-section";
-import { MobilePreviewSection } from "@/components/mobile-preview-section";
 import { ProjectsSection } from "@/components/projects-section";
 
 export default function Home() {
