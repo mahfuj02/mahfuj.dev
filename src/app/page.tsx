@@ -3,6 +3,7 @@ import { ExperienceSection } from "@/components/experience-section";
 import { ExpertiseSection } from "@/components/expertise-section";
 import { HeroSection } from "@/components/hero-section";
 import { ProjectsSection } from "@/components/projects-section";
+import { ScrollTopButton } from "@/components/scroll-top-button";
 import { SiteHeader } from "@/components/site-header";
 
 export default function Home() {
@@ -16,6 +17,7 @@ export default function Home() {
         <ExperienceSection />
         <ContactSection />
       </main>
+      <ScrollTopButton />
     </>
   );
 }

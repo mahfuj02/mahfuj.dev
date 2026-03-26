@@ -1,0 +1,25 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#0A0A0D"/>
+  <rect x="120" y="120" width="1360" height="660" rx="36" fill="url(#panel)" stroke="#2A2A33"/>
+  <rect x="190" y="200" width="360" height="40" rx="12" fill="#22242D"/>
+  <rect x="190" y="268" width="520" height="18" rx="9" fill="#2E3240"/>
+  <rect x="190" y="304" width="430" height="18" rx="9" fill="#2E3240"/>
+  <rect x="190" y="340" width="470" height="18" rx="9" fill="#2E3240"/>
+
+  <rect x="810" y="200" width="560" height="390" rx="22" fill="#14161D" stroke="#2D3140"/>
+  <path d="M870 500C950 380 1010 520 1080 420C1140 330 1240 390 1310 310" stroke="#67E8F9" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="870" cy="500" r="10" fill="#67E8F9"/>
+  <circle cx="1080" cy="420" r="10" fill="#67E8F9"/>
+  <circle cx="1310" cy="310" r="10" fill="#67E8F9"/>
+
+  <rect x="190" y="470" width="140" height="110" rx="16" fill="#171A23"/>
+  <rect x="350" y="470" width="140" height="110" rx="16" fill="#171A23"/>
+  <rect x="510" y="470" width="140" height="110" rx="16" fill="#171A23"/>
+
+  <defs>
+    <linearGradient id="panel" x1="120" y1="120" x2="1480" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11131A"/>
+      <stop offset="1" stop-color="#0B0D13"/>
+    </linearGradient>
+  </defs>
+</svg>

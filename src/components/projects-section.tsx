@@ -1,14 +1,10 @@
 "use client";
 
 import dynamic from "next/dynamic";
+import Link from "next/link";
+import { projects } from "@/data/projects";
 
 const filters = [{ label: "All", count: "03" }];
-
-const projects = [
-  { title: "Flight Local (B2B Travel Solution)", category: "Web Development" },
-  { title: "AI Lab Granada", category: "Data Visualization" },
-  { title: "Khora - Urban Thinkers", category: "Web Development" },
-];
 
 const IphoneModelViewer = dynamic(() => import("./iphone-model-viewer").then((mod) => mod.IphoneModelViewer), {
   ssr: false,
@@ -16,6 +12,8 @@ const IphoneModelViewer = dynamic(() => import("./iphone-model-viewer").then((mo
 });
 
 export function ProjectsSection() {
+  const thirdProject = projects[2];
+
   return (
     <section id="work" className="relative py-20 section-fade">
       <div className="grid gap-12 lg:grid-cols-[1.05fr_1fr] lg:items-start">
@@ -76,9 +74,12 @@ export function ProjectsSection() {
               <div className="p-5">
                 <h3 className="line-clamp-1 text-2xl font-bold text-zinc-100">{project.title}</h3>
                 <p className="mt-2 text-lg font-semibold text-zinc-400">{project.category}</p>
-                <p className="mt-3 text-lg font-semibold text-zinc-100">
-                  Show project <span className="ml-2 text-zinc-400">—</span>
-                </p>
+                <Link
+                  href={`/projects/${project.slug}`}
+                  className="mt-3 inline-flex items-center gap-2 text-base font-semibold text-zinc-200 transition-colors hover:text-zinc-100"
+                >
+                  View project <span className="text-zinc-400">↗</span>
+                </Link>
               </div>
             </article>
           ))}
@@ -88,11 +89,14 @@ export function ProjectsSection() {
           <article className="w-full lg:w-[72%] overflow-hidden rounded-xl border border-zinc-800/80 bg-zinc-900/60">
             <div className="h-72 border-b border-zinc-800 bg-gradient-to-br from-zinc-200 via-zinc-300 to-zinc-100" />
             <div className="p-5">
-              <h3 className="line-clamp-1 text-2xl font-bold text-zinc-100">{projects[2].title}</h3>
-              <p className="mt-2 text-lg font-semibold text-zinc-400">{projects[2].category}</p>
-              <p className="mt-3 text-lg font-semibold text-zinc-100">
-                Show project <span className="ml-2 text-zinc-400">—</span>
-              </p>
+              <h3 className="line-clamp-1 text-2xl font-bold text-zinc-100">{thirdProject.title}</h3>
+              <p className="mt-2 text-lg font-semibold text-zinc-400">{thirdProject.category}</p>
+              <Link
+                href={`/projects/${thirdProject.slug}`}
+                className="mt-3 inline-flex items-center gap-2 text-base font-semibold text-zinc-200 transition-colors hover:text-zinc-100"
+              >
+                View project <span className="text-zinc-400">↗</span>
+              </Link>
             </div>
           </article>
         </div>
