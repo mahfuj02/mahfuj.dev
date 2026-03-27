@@ -14,10 +14,10 @@ const expertiseColumns = [
     accent: "from-sky-400 to-blue-500",
   },
   {
-    title: "Android & iOS Dev",
+    title: "Android & iOS Developer",
     icon: "mobile",
-    stack: ["React Native", "Supabase"],
-    summary: "Deliver polished cross-platform mobile experiences with native-quality performance and interactions.",
+    stack: ["React Native", "Supabase", "OpenAI API"],
+    summary: "Implemented a cross-platform mobile app during industrial experience using React Native and Supabase, with an OpenAI-powered chat assistant to help autistic users practice and improve communication skills.",
     accent: "from-orange-400 to-amber-500",
   },
 ];
