@@ -2,15 +2,15 @@ const expertiseColumns = [
   {
     title: "Software Developer",
     icon: "software",
-    stack: ["Python", "C++"],
-    summary: "Build reliable backend and product systems with clean architecture and scalable foundations.",
+    stack: ["C++", "C", "Python"],
+    summary: "Deep problem-solving skills through competitive coding. Proficient in algorithms, data structures, and core software engineering principles that form the backbone of reliable systems.",
     accent: "from-fuchsia-500 to-pink-500",
   },
   {
     title: "Full Stack Developer",
     icon: "fullstack",
-    stack: ["Next.js", "TypeScript"],
-    summary: "Create fast and accessible user interfaces with strong component design and production-ready UX.",
+    stack: ["React", "Next.js", "TypeScript", "Django", "Rails", "Python"],
+    summary: "Build modern web applications across the full stack. React and Next.js on the frontend, Django and Rails on the backend. Focused on type-safe, scalable, production-ready systems.",
     accent: "from-sky-400 to-blue-500",
   },
   {
@@ -88,7 +88,7 @@ export function ExpertiseSection() {
               </div>
               <div className={`mt-2 h-1.5 w-32 rounded-full bg-gradient-to-r ${item.accent}`} />
 
-              <ul className="mt-6 space-y-2 text-xl font-semibold text-zinc-100">
+              <ul className="mt-6 flex flex-wrap gap-x-6 gap-y-2 text-xl font-semibold text-zinc-100">
                 {item.stack.map((tech) => (
                   <li key={tech}>{tech}</li>
                 ))}
