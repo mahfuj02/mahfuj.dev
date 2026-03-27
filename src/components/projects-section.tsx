@@ -20,8 +20,9 @@ export function ProjectsSection() {
         <div>
           <h2 className="text-7xl font-bold leading-[0.95] tracking-tight text-zinc-100 sm:text-8xl">My Work</h2>
           <p className="mt-16 max-w-xl font-mono text-2xl leading-snug text-zinc-200">
-            Deployed scalable travel, event and telemedicine web and hybrid mobile apps using React SPA and PWA.
-            Collaborated in 140+ projects with 50+ clients all around the world.
+            Build modern full-stack web and cross-platform mobile applications using React, Next.js, TypeScript, Django,
+            Rails, and React Native.
+            Recent work also includes AI-assisted experiences powered by OpenAI to support real user communication needs.
           </p>
         </div>
 
