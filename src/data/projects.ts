@@ -69,30 +69,30 @@ export const projects: Project[] = [
       "Strengthened my frontend engineering foundation and demonstrated practical skills in building API-powered React applications end-to-end.",
   },
   {
-    id: "khora",
-    slug: "khora-urban-thinkers",
-    title: "Khora - Urban Thinkers",
-    category: "Web Development",
-    bannerImage: "/projects/khora-banner.svg",
-    bannerAlt: "Khora Urban Thinkers website banner",
-    year: "2023",
-    role: "Frontend Developer",
+    id: "manitoba-outdoor-adventure-gear",
+    slug: "manitoba-outdoor-adventure-gear",
+    title: "Manitoba Outdoor Adventure Gear",
+    category: "Full Stack Web Development",
+    bannerImage: "/projects/outdoor-adventure.jpg",
+    bannerAlt: "Manitoba Outdoor Adventure Gear project banner",
+    year: "2024",
+    role: "Full Stack Developer",
     summary:
-      "A responsive website experience for urban planning consultation, built with modular sections and CMS-friendly content blocks.",
+      "A full-stack outdoor gear platform for browsing products, managing inventory, and supporting smooth shopping flows with a Next.js frontend and Ruby on Rails backend.",
     details: [
-      "Developed responsive frontend pages for urban planning and consultation workflows.",
-      "Built component-driven layouts to keep branding and UX consistent site-wide.",
-      "Implemented content modules and CMS-friendly sections for rapid updates.",
-      "Enhanced accessibility and mobile usability across key conversion pages.",
-      "Delivered performance improvements through asset optimization and code cleanup.",
+      "Built a production-style full-stack application with Next.js on the frontend and Ruby on Rails on the backend.",
+      "Implemented product browsing, category organization, and detail views to improve shopping discovery.",
+      "Connected frontend workflows to backend APIs for inventory and catalog data operations.",
+      "Focused on responsive UI patterns for desktop and mobile users with cleaner navigation flows.",
+      "Strengthened end-to-end development skills by handling both frontend experience and backend integration.",
     ],
-    stack: ["Next.js", "React", "Tailwind CSS", "CMS Integration", "Accessibility"],
+    stack: ["Next.js", "Ruby on Rails", "REST API", "Responsive UI", "Full Stack Architecture"],
     challenge:
-      "The team needed an editorial-friendly site that could evolve quickly while staying visually consistent.",
+      "The project required delivering a smooth storefront experience while coordinating frontend interactions with a Rails-powered backend.",
     solution:
-      "Created reusable content blocks and a responsive design system with strong accessibility and performance standards.",
+      "Designed a component-driven frontend and integrated it with backend endpoints to keep data flows consistent and the shopping journey clear.",
     impact:
-      "Reduced publishing friction, improved mobile engagement, and kept brand expression consistent across pages.",
+      "Showcased practical full-stack capability with Next.js and Ruby on Rails, improving confidence in building complete web products end-to-end.",
   },
 ];
 

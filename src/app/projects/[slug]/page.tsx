@@ -58,7 +58,7 @@ export default async function ProjectPage({
                 src={project.bannerImage}
                 alt={project.bannerAlt}
                 fill
-                className="object-cover"
+                className="object-contain"
                 priority
                 sizes="(min-width: 1024px) 60vw, 100vw"
               />
