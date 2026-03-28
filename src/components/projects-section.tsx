@@ -1,6 +1,7 @@
 "use client";
 
 import dynamic from "next/dynamic";
+import Image from "next/image";
 import Link from "next/link";
 import { projects } from "@/data/projects";
 
@@ -65,13 +66,11 @@ export function ProjectsSection() {
 
       <div className="mt-10 w-full">
         <div className="grid gap-6 lg:grid-cols-2">
-          {projects.slice(0, 2).map((project, index) => (
+          {projects.slice(0, 2).map((project) => (
             <article key={project.title} className="overflow-hidden rounded-xl border border-zinc-800/80 bg-zinc-900/60">
-              <div
-                className={`h-72 border-b border-zinc-800 bg-gradient-to-br ${
-                  index % 2 === 0 ? "from-zinc-100 via-zinc-200 to-zinc-300" : "from-zinc-700 via-zinc-800 to-zinc-950"
-                }`}
-              />
+              <div className="relative h-72 border-b border-zinc-800 bg-zinc-950">
+                <Image src={project.bannerImage} alt={project.bannerAlt} fill className="object-cover" sizes="(min-width: 1024px) 50vw, 100vw" />
+              </div>
               <div className="p-5">
                 <h3 className="line-clamp-1 text-2xl font-bold text-zinc-100">{project.title}</h3>
                 <p className="mt-2 text-lg font-semibold text-zinc-400">{project.category}</p>
@@ -88,7 +87,15 @@ export function ProjectsSection() {
 
         <div className="mt-6 flex justify-center">
           <article className="w-full lg:w-[72%] overflow-hidden rounded-xl border border-zinc-800/80 bg-zinc-900/60">
-            <div className="h-72 border-b border-zinc-800 bg-gradient-to-br from-zinc-200 via-zinc-300 to-zinc-100" />
+            <div className="relative h-72 border-b border-zinc-800 bg-zinc-950">
+              <Image
+                src={thirdProject.bannerImage}
+                alt={thirdProject.bannerAlt}
+                fill
+                className="object-cover"
+                sizes="(min-width: 1024px) 72vw, 100vw"
+              />
+            </div>
             <div className="p-5">
               <h3 className="line-clamp-1 text-2xl font-bold text-zinc-100">{thirdProject.title}</h3>
               <p className="mt-2 text-lg font-semibold text-zinc-400">{thirdProject.category}</p>

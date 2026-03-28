@@ -17,30 +17,30 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    id: "flight-local",
-    slug: "flight-local",
-    title: "Flight Local (B2B Travel Solution)",
-    category: "Web Development",
-    bannerImage: "/projects/flight-local-banner.svg",
-    bannerAlt: "Flight Local project dashboard banner",
+    id: "connexions-spectrum",
+    slug: "connexions-spectrum",
+    title: "Connexions Spectrum",
+    category: "Mobile App Development",
+    bannerImage: "/projects/connexions.jpg",
+    bannerAlt: "Connexions Spectrum mobile app banner",
     year: "2025",
-    role: "Frontend Developer",
+    role: "Mobile App Developer",
     summary:
-      "A B2B travel platform for agencies to search itineraries, configure partner pricing, and complete bookings through a role-based dashboard.",
+      "Connexions Spectrum is an Android and iOS communication support app for autistic users, combining anonymous peer matching, guided conversation practice, and emergency guardian assistance.",
     details: [
-      "Built a complete B2B travel workflow for agencies with role-based dashboards.",
-      "Integrated booking pipelines and custom pricing rules for partner accounts.",
-      "Optimized API interactions for faster itinerary search and response times.",
-      "Implemented reusable UI modules for reporting, reservations, and support actions.",
-      "Added QA checks and release notes to reduce regressions in deployment cycles.",
+      "Built a cross-platform Android and iOS app with React Native, with shared logic and responsive mobile-first flows.",
+      "Implemented point-based matching so users can connect with suitable peers and communicate in an anonymous and safer space.",
+      "Integrated an OpenAI-powered chat assistant to help users practice conversation and gradually improve communication confidence.",
+      "Added a panic button workflow that can alert guardians quickly when users feel unsafe or need immediate support.",
+      "Designed and delivered production-ready UI/UX from Figma concepts with Supabase-backed data and real-time app interactions.",
     ],
-    stack: ["Next.js", "React", "TypeScript", "REST API", "Tailwind CSS"],
+    stack: ["React Native", "TanStack Query", "OpenAI API", "Supabase", "Figma"],
     challenge:
-      "Agency users needed flexible pricing and quick itinerary search without a complex learning curve.",
+      "Users needed a communication-focused app that feels safe, inclusive, and supportive, while balancing privacy, emotional safety, and real-time assistance.",
     solution:
-      "Designed a modular dashboard with guided booking steps, partner pricing controls, and shared UI components across operations.",
+      "Developed an AI-assisted communication experience with anonymous matching, conversational guidance, and a guardian escalation path through a panic button system.",
     impact:
-      "Improved operator speed, reduced repetitive support interactions, and made release cycles more reliable.",
+      "Created a practical support platform that helps autistic users build communication habits and access timely help when needed.",
   },
   {
     id: "ai-lab-granada",
