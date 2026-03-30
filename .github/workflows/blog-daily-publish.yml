@@ -31,6 +31,7 @@ jobs:
         run: npm ci
 
       - name: Publish one post from queue
+        id: publish
         run: |
           if [ "${{ github.event.inputs.force || 'false' }}" = "true" ]; then
             node scripts/blog/publish-from-queue.mjs --force
@@ -48,6 +49,8 @@ jobs:
           git config user.name "${{ secrets.GH_COMMIT_NAME || vars.GH_COMMIT_NAME || 'mahfuj02' }}"
           git config user.email "${{ secrets.GH_COMMIT_EMAIL || vars.GH_COMMIT_EMAIL || 'mahfuj02@users.noreply.github.com' }}"
 
+          COMMIT_MESSAGE="${{ steps.publish.outputs.commit_message || 'chore(blog): update staged blog workflow state' }}"
+
           git add data/blog/posts.json data/blog/queue.json data/blog/used-problems.json data/blog/runs.json
-          git commit -m "chore(blog): publish daily draft"
+          git commit -m "$COMMIT_MESSAGE"
           git push
