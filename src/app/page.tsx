@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <SiteHeader />
-      <main className="mx-auto w-full max-w-6xl flex-1 px-6 pb-16 pt-0 lg:pt-6">
+      <main className="mx-auto w-full max-w-6xl flex-1 px-4 pb-16 pt-16 sm:px-6 md:pt-0 lg:pt-6">
         <HeroSection />
         <ExpertiseSection />
         <ProjectsSection />

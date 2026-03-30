@@ -16,11 +16,11 @@ export function ProjectsSection() {
   const thirdProject = projects[2];
 
   return (
-    <section id="work" className="relative py-20 section-fade">
+    <section id="work" className="relative py-16 sm:py-20 section-fade">
       <div className="grid gap-12 lg:grid-cols-[1.05fr_1fr] lg:items-start">
-        <div>
-          <h2 className="text-7xl font-bold leading-[0.95] tracking-tight text-zinc-100 sm:text-8xl">My Work</h2>
-          <p className="mt-16 max-w-xl font-mono text-2xl leading-snug text-zinc-200">
+        <div className="min-w-0">
+          <h2 className="text-5xl font-bold leading-[0.95] tracking-tight text-zinc-100 sm:text-7xl lg:text-8xl">My Work</h2>
+          <p className="mt-6 max-w-xl break-words [overflow-wrap:anywhere] font-mono text-base leading-relaxed text-zinc-200 sm:mt-10 sm:text-lg lg:mt-16 lg:text-2xl">
             Build modern full-stack web and cross-platform mobile applications using React, Next.js, TypeScript, Django,
             Rails, and React Native.
             Recent work also includes AI-assisted experiences powered by OpenAI to support real user communication needs.
