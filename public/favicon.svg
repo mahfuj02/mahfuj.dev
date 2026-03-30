@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Laptop icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="4" width="92" height="92" rx="20" fill="url(#bg)" />
+
+  <rect x="26" y="24" width="48" height="34" rx="5" fill="url(#screen)" stroke="#334155" stroke-width="2" />
+  <rect x="31" y="29" width="38" height="22" rx="3" fill="#020617" />
+  <path d="M34 44h32" stroke="url(#glow)" stroke-width="2.5" stroke-linecap="round" />
+
+  <path d="M18 62h64l-6 11H24z" fill="#1f2937" stroke="#374151" stroke-width="2" stroke-linejoin="round" />
+  <rect x="43" y="66" width="14" height="2.8" rx="1.4" fill="#9ca3af" />
+</svg>
