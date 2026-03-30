@@ -1,3 +1,244 @@
 {
-  "items": []
+  "items": [
+    {
+      "problemKey": "leetcode:1999",
+      "post": {
+        "slug": "longer-contiguous-segments-of-ones-than-zeros-solution-notes",
+        "title": "Longer Contiguous Segments of Ones than Zeros: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Longer Contiguous Segments of Ones than Zeros with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Longer Contiguous Segments of Ones than Zeros",
+        "sourceUrl": "https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Longer Contiguous Segments of Ones than Zeros with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Longer Contiguous Segments of Ones than Zeros\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Longer Contiguous Segments of Ones than Zeros\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Longer Contiguous Segments of Ones than Zeros\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:516",
+      "post": {
+        "slug": "longest-palindromic-subsequence-solution-notes",
+        "title": "Longest Palindromic Subsequence: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Longest Palindromic Subsequence with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Longest Palindromic Subsequence",
+        "sourceUrl": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Longest Palindromic Subsequence with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Longest Palindromic Subsequence\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Longest Palindromic Subsequence\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Longest Palindromic Subsequence\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3000",
+      "post": {
+        "slug": "minimum-absolute-difference-between-elements-with-constraint-solution-notes",
+        "title": "Minimum Absolute Difference Between Elements With Constraint: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Minimum Absolute Difference Between Elements With Constraint with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Minimum Absolute Difference Between Elements With Constraint",
+        "sourceUrl": "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Minimum Absolute Difference Between Elements With Constraint with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Minimum Absolute Difference Between Elements With Constraint\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Minimum Absolute Difference Between Elements With Constraint\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Minimum Absolute Difference Between Elements With Constraint\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3731",
+      "post": {
+        "slug": "sum-of-variable-length-subarrays-solution-notes",
+        "title": "Sum of Variable Length Subarrays: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Sum of Variable Length Subarrays with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Sum of Variable Length Subarrays",
+        "sourceUrl": "https://leetcode.com/problems/sum-of-variable-length-subarrays/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Sum of Variable Length Subarrays with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Sum of Variable Length Subarrays\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Sum of Variable Length Subarrays\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Sum of Variable Length Subarrays\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2016",
+      "post": {
+        "slug": "reduction-operations-to-make-the-array-elements-equal-solution-notes",
+        "title": "Reduction Operations to Make the Array Elements Equal: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Reduction Operations to Make the Array Elements Equal with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Reduction Operations to Make the Array Elements Equal",
+        "sourceUrl": "https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Reduction Operations to Make the Array Elements Equal with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Reduction Operations to Make the Array Elements Equal\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Reduction Operations to Make the Array Elements Equal\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Reduction Operations to Make the Array Elements Equal\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:385",
+      "post": {
+        "slug": "mini-parser-solution-notes",
+        "title": "Mini Parser: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Mini Parser with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Mini Parser",
+        "sourceUrl": "https://leetcode.com/problems/mini-parser/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Mini Parser with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Mini Parser\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Mini Parser\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Mini Parser\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:4156",
+      "post": {
+        "slug": "minimum-cost-to-make-two-binary-strings-equal-solution-notes",
+        "title": "Minimum Cost to Make Two Binary Strings Equal: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Minimum Cost to Make Two Binary Strings Equal with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Minimum Cost to Make Two Binary Strings Equal",
+        "sourceUrl": "https://leetcode.com/problems/minimum-cost-to-make-two-binary-strings-equal/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Minimum Cost to Make Two Binary Strings Equal with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Minimum Cost to Make Two Binary Strings Equal\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Minimum Cost to Make Two Binary Strings Equal\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Minimum Cost to Make Two Binary Strings Equal\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    }
+  ]
 }
