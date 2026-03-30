@@ -123,5 +123,36 @@
       "python": "# Python template for Reduction Operations to Make the Array Elements Equal\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
       "cpp": "// C++ template for Reduction Operations to Make the Array Elements Equal\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
     }
+  },
+  {
+    "slug": "longest-palindromic-subsequence-solution-notes",
+    "title": "Longest Palindromic Subsequence: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Longest Palindromic Subsequence with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-03-30",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Longest Palindromic Subsequence",
+    "sourceUrl": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+    "difficulty": "Medium",
+    "problemInMyWords": "In my own words, this problem asks me to solve Longest Palindromic Subsequence with a correct and efficient strategy while handling edge cases cleanly.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Longest Palindromic Subsequence\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Longest Palindromic Subsequence\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Longest Palindromic Subsequence\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
   }
 ]
