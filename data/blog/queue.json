@@ -138,41 +138,6 @@
       }
     },
     {
-      "problemKey": "leetcode:2016",
-      "post": {
-        "slug": "reduction-operations-to-make-the-array-elements-equal-solution-notes",
-        "title": "Reduction Operations to Make the Array Elements Equal: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Reduction Operations to Make the Array Elements Equal with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode",
-          "data-structures"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Reduction Operations to Make the Array Elements Equal",
-        "sourceUrl": "https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Reduction Operations to Make the Array Elements Equal with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Reduction Operations to Make the Array Elements Equal\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Reduction Operations to Make the Array Elements Equal\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Reduction Operations to Make the Array Elements Equal\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:385",
       "post": {
         "slug": "mini-parser-solution-notes",
