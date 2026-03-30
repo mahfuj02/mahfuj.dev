@@ -68,7 +68,12 @@ export function ContactSection() {
           <div>
             <h4 className="text-xl font-semibold text-zinc-100">Social Presence</h4>
             <div className="mt-4 flex flex-wrap gap-3">
-              <a href="#" className="inline-flex items-center gap-2 rounded-xl border border-zinc-700 bg-zinc-900/65 px-5 py-3 text-sm font-semibold text-zinc-200 transition-colors hover:border-zinc-500">
+              <a
+                href="https://github.com/mahfuj02"
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center gap-2 rounded-xl border border-zinc-700 bg-zinc-900/65 px-5 py-3 text-sm font-semibold text-zinc-200 transition-colors hover:border-zinc-500"
+              >
                 <span className="inline-flex h-5 w-5 items-center justify-center rounded-md bg-zinc-800 text-xs">G</span>
                 <span>GitHub</span>
               </a>
@@ -81,13 +86,19 @@ export function ContactSection() {
                 <span className="inline-flex h-5 w-5 items-center justify-center rounded-md bg-zinc-800 text-xs">in</span>
                 <span>LinkedIn</span>
               </a>
-              <a href="#" className="inline-flex items-center gap-2 rounded-xl border border-zinc-700 bg-zinc-900/65 px-5 py-3 text-sm font-semibold text-zinc-200 transition-colors hover:border-zinc-500">
-                <span className="inline-flex h-5 w-5 items-center justify-center rounded-md bg-zinc-800 text-xs">X</span>
-                <span>X</span>
+              <a
+                href="mailto:ahmed.mahfuj02@gmail.com"
+                className="inline-flex items-center gap-2 rounded-xl border border-zinc-700 bg-zinc-900/65 px-5 py-3 text-sm font-semibold text-zinc-200 transition-colors hover:border-zinc-500"
+              >
+                <span className="inline-flex h-5 w-5 items-center justify-center rounded-md bg-zinc-800 text-xs">@</span>
+                <span>Email</span>
               </a>
-              <a href="#" className="inline-flex items-center gap-2 rounded-xl border border-zinc-700 bg-zinc-900/65 px-5 py-3 text-sm font-semibold text-zinc-200 transition-colors hover:border-zinc-500">
-                <span className="inline-flex h-5 w-5 items-center justify-center rounded-md bg-zinc-800 text-xs">f</span>
-                <span>Facebook</span>
+              <a
+                href="/resume/Mahfuj_Ahmed_Resume.pdf"
+                className="inline-flex items-center gap-2 rounded-xl border border-zinc-700 bg-zinc-900/65 px-5 py-3 text-sm font-semibold text-zinc-200 transition-colors hover:border-zinc-500"
+              >
+                <span className="inline-flex h-5 w-5 items-center justify-center rounded-md bg-zinc-800 text-xs">CV</span>
+                <span>Resume</span>
               </a>
             </div>
           </div>
@@ -115,7 +126,7 @@ export function ContactSection() {
 
       <div className="mt-14 border-t border-zinc-800 pt-8 text-sm text-zinc-500">
         <div className="flex flex-col justify-between gap-3 sm:flex-row sm:items-center">
-          <p>© 2026 Mahfuj Ahmed. All rights reserved.</p>
+          <p>(c) 2026 Mahfuj Ahmed. All rights reserved.</p>
           <p>Built with passion in Canada.</p>
         </div>
       </div>
