@@ -1,6 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
+import Link from "next/link";
 
 export function HeroSection() {
   return (
@@ -54,10 +55,10 @@ export function HeroSection() {
           </div>
           <div className="hero-laptop-base" />
           <div className="hero-keyboard">
-            <a href="#home">home</a>
             <a href="#expertise">expertise</a>
             <a href="#work">work</a>
             <a href="#experience">experience</a>
+            <Link href="/blog">blog</Link>
             <a href="#contact">contact</a>
           </div>
         </div>
