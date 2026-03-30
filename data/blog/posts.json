@@ -1,0 +1,85 @@
+[
+  {
+    "slug": "two-sum-hash-map-pattern",
+    "title": "Two Sum with Hash Map: My Reliable O(n) Pattern",
+    "excerpt": "A practical walkthrough of how I use a hash map for Two Sum, including edge-case checks and why one-pass lookup is enough.",
+    "publishedAt": "2026-03-30",
+    "readTimeMinutes": 4,
+    "categories": ["algorithms", "data-structures", "leetcode"],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Two Sum",
+    "sourceUrl": "https://leetcode.com/problems/two-sum/",
+    "difficulty": "Easy",
+    "problemInMyWords": "Given a list of numbers and a target value, find two different indices whose values add up to the target.",
+    "approach": "Scan once and store seen numbers in a hash map. For each number, compute its complement. If complement exists in the map, return indices.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n)"
+    },
+    "keyPoints": [
+      "Use one pass to avoid nested loops.",
+      "Map stores value to index for quick lookup.",
+      "Check complement before inserting current element."
+    ],
+    "implementations": {
+      "typescript": "function twoSum(nums: number[], target: number): [number, number] {\n  const seen = new Map<number, number>();\n\n  for (let i = 0; i < nums.length; i++) {\n    const complement = target - nums[i];\n    if (seen.has(complement)) {\n      return [seen.get(complement)!, i];\n    }\n    seen.set(nums[i], i);\n  }\n\n  throw new Error(\"No valid pair found\");\n}",
+      "python": "def two_sum(nums: list[int], target: int) -> list[int]:\n    seen: dict[int, int] = {}\n\n    for i, value in enumerate(nums):\n        complement = target - value\n        if complement in seen:\n            return [seen[complement], i]\n        seen[value] = i\n\n    raise ValueError(\"No valid pair found\")",
+      "cpp": "#include <vector>\n#include <unordered_map>\nusing namespace std;\n\nvector<int> twoSum(vector<int>& nums, int target) {\n  unordered_map<int, int> seen;\n\n  for (int i = 0; i < static_cast<int>(nums.size()); ++i) {\n    int complement = target - nums[i];\n    auto it = seen.find(complement);\n    if (it != seen.end()) {\n      return {it->second, i};\n    }\n    seen[nums[i]] = i;\n  }\n\n  return {};\n}"
+    }
+  },
+  {
+    "slug": "valid-parentheses-stack-basics",
+    "title": "Valid Parentheses: Why Stack Is the Cleanest Fit",
+    "excerpt": "How I approach bracket-matching problems with a stack, and the exact checks that avoid false positives.",
+    "publishedAt": "2026-03-28",
+    "readTimeMinutes": 5,
+    "categories": ["algorithms", "data-structures", "leetcode"],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Valid Parentheses",
+    "sourceUrl": "https://leetcode.com/problems/valid-parentheses/",
+    "difficulty": "Easy",
+    "problemInMyWords": "Verify every opening bracket is closed in the correct order and with the correct bracket type.",
+    "approach": "Push opening brackets to stack. On closing bracket, compare with stack top using a map. If mismatch or empty stack, invalid.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n)"
+    },
+    "keyPoints": [
+      "Early return on mismatch improves readability.",
+      "Map-based matching avoids long condition chains.",
+      "Stack must be empty at the end."
+    ],
+    "implementations": {
+      "typescript": "function isValid(s: string): boolean {\n  const pairs: Record<string, string> = {\")\": \"(\", \"]\": \"[\", \"}\": \"{\"};\n  const stack: string[] = [];\n\n  for (const ch of s) {\n    if (ch === \"(\" || ch === \"[\" || ch === \"{\") {\n      stack.push(ch);\n      continue;\n    }\n\n    const top = stack.length ? stack.pop() : undefined;\n    if (top !== pairs[ch]) {\n      return false;\n    }\n  }\n\n  return stack.length === 0;\n}",
+      "python": "def is_valid(s: str) -> bool:\n    pairs = {\")\": \"(\", \"]\": \"[\", \"}\": \"{\"}\n    stack: list[str] = []\n\n    for ch in s:\n        if ch in \"([{\":\n            stack.append(ch)\n            continue\n\n        top = stack.pop() if stack else None\n        if top != pairs.get(ch):\n            return False\n\n    return len(stack) == 0",
+      "cpp": "#include <string>\n#include <vector>\n#include <unordered_map>\nusing namespace std;\n\nbool isValid(const string& s) {\n  unordered_map<char, char> pairs = {{')', '('}, {']', '['}, {'}', '{'}};\n  vector<char> stack;\n\n  for (char ch : s) {\n    if (ch == '(' || ch == '[' || ch == '{') {\n      stack.push_back(ch);\n      continue;\n    }\n\n    if (stack.empty() || stack.back() != pairs[ch]) {\n      return false;\n    }\n    stack.pop_back();\n  }\n\n  return stack.empty();\n}"
+    }
+  },
+  {
+    "slug": "binary-search-first-true-template",
+    "title": "Binary Search Template I Reuse for First True",
+    "excerpt": "A reusable binary search template for boundary problems, with loop invariants and off-by-one safety tips.",
+    "publishedAt": "2026-03-25",
+    "readTimeMinutes": 6,
+    "categories": ["algorithms"],
+    "sourcePlatform": "custom",
+    "sourceTitle": "Boundary Search Pattern Notes",
+    "sourceUrl": "https://mahfuj.dev",
+    "problemInMyWords": "For a monotonic predicate, find the smallest index where condition becomes true.",
+    "approach": "Use binary search with invariant that answer stays in [left, right]. Move right on true, otherwise move left to mid+1.",
+    "complexity": {
+      "time": "O(log n)",
+      "space": "O(1)"
+    },
+    "keyPoints": [
+      "Use left + (right-left)/2 style midpoint.",
+      "Keep answer range invariant explicit.",
+      "Use left < right loop for first-true boundary search."
+    ],
+    "implementations": {
+      "typescript": "function firstTrue(n: number, predicate: (x: number) => boolean): number {\n  let left = 0;\n  let right = n - 1;\n\n  while (left < right) {\n    const mid = left + Math.floor((right - left) / 2);\n    if (predicate(mid)) {\n      right = mid;\n    } else {\n      left = mid + 1;\n    }\n  }\n\n  return left;\n}",
+      "python": "def first_true(n: int, predicate) -> int:\n    left = 0\n    right = n - 1\n\n    while left < right:\n        mid = left + (right - left) // 2\n        if predicate(mid):\n            right = mid\n        else:\n            left = mid + 1\n\n    return left",
+      "cpp": "int firstTrue(int n, const function<bool(int)>& predicate) {\n  int left = 0;\n  int right = n - 1;\n\n  while (left < right) {\n    int mid = left + (right - left) / 2;\n    if (predicate(mid)) {\n      right = mid;\n    } else {\n      left = mid + 1;\n    }\n  }\n\n  return left;\n}"
+    }
+  }
+]

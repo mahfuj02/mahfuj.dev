@@ -1,0 +1,48 @@
+name: Build Blog Queue
+
+on:
+  schedule:
+    - cron: "20 3 * * 1,4"
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "How many drafts to enqueue"
+        required: false
+        default: "7"
+
+permissions:
+  contents: write
+
+jobs:
+  queue:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build queue
+        run: node scripts/blog/build-queue.mjs --count=${{ github.event.inputs.count || '7' }}
+
+      - name: Commit queue updates
+        run: |
+          if git diff --quiet; then
+            echo "No queue updates to commit"
+            exit 0
+          fi
+
+          git config user.name "${{ secrets.GH_COMMIT_NAME || vars.GH_COMMIT_NAME || 'mahfuj02' }}"
+          git config user.email "${{ secrets.GH_COMMIT_EMAIL || vars.GH_COMMIT_EMAIL || 'mahfuj02@users.noreply.github.com' }}"
+
+          git add data/blog/queue.json
+          git commit -m "chore(blog): refresh queued draft posts"
+          git push

@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "blog:queue": "node scripts/blog/build-queue.mjs",
+    "blog:publish": "node scripts/blog/publish-from-queue.mjs",
+    "blog:publish:force": "node scripts/blog/publish-from-queue.mjs --force"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.7",

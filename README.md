@@ -61,6 +61,43 @@ Deploy easily to **Vercel** (recommended for Next.js):
 3. Link your custom domain (`mahfuj.dev`)
 4. Auto-deploys on every push
 
+## Blog Automation (Daily Commits)
+
+This repo includes file-based blog automation under `data/blog` and GitHub workflows under `.github/workflows`.
+
+### Storage
+
+- `data/blog/posts.json`: published blog posts shown on the site
+- `data/blog/queue.json`: queued draft posts waiting to publish
+- `data/blog/used-problems.json`: dedupe keys to prevent repeat problems
+- `data/blog/runs.json`: publish history for one-post-per-day control
+
+### Local Commands
+
+```bash
+npm run blog:queue
+npm run blog:publish
+npm run blog:publish:force
+```
+
+### GitHub Author Setup (Important)
+
+To make daily commits count for your GitHub contribution graph, set these repository secrets:
+
+- `GH_COMMIT_NAME`: your GitHub display/commit name
+- `GH_COMMIT_EMAIL`: your verified GitHub email (recommended: your GitHub noreply email)
+
+Find your noreply email at:
+GitHub -> Settings -> Emails -> "Keep my email addresses private"
+
+Then add secrets at:
+Repository -> Settings -> Secrets and variables -> Actions -> New repository secret
+
+### Workflows
+
+- `blog-queue.yml`: fills the queue on schedule or manual run
+- `blog-daily-publish.yml`: publishes exactly one queued post per day at a randomized UTC slot
+
 ## Project Structure
 
 ```
