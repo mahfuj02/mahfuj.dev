@@ -1,6 +1,7 @@
 {
   "publishedDates": [
-    "2026-03-30"
+    "2026-03-30",
+    "2026-04-01"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -15,46 +16,11 @@
       "problemKey": "leetcode:4156",
       "slug": "minimum-cost-to-make-two-binary-strings-equal-solution-notes",
       "sourceTitle": "Minimum Cost to Make Two Binary Strings Equal",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-04-01T17:11:11.627Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-04-01T21:01:25.897Z",
+      "publishedSlug": "minimum-cost-to-make-two-binary-strings-equal-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-04-01",
-    "problemKey": "leetcode:4156",
-    "post": {
-      "slug": "minimum-cost-to-make-two-binary-strings-equal-solution-notes",
-      "title": "Minimum Cost to Make Two Binary Strings Equal: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Minimum Cost to Make Two Binary Strings Equal with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Minimum Cost to Make Two Binary Strings Equal",
-      "sourceUrl": "https://leetcode.com/problems/minimum-cost-to-make-two-binary-strings-equal/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Cost to Make Two Binary Strings Equal with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Minimum Cost to Make Two Binary Strings Equal\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Minimum Cost to Make Two Binary Strings Equal\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Minimum Cost to Make Two Binary Strings Equal\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
