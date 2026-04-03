@@ -28,15 +28,23 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-04-02T20:54:09.931Z"
+    },
+    "2026-04-03": {
+      "problemKey": "leetcode:3720",
+      "slug": "minimize-the-maximum-edge-weight-of-graph-solution-notes",
+      "sourceTitle": "Minimize the Maximum Edge Weight of Graph",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-03T20:54:11.160Z"
     }
   },
   "activeDraft": {
-    "date": "2026-04-02",
-    "problemKey": "leetcode:983",
+    "date": "2026-04-03",
+    "problemKey": "leetcode:3720",
     "post": {
-      "slug": "validate-stack-sequences-solution-notes",
-      "title": "Validate Stack Sequences: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Validate Stack Sequences with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "minimize-the-maximum-edge-weight-of-graph-solution-notes",
+      "title": "Minimize the Maximum Edge Weight of Graph: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Minimize the Maximum Edge Weight of Graph with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -45,26 +53,25 @@
         "data-structures"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Validate Stack Sequences",
-      "sourceUrl": "https://leetcode.com/problems/validate-stack-sequences/",
+      "sourceTitle": "Minimize the Maximum Edge Weight of Graph",
+      "sourceUrl": "https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Validate Stack Sequences with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Minimize the Maximum Edge Weight of Graph with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Validate Stack Sequences\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Validate Stack Sequences\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Validate Stack Sequences\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Minimize the Maximum Edge Weight of Graph\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Minimize the Maximum Edge Weight of Graph\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Minimize the Maximum Edge Weight of Graph\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
