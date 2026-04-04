@@ -1,7 +1,8 @@
 {
   "publishedDates": [
     "2026-03-30",
-    "2026-04-01"
+    "2026-04-01",
+    "2026-04-04"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -41,46 +42,11 @@
       "problemKey": "leetcode:502",
       "slug": "ipo-solution-notes",
       "sourceTitle": "IPO",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-04-04T05:35:35.264Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-04-04T08:59:23.423Z",
+      "publishedSlug": "ipo-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-04-04",
-    "problemKey": "leetcode:502",
-    "post": {
-      "slug": "ipo-solution-notes",
-      "title": "IPO: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for IPO with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "IPO",
-      "sourceUrl": "https://leetcode.com/problems/ipo/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve IPO with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for IPO\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for IPO\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for IPO\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
