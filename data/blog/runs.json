@@ -36,27 +36,34 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-04-03T20:54:11.160Z"
+    },
+    "2026-04-04": {
+      "problemKey": "leetcode:502",
+      "slug": "ipo-solution-notes",
+      "sourceTitle": "IPO",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-04T03:15:48.072Z"
     }
   },
   "activeDraft": {
-    "date": "2026-04-03",
-    "problemKey": "leetcode:3720",
+    "date": "2026-04-04",
+    "problemKey": "leetcode:502",
     "post": {
-      "slug": "minimize-the-maximum-edge-weight-of-graph-solution-notes",
-      "title": "Minimize the Maximum Edge Weight of Graph: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Minimize the Maximum Edge Weight of Graph with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "ipo-solution-notes",
+      "title": "IPO: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for IPO with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode",
-        "data-structures"
+        "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Minimize the Maximum Edge Weight of Graph",
-      "sourceUrl": "https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Minimize the Maximum Edge Weight of Graph with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "IPO",
+      "sourceUrl": "https://leetcode.com/problems/ipo/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve IPO with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -69,9 +76,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Minimize the Maximum Edge Weight of Graph\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Minimize the Maximum Edge Weight of Graph\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Minimize the Maximum Edge Weight of Graph\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for IPO\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for IPO\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for IPO\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
