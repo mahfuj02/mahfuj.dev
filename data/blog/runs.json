@@ -46,7 +46,51 @@
       "commitsToday": 3,
       "updatedAt": "2026-04-04T08:59:23.423Z",
       "publishedSlug": "ipo-solution-notes"
+    },
+    "2026-04-05": {
+      "problemKey": "leetcode:111",
+      "slug": "minimum-depth-of-binary-tree-solution-notes",
+      "sourceTitle": "Minimum Depth of Binary Tree",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-05T05:53:12.084Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-04-05",
+    "problemKey": "leetcode:111",
+    "post": {
+      "slug": "minimum-depth-of-binary-tree-solution-notes",
+      "title": "Minimum Depth of Binary Tree: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Minimum Depth of Binary Tree with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode",
+        "data-structures"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Minimum Depth of Binary Tree",
+      "sourceUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Depth of Binary Tree with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Minimum Depth of Binary Tree\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Minimum Depth of Binary Tree\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Minimum Depth of Binary Tree\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
