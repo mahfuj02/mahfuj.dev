@@ -205,6 +205,245 @@
           "cpp": "// C++ template for Lexicographically Smallest String After Operations With Constraint\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:2692",
+      "post": {
+        "slug": "take-gifts-from-the-richest-pile-solution-notes",
+        "title": "Take Gifts From the Richest Pile: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Take Gifts From the Richest Pile with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Take Gifts From the Richest Pile",
+        "sourceUrl": "https://leetcode.com/problems/take-gifts-from-the-richest-pile/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Take Gifts From the Richest Pile with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Take Gifts From the Richest Pile\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Take Gifts From the Richest Pile\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Take Gifts From the Richest Pile\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3975",
+      "post": {
+        "slug": "xor-after-range-multiplication-queries-ii-solution-notes",
+        "title": "XOR After Range Multiplication Queries II: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for XOR After Range Multiplication Queries II with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "XOR After Range Multiplication Queries II",
+        "sourceUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve XOR After Range Multiplication Queries II with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for XOR After Range Multiplication Queries II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for XOR After Range Multiplication Queries II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for XOR After Range Multiplication Queries II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:780",
+      "post": {
+        "slug": "max-chunks-to-make-sorted-solution-notes",
+        "title": "Max Chunks To Make Sorted: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Max Chunks To Make Sorted with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Max Chunks To Make Sorted",
+        "sourceUrl": "https://leetcode.com/problems/max-chunks-to-make-sorted/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Max Chunks To Make Sorted with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Max Chunks To Make Sorted\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Max Chunks To Make Sorted\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Max Chunks To Make Sorted\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3922",
+      "post": {
+        "slug": "minimum-moves-to-reach-target-in-grid-solution-notes",
+        "title": "Minimum Moves to Reach Target in Grid: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Minimum Moves to Reach Target in Grid with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Minimum Moves to Reach Target in Grid",
+        "sourceUrl": "https://leetcode.com/problems/minimum-moves-to-reach-target-in-grid/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Minimum Moves to Reach Target in Grid with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Minimum Moves to Reach Target in Grid\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Minimum Moves to Reach Target in Grid\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Minimum Moves to Reach Target in Grid\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1267",
+      "post": {
+        "slug": "remove-zero-sum-consecutive-nodes-from-linked-list-solution-notes",
+        "title": "Remove Zero Sum Consecutive Nodes from Linked List: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Remove Zero Sum Consecutive Nodes from Linked List with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Remove Zero Sum Consecutive Nodes from Linked List",
+        "sourceUrl": "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Remove Zero Sum Consecutive Nodes from Linked List with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Remove Zero Sum Consecutive Nodes from Linked List\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Remove Zero Sum Consecutive Nodes from Linked List\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Remove Zero Sum Consecutive Nodes from Linked List\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:989",
+      "post": {
+        "slug": "largest-component-size-by-common-factor-solution-notes",
+        "title": "Largest Component Size by Common Factor: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Largest Component Size by Common Factor with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Largest Component Size by Common Factor",
+        "sourceUrl": "https://leetcode.com/problems/largest-component-size-by-common-factor/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Largest Component Size by Common Factor with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Largest Component Size by Common Factor\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Largest Component Size by Common Factor\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Largest Component Size by Common Factor\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2197",
+      "post": {
+        "slug": "decode-the-slanted-ciphertext-solution-notes",
+        "title": "Decode the Slanted Ciphertext: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Decode the Slanted Ciphertext with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Decode the Slanted Ciphertext",
+        "sourceUrl": "https://leetcode.com/problems/decode-the-slanted-ciphertext/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Decode the Slanted Ciphertext with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Decode the Slanted Ciphertext\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Decode the Slanted Ciphertext\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Decode the Slanted Ciphertext\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
