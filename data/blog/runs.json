@@ -76,7 +76,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-04-07T21:03:45.517Z",
       "publishedSlug": "remove-zero-sum-consecutive-nodes-from-linked-list-solution-notes"
+    },
+    "2026-04-08": {
+      "problemKey": "leetcode:2692",
+      "slug": "take-gifts-from-the-richest-pile-solution-notes",
+      "sourceTitle": "Take Gifts From the Richest Pile",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-08T17:20:21.399Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-04-08",
+    "problemKey": "leetcode:2692",
+    "post": {
+      "slug": "take-gifts-from-the-richest-pile-solution-notes",
+      "title": "Take Gifts From the Richest Pile: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Take Gifts From the Richest Pile with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Take Gifts From the Richest Pile",
+      "sourceUrl": "https://leetcode.com/problems/take-gifts-from-the-richest-pile/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Take Gifts From the Richest Pile with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Take Gifts From the Richest Pile\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Take Gifts From the Richest Pile\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Take Gifts From the Richest Pile\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
