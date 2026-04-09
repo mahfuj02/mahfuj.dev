@@ -35,40 +35,6 @@
       }
     },
     {
-      "problemKey": "leetcode:3000",
-      "post": {
-        "slug": "minimum-absolute-difference-between-elements-with-constraint-solution-notes",
-        "title": "Minimum Absolute Difference Between Elements With Constraint: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Minimum Absolute Difference Between Elements With Constraint with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Minimum Absolute Difference Between Elements With Constraint",
-        "sourceUrl": "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Minimum Absolute Difference Between Elements With Constraint with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Minimum Absolute Difference Between Elements With Constraint\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Minimum Absolute Difference Between Elements With Constraint\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Minimum Absolute Difference Between Elements With Constraint\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:3731",
       "post": {
         "slug": "sum-of-variable-length-subarrays-solution-notes",
