@@ -92,26 +92,35 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-04-09T21:03:18.781Z"
+    },
+    "2026-04-10": {
+      "problemKey": "leetcode:3647",
+      "slug": "zero-array-transformation-iii-solution-notes",
+      "sourceTitle": "Zero Array Transformation III",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-10T13:49:37.149Z"
     }
   },
   "activeDraft": {
-    "date": "2026-04-09",
-    "problemKey": "leetcode:3000",
+    "date": "2026-04-10",
+    "problemKey": "leetcode:3647",
     "post": {
-      "slug": "minimum-absolute-difference-between-elements-with-constraint-solution-notes",
-      "title": "Minimum Absolute Difference Between Elements With Constraint: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Minimum Absolute Difference Between Elements With Constraint with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "zero-array-transformation-iii-solution-notes",
+      "title": "Zero Array Transformation III: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Zero Array Transformation III with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode"
+        "leetcode",
+        "data-structures"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Minimum Absolute Difference Between Elements With Constraint",
-      "sourceUrl": "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/",
+      "sourceTitle": "Zero Array Transformation III",
+      "sourceUrl": "https://leetcode.com/problems/zero-array-transformation-iii/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Absolute Difference Between Elements With Constraint with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Zero Array Transformation III with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -124,9 +133,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Minimum Absolute Difference Between Elements With Constraint\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Minimum Absolute Difference Between Elements With Constraint\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Minimum Absolute Difference Between Elements With Constraint\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Zero Array Transformation III\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Zero Array Transformation III\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Zero Array Transformation III\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
