@@ -102,7 +102,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-04-10T20:56:07.503Z",
       "publishedSlug": "zero-array-transformation-iii-solution-notes"
+    },
+    "2026-04-11": {
+      "problemKey": "leetcode:989",
+      "slug": "largest-component-size-by-common-factor-solution-notes",
+      "sourceTitle": "Largest Component Size by Common Factor",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-11T16:55:04.688Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-04-11",
+    "problemKey": "leetcode:989",
+    "post": {
+      "slug": "largest-component-size-by-common-factor-solution-notes",
+      "title": "Largest Component Size by Common Factor: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Largest Component Size by Common Factor with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Largest Component Size by Common Factor",
+      "sourceUrl": "https://leetcode.com/problems/largest-component-size-by-common-factor/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Largest Component Size by Common Factor with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Largest Component Size by Common Factor\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Largest Component Size by Common Factor\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Largest Component Size by Common Factor\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
