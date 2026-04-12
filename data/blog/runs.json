@@ -110,15 +110,23 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-04-11T20:50:35.756Z"
+    },
+    "2026-04-12": {
+      "problemKey": "leetcode:3975",
+      "slug": "xor-after-range-multiplication-queries-ii-solution-notes",
+      "sourceTitle": "XOR After Range Multiplication Queries II",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-12T20:52:50.523Z"
     }
   },
   "activeDraft": {
-    "date": "2026-04-11",
-    "problemKey": "leetcode:989",
+    "date": "2026-04-12",
+    "problemKey": "leetcode:3975",
     "post": {
-      "slug": "largest-component-size-by-common-factor-solution-notes",
-      "title": "Largest Component Size by Common Factor: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Largest Component Size by Common Factor with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "xor-after-range-multiplication-queries-ii-solution-notes",
+      "title": "XOR After Range Multiplication Queries II: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for XOR After Range Multiplication Queries II with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -126,26 +134,25 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Largest Component Size by Common Factor",
-      "sourceUrl": "https://leetcode.com/problems/largest-component-size-by-common-factor/",
+      "sourceTitle": "XOR After Range Multiplication Queries II",
+      "sourceUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/",
       "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Largest Component Size by Common Factor with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "problemInMyWords": "In my own words, this problem asks me to solve XOR After Range Multiplication Queries II with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Largest Component Size by Common Factor\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Largest Component Size by Common Factor\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Largest Component Size by Common Factor\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for XOR After Range Multiplication Queries II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for XOR After Range Multiplication Queries II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for XOR After Range Multiplication Queries II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
