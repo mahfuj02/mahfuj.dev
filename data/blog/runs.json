@@ -118,15 +118,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-04-12T20:52:50.523Z"
+    },
+    "2026-04-13": {
+      "problemKey": "leetcode:1999",
+      "slug": "longer-contiguous-segments-of-ones-than-zeros-solution-notes",
+      "sourceTitle": "Longer Contiguous Segments of Ones than Zeros",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-13T03:52:42.716Z"
     }
   },
   "activeDraft": {
-    "date": "2026-04-12",
-    "problemKey": "leetcode:3975",
+    "date": "2026-04-13",
+    "problemKey": "leetcode:1999",
     "post": {
-      "slug": "xor-after-range-multiplication-queries-ii-solution-notes",
-      "title": "XOR After Range Multiplication Queries II: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for XOR After Range Multiplication Queries II with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "longer-contiguous-segments-of-ones-than-zeros-solution-notes",
+      "title": "Longer Contiguous Segments of Ones than Zeros: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Longer Contiguous Segments of Ones than Zeros with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -134,10 +142,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "XOR After Range Multiplication Queries II",
-      "sourceUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve XOR After Range Multiplication Queries II with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Longer Contiguous Segments of Ones than Zeros",
+      "sourceUrl": "https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Longer Contiguous Segments of Ones than Zeros with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -150,9 +158,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for XOR After Range Multiplication Queries II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for XOR After Range Multiplication Queries II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for XOR After Range Multiplication Queries II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Longer Contiguous Segments of Ones than Zeros\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Longer Contiguous Segments of Ones than Zeros\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Longer Contiguous Segments of Ones than Zeros\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
