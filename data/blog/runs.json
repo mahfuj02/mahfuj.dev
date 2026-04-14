@@ -133,9 +133,9 @@
       "problemKey": "leetcode:1145",
       "slug": "number-of-submatrices-that-sum-to-target-solution-notes",
       "sourceTitle": "Number of Submatrices That Sum to Target",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-04-14T06:10:26.433Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-04-14T09:49:28.983Z"
     }
   },
   "activeDraft": {
@@ -155,17 +155,18 @@
       "sourceTitle": "Number of Submatrices That Sum to Target",
       "sourceUrl": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/",
       "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Number of Submatrices That Sum to Target with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Number of Submatrices That Sum to Target with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Number of Submatrices That Sum to Target\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
