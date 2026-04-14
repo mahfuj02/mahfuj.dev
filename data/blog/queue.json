@@ -482,40 +482,6 @@
       }
     },
     {
-      "problemKey": "leetcode:1145",
-      "post": {
-        "slug": "number-of-submatrices-that-sum-to-target-solution-notes",
-        "title": "Number of Submatrices That Sum to Target: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Number of Submatrices That Sum to Target with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Number of Submatrices That Sum to Target",
-        "sourceUrl": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Number of Submatrices That Sum to Target with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Number of Submatrices That Sum to Target\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Number of Submatrices That Sum to Target\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Number of Submatrices That Sum to Target\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:1507",
       "post": {
         "slug": "check-if-there-is-a-valid-path-in-a-grid-solution-notes",

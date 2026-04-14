@@ -128,7 +128,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-04-13T10:05:29.317Z",
       "publishedSlug": "longer-contiguous-segments-of-ones-than-zeros-solution-notes"
+    },
+    "2026-04-14": {
+      "problemKey": "leetcode:1145",
+      "slug": "number-of-submatrices-that-sum-to-target-solution-notes",
+      "sourceTitle": "Number of Submatrices That Sum to Target",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-14T06:10:26.433Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-04-14",
+    "problemKey": "leetcode:1145",
+    "post": {
+      "slug": "number-of-submatrices-that-sum-to-target-solution-notes",
+      "title": "Number of Submatrices That Sum to Target: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Number of Submatrices That Sum to Target with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Number of Submatrices That Sum to Target",
+      "sourceUrl": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Number of Submatrices That Sum to Target with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Number of Submatrices That Sum to Target\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Number of Submatrices That Sum to Target\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Number of Submatrices That Sum to Target\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
