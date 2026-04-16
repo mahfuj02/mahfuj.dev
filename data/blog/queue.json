@@ -242,40 +242,6 @@
       }
     },
     {
-      "problemKey": "leetcode:1806",
-      "post": {
-        "slug": "count-of-matches-in-tournament-solution-notes",
-        "title": "Count of Matches in Tournament: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Count of Matches in Tournament with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Count of Matches in Tournament",
-        "sourceUrl": "https://leetcode.com/problems/count-of-matches-in-tournament/",
-        "difficulty": "Easy",
-        "problemInMyWords": "In my own words, this problem asks me to solve Count of Matches in Tournament with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Count of Matches in Tournament\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Count of Matches in Tournament\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Count of Matches in Tournament\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:458",
       "post": {
         "slug": "poor-pigs-solution-notes",
