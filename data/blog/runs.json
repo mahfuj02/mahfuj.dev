@@ -158,7 +158,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-04-16T21:03:23.153Z",
       "publishedSlug": "count-of-matches-in-tournament-solution-notes"
+    },
+    "2026-04-17": {
+      "problemKey": "leetcode:3922",
+      "slug": "minimum-moves-to-reach-target-in-grid-solution-notes",
+      "sourceTitle": "Minimum Moves to Reach Target in Grid",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-17T17:06:55.339Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-04-17",
+    "problemKey": "leetcode:3922",
+    "post": {
+      "slug": "minimum-moves-to-reach-target-in-grid-solution-notes",
+      "title": "Minimum Moves to Reach Target in Grid: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Minimum Moves to Reach Target in Grid with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Minimum Moves to Reach Target in Grid",
+      "sourceUrl": "https://leetcode.com/problems/minimum-moves-to-reach-target-in-grid/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Moves to Reach Target in Grid with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Minimum Moves to Reach Target in Grid\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Minimum Moves to Reach Target in Grid\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Minimum Moves to Reach Target in Grid\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }

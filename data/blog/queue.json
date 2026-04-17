@@ -173,40 +173,6 @@
       }
     },
     {
-      "problemKey": "leetcode:3922",
-      "post": {
-        "slug": "minimum-moves-to-reach-target-in-grid-solution-notes",
-        "title": "Minimum Moves to Reach Target in Grid: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Minimum Moves to Reach Target in Grid with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Minimum Moves to Reach Target in Grid",
-        "sourceUrl": "https://leetcode.com/problems/minimum-moves-to-reach-target-in-grid/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Minimum Moves to Reach Target in Grid with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Minimum Moves to Reach Target in Grid\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Minimum Moves to Reach Target in Grid\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Minimum Moves to Reach Target in Grid\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:1005",
       "post": {
         "slug": "univalued-binary-tree-solution-notes",
