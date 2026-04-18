@@ -346,40 +346,6 @@
       }
     },
     {
-      "problemKey": "leetcode:2373",
-      "post": {
-        "slug": "apply-discount-to-prices-solution-notes",
-        "title": "Apply Discount to Prices: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Apply Discount to Prices with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Apply Discount to Prices",
-        "sourceUrl": "https://leetcode.com/problems/apply-discount-to-prices/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Apply Discount to Prices with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Apply Discount to Prices\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Apply Discount to Prices\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Apply Discount to Prices\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:1205",
       "post": {
         "slug": "defanging-an-ip-address-solution-notes",

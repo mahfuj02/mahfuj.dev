@@ -166,15 +166,23 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-04-17T21:03:19.603Z"
+    },
+    "2026-04-18": {
+      "problemKey": "leetcode:2373",
+      "slug": "apply-discount-to-prices-solution-notes",
+      "sourceTitle": "Apply Discount to Prices",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-18T20:53:11.106Z"
     }
   },
   "activeDraft": {
-    "date": "2026-04-17",
-    "problemKey": "leetcode:3922",
+    "date": "2026-04-18",
+    "problemKey": "leetcode:2373",
     "post": {
-      "slug": "minimum-moves-to-reach-target-in-grid-solution-notes",
-      "title": "Minimum Moves to Reach Target in Grid: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Minimum Moves to Reach Target in Grid with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "apply-discount-to-prices-solution-notes",
+      "title": "Apply Discount to Prices: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Apply Discount to Prices with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -182,26 +190,25 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Minimum Moves to Reach Target in Grid",
-      "sourceUrl": "https://leetcode.com/problems/minimum-moves-to-reach-target-in-grid/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Moves to Reach Target in Grid with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "sourceTitle": "Apply Discount to Prices",
+      "sourceUrl": "https://leetcode.com/problems/apply-discount-to-prices/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Apply Discount to Prices with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Minimum Moves to Reach Target in Grid\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Minimum Moves to Reach Target in Grid\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Minimum Moves to Reach Target in Grid\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Apply Discount to Prices\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Apply Discount to Prices\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Apply Discount to Prices\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
