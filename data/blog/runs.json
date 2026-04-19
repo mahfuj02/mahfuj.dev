@@ -179,9 +179,9 @@
       "problemKey": "leetcode:1766",
       "slug": "minimum-number-of-removals-to-make-mountain-array-solution-notes",
       "sourceTitle": "Minimum Number of Removals to Make Mountain Array",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-04-19T03:49:33.662Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-04-19T06:07:39.909Z"
     }
   },
   "activeDraft": {
@@ -202,17 +202,18 @@
       "sourceTitle": "Minimum Number of Removals to Make Mountain Array",
       "sourceUrl": "https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/",
       "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Number of Removals to Make Mountain Array with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Number of Removals to Make Mountain Array with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Minimum Number of Removals to Make Mountain Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
