@@ -174,26 +174,35 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-04-18T20:53:11.106Z"
+    },
+    "2026-04-19": {
+      "problemKey": "leetcode:1766",
+      "slug": "minimum-number-of-removals-to-make-mountain-array-solution-notes",
+      "sourceTitle": "Minimum Number of Removals to Make Mountain Array",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-19T03:49:33.662Z"
     }
   },
   "activeDraft": {
-    "date": "2026-04-18",
-    "problemKey": "leetcode:2373",
+    "date": "2026-04-19",
+    "problemKey": "leetcode:1766",
     "post": {
-      "slug": "apply-discount-to-prices-solution-notes",
-      "title": "Apply Discount to Prices: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Apply Discount to Prices with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "minimum-number-of-removals-to-make-mountain-array-solution-notes",
+      "title": "Minimum Number of Removals to Make Mountain Array: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Minimum Number of Removals to Make Mountain Array with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode"
+        "leetcode",
+        "data-structures"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Apply Discount to Prices",
-      "sourceUrl": "https://leetcode.com/problems/apply-discount-to-prices/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Apply Discount to Prices with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Minimum Number of Removals to Make Mountain Array",
+      "sourceUrl": "https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Number of Removals to Make Mountain Array with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -206,9 +215,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Apply Discount to Prices\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Apply Discount to Prices\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Apply Discount to Prices\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Minimum Number of Removals to Make Mountain Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Minimum Number of Removals to Make Mountain Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Minimum Number of Removals to Make Mountain Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }

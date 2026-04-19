@@ -551,41 +551,6 @@
       }
     },
     {
-      "problemKey": "leetcode:1766",
-      "post": {
-        "slug": "minimum-number-of-removals-to-make-mountain-array-solution-notes",
-        "title": "Minimum Number of Removals to Make Mountain Array: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Minimum Number of Removals to Make Mountain Array with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode",
-          "data-structures"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Minimum Number of Removals to Make Mountain Array",
-        "sourceUrl": "https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Minimum Number of Removals to Make Mountain Array with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Minimum Number of Removals to Make Mountain Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Minimum Number of Removals to Make Mountain Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Minimum Number of Removals to Make Mountain Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:2715",
       "post": {
         "slug": "k-items-with-the-maximum-sum-solution-notes",
