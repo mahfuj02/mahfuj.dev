@@ -686,6 +686,244 @@
           "cpp": "// C++ template for Merge Two 2D Arrays by Summing Values\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:171",
+      "post": {
+        "slug": "excel-sheet-column-number-solution-notes",
+        "title": "Excel Sheet Column Number: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Excel Sheet Column Number with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Excel Sheet Column Number",
+        "sourceUrl": "https://leetcode.com/problems/excel-sheet-column-number/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Excel Sheet Column Number with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Excel Sheet Column Number\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Excel Sheet Column Number\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Excel Sheet Column Number\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2476",
+      "post": {
+        "slug": "check-distances-between-same-letters-solution-notes",
+        "title": "Check Distances Between Same Letters: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Check Distances Between Same Letters with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Check Distances Between Same Letters",
+        "sourceUrl": "https://leetcode.com/problems/check-distances-between-same-letters/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Check Distances Between Same Letters with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Check Distances Between Same Letters\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Check Distances Between Same Letters\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Check Distances Between Same Letters\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2863",
+      "post": {
+        "slug": "calculator-with-method-chaining-solution-notes",
+        "title": "Calculator with Method Chaining: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Calculator with Method Chaining with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Calculator with Method Chaining",
+        "sourceUrl": "https://leetcode.com/problems/calculator-with-method-chaining/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Calculator with Method Chaining with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Calculator with Method Chaining\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Calculator with Method Chaining\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Calculator with Method Chaining\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2512",
+      "post": {
+        "slug": "longest-uploaded-prefix-solution-notes",
+        "title": "Longest Uploaded Prefix: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Longest Uploaded Prefix with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Longest Uploaded Prefix",
+        "sourceUrl": "https://leetcode.com/problems/longest-uploaded-prefix/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Longest Uploaded Prefix with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Longest Uploaded Prefix\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Longest Uploaded Prefix\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Longest Uploaded Prefix\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:852",
+      "post": {
+        "slug": "friends-of-appropriate-ages-solution-notes",
+        "title": "Friends Of Appropriate Ages: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Friends Of Appropriate Ages with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Friends Of Appropriate Ages",
+        "sourceUrl": "https://leetcode.com/problems/friends-of-appropriate-ages/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Friends Of Appropriate Ages with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Friends Of Appropriate Ages\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Friends Of Appropriate Ages\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Friends Of Appropriate Ages\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:605",
+      "post": {
+        "slug": "can-place-flowers-solution-notes",
+        "title": "Can Place Flowers: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Can Place Flowers with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Can Place Flowers",
+        "sourceUrl": "https://leetcode.com/problems/can-place-flowers/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Can Place Flowers with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Can Place Flowers\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Can Place Flowers\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Can Place Flowers\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1457",
+      "post": {
+        "slug": "minimum-difficulty-of-a-job-schedule-solution-notes",
+        "title": "Minimum Difficulty of a Job Schedule: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Minimum Difficulty of a Job Schedule with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Minimum Difficulty of a Job Schedule",
+        "sourceUrl": "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Minimum Difficulty of a Job Schedule with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Minimum Difficulty of a Job Schedule\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Minimum Difficulty of a Job Schedule\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Minimum Difficulty of a Job Schedule\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
