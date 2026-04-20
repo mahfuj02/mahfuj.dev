@@ -13,9 +13,41 @@ export type Project = {
   challenge: string;
   solution: string;
   impact: string;
+  liveUrl?: string;
+  githubUrl?: string;
 };
 
 export const projects: Project[] = [
+  {
+    id: "role-ready",
+    slug: "role-ready",
+    title: "RoleReady",
+    category: "AI Web Application",
+    bannerImage: "/projects/roleready_portfolio.jpg",
+    bannerAlt: "RoleReady AI interview coaching web app banner",
+    year: "2026",
+    role: "Full Stack Developer",
+    summary:
+      "RoleReady is a live AI interview coaching web app where users upload resume and job description, practice tailored questions by text or voice, and receive structured scoring feedback.",
+    details: [
+      "Built and deployed a live Next.js web app with Supabase authentication and Groq AI services for interview preparation workflows.",
+      "Implemented resume and job description intake flow (upload, paste, or URL) followed by AI-driven gap analysis and personalized prep recommendations.",
+      "Generated an interview question bank with 18 tailored questions (behavioral, technical, and situational) aligned to each user's target role.",
+      "Designed practice sessions with typed or spoken answers, integrating Groq Whisper for speech-to-text and Llama 3.3 70B for analysis and feedback.",
+      "Delivered structured feedback scoring with overall score plus category-level evaluation across Relevance, STAR structure, Depth, and Communication.",
+      "Shipped full session completion reporting with score summary, STAR breakdown, improvement insights, skipped question tracking, and actionable next steps.",
+      "Created a polished product UI using a navy, teal, amber, green, and red state system with Syne and DM Sans to support clear learning progress.",
+      "Live site: role-ready-snowy.vercel.app",
+    ],
+    stack: ["Next.js", "TypeScript", "Supabase Auth", "Groq API", "Llama 3.3 70B", "Whisper", "Vercel"],
+    liveUrl: "https://role-ready-snowy.vercel.app",
+    challenge:
+      "Job seekers need realistic interview preparation that adapts to resume gaps and job requirements while giving actionable feedback beyond generic question lists.",
+    solution:
+      "Built an end-to-end AI interview coach that analyzes resume-to-role gaps, generates tailored questions, supports voice and text answers, and provides structured scoring with clear improvement guidance.",
+    impact:
+      "Created a practical, live MVP that helps developers, PMs, and engineers practice role-specific interviews with measurable feedback and repeatable preparation loops.",
+  },
   {
     id: "connexions-spectrum",
     slug: "connexions-spectrum",
@@ -67,32 +99,6 @@ export const projects: Project[] = [
       "Created a modular React interface with reusable components, organized state, and clear browsing workflows for discovering games quickly.",
     impact:
       "Strengthened my frontend engineering foundation and demonstrated practical skills in building API-powered React applications end-to-end.",
-  },
-  {
-    id: "manitoba-outdoor-adventure-gear",
-    slug: "manitoba-outdoor-adventure-gear",
-    title: "Manitoba Outdoor Adventure Gear",
-    category: "Full Stack Web Development",
-    bannerImage: "/projects/outdoor-adventure.jpg",
-    bannerAlt: "Manitoba Outdoor Adventure Gear project banner",
-    year: "2024",
-    role: "Full Stack Developer",
-    summary:
-      "A full-stack outdoor gear platform for browsing products, managing inventory, and supporting smooth shopping flows with a Next.js frontend and Ruby on Rails backend.",
-    details: [
-      "Built a production-style full-stack application with Next.js on the frontend and Ruby on Rails on the backend.",
-      "Implemented product browsing, category organization, and detail views to improve shopping discovery.",
-      "Connected frontend workflows to backend APIs for inventory and catalog data operations.",
-      "Focused on responsive UI patterns for desktop and mobile users with cleaner navigation flows.",
-      "Strengthened end-to-end development skills by handling both frontend experience and backend integration.",
-    ],
-    stack: ["Next.js", "Ruby on Rails", "REST API", "Responsive UI", "Full Stack Architecture"],
-    challenge:
-      "The project required delivering a smooth storefront experience while coordinating frontend interactions with a Rails-powered backend.",
-    solution:
-      "Designed a component-driven frontend and integrated it with backend endpoints to keep data flows consistent and the shopping journey clear.",
-    impact:
-      "Showcased practical full-stack capability with Next.js and Ruby on Rails, improving confidence in building complete web products end-to-end.",
   },
 ];
 
