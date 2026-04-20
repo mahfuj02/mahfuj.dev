@@ -48,8 +48,13 @@ function IphoneModel() {
 
 export function IphoneModelViewer({ className }: ViewerProps) {
   return (
-    <div className={className}>
-      <Canvas camera={{ position: [0, 0.14, 6.25], fov: 30 }} gl={{ alpha: true, antialias: true }}>
+    <div className={className} style={{ background: "transparent" }}>
+      <Canvas
+        camera={{ position: [0, 0.14, 6.25], fov: 30 }}
+        gl={{ alpha: true, antialias: true }}
+        style={{ background: "transparent" }}
+        onCreated={({ gl }) => { gl.setClearColor(0x000000, 0); }}
+      >
         <ambientLight intensity={0.8} />
         <directionalLight position={[4, 4, 3]} intensity={1.4} />
         <directionalLight position={[-3, 2, -4]} intensity={0.6} />
