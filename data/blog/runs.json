@@ -184,7 +184,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-04-19T09:06:55.674Z",
       "publishedSlug": "minimum-number-of-removals-to-make-mountain-array-solution-notes"
+    },
+    "2026-04-20": {
+      "problemKey": "leetcode:1507",
+      "slug": "check-if-there-is-a-valid-path-in-a-grid-solution-notes",
+      "sourceTitle": "Check if There is a Valid Path in a Grid",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-20T17:19:02.772Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-04-20",
+    "problemKey": "leetcode:1507",
+    "post": {
+      "slug": "check-if-there-is-a-valid-path-in-a-grid-solution-notes",
+      "title": "Check if There is a Valid Path in a Grid: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Check if There is a Valid Path in a Grid with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Check if There is a Valid Path in a Grid",
+      "sourceUrl": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Check if There is a Valid Path in a Grid with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Check if There is a Valid Path in a Grid\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Check if There is a Valid Path in a Grid\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Check if There is a Valid Path in a Grid\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
