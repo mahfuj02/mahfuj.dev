@@ -200,15 +200,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-04-21T21:05:25.871Z"
+    },
+    "2026-04-22": {
+      "problemKey": "leetcode:2863",
+      "slug": "calculator-with-method-chaining-solution-notes",
+      "sourceTitle": "Calculator with Method Chaining",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-22T03:42:21.678Z"
     }
   },
   "activeDraft": {
-    "date": "2026-04-21",
-    "problemKey": "leetcode:1457",
+    "date": "2026-04-22",
+    "problemKey": "leetcode:2863",
     "post": {
-      "slug": "minimum-difficulty-of-a-job-schedule-solution-notes",
-      "title": "Minimum Difficulty of a Job Schedule: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Minimum Difficulty of a Job Schedule with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "calculator-with-method-chaining-solution-notes",
+      "title": "Calculator with Method Chaining: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Calculator with Method Chaining with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -216,10 +224,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Minimum Difficulty of a Job Schedule",
-      "sourceUrl": "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Difficulty of a Job Schedule with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Calculator with Method Chaining",
+      "sourceUrl": "https://leetcode.com/problems/calculator-with-method-chaining/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Calculator with Method Chaining with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -232,9 +240,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Minimum Difficulty of a Job Schedule\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Minimum Difficulty of a Job Schedule\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Minimum Difficulty of a Job Schedule\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Calculator with Method Chaining\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Calculator with Method Chaining\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Calculator with Method Chaining\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
