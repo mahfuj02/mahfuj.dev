@@ -205,9 +205,9 @@
       "problemKey": "leetcode:2863",
       "slug": "calculator-with-method-chaining-solution-notes",
       "sourceTitle": "Calculator with Method Chaining",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-04-22T03:42:21.678Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-04-22T06:10:22.179Z"
     }
   },
   "activeDraft": {
@@ -227,17 +227,18 @@
       "sourceTitle": "Calculator with Method Chaining",
       "sourceUrl": "https://leetcode.com/problems/calculator-with-method-chaining/",
       "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Calculator with Method Chaining with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Calculator with Method Chaining with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Calculator with Method Chaining\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
