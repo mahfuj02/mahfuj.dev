@@ -75,6 +75,34 @@ export const projects: Project[] = [
       "Created a practical support platform that helps autistic users build communication habits and access timely help when needed.",
   },
   {
+    id: "safe-drive-ai",
+    slug: "safe-drive-ai",
+    title: "SafeDrive AI",
+    category: "Mobile App Development",
+    bannerImage: "/projects/safe-drive-screen.jpg",
+    bannerAlt: "SafeDrive AI speed monitoring app banner",
+    year: "2025",
+    role: "Mobile App Developer",
+    summary:
+      "A real-time AI-powered speed monitoring app for iOS and Android that detects your current speed, fetches live speed limits from OpenStreetMap, and alerts drivers through voice, haptics, and visual cues when speeding.",
+    details: [
+      "Built a cross-platform React Native app with Expo and TypeScript that tracks GPS speed at 1-second intervals using expo-location, with a dual-calculation fallback combining sensor data and derived velocity.",
+      "Integrated the OpenStreetMap Overpass API to fetch live road speed limits within a 300m radius, parsing road class defaults, directional limits, school zone conditional tags, and time-based rules (e.g. school hours only).",
+      "Implemented custom haversine and bearing algorithms from scratch for road proximity detection and upcoming speed limit prediction with a 220m pre-warn distance — no external geo library used.",
+      "Designed a multi-modal alert system combining expo-speech voice TTS ('Reduce speed now'), expo-haptics, and visual state indicators (Safe / Warning / Alert) with configurable +5/+10/+15 km/h thresholds.",
+      "Built alert fatigue prevention logic requiring 4 seconds of sustained overspeed before triggering, plus a 25-second cooldown between alerts to avoid driver distraction.",
+      "Optimized performance using useRef-based tracking for non-render state, debounced API calls with 7-second and 70-metre movement thresholds, and a 35-second staleness cache for speed limit data.",
+      "Shipped cross-platform builds via EAS Build for iOS App Store and Android Play Store, with a demo mode that simulates drives without GPS for testing and development.",
+    ],
+    stack: ["React Native", "Expo", "TypeScript", "EAS Build", "Overpass API", "expo-location", "expo-speech", "expo-haptics"],
+    challenge:
+      "Speed limit data from OpenStreetMap contains complex conditional tags (time-of-day, day-of-week, school zones) with no standard library for parsing them — and querying the API on every GPS tick would hammer the endpoint.",
+    solution:
+      "Built a custom conditional tag parser for OpenStreetMap maxspeed:conditional rules and implemented bearing-based speed limit prediction, with debounced API calls and a 35-second cache to keep the app performant and offline-resilient.",
+    impact:
+      "Delivered a fully on-device, privacy-first speed monitoring app with zero backend dependency — all geospatial logic, alert logic, and data parsing runs locally on the device across both iOS and Android.",
+  },
+  {
     id: "game-hub",
     slug: "game-hub",
     title: "Game Hub",
