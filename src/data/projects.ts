@@ -84,21 +84,23 @@ export const projects: Project[] = [
     year: "2023",
     role: "Frontend Developer",
     summary:
-      "A game discovery web app built as an early React project, where users can browse, filter, sort, and explore detailed game information.",
+      "A game discovery web app built with Vue 3 and TypeScript, where users can browse, filter, and explore games powered by the RAWG API with infinite scroll, cached queries, and a typed composable architecture.",
     details: [
-      "Built one of my first full React projects after learning React fundamentals and component architecture.",
-      "Integrated external game data APIs to display game cards, ratings, genres, platforms, and detail pages.",
-      "Implemented filtering and sorting flows to improve game search and browsing experience.",
-      "Designed responsive layouts with reusable UI components for desktop and mobile screens.",
-      "Focused on clean state management, API error handling, and smoother user interactions.",
+      "Built a Vue 3 application using the Composition API with TypeScript throughout, structuring logic into reusable composables (useGames, useGenres, usePlatforms) for clean separation of concerns.",
+      "Integrated the RAWG Video Games API via a generic typed APIClient<T> class wrapping Axios, enabling consistent and type-safe REST data fetching across the app.",
+      "Implemented TanStack Vue Query for server-state management, providing automatic caching, background refetching, and infinite scroll pagination for the game grid.",
+      "Added Apollo Client with GraphQL and @vue/apollo-composable as a secondary data source, demonstrating multi-protocol API integration within a single frontend project.",
+      "Managed global UI state — including active genre, platform, and sort filters — using Pinia stores, keeping filter state consistent across route changes.",
+      "Built component-based UI with GameCard, GameGrid, GenreList, and NavBar components, all wired to Vue Router v5 for client-side navigation.",
+      "Configured Vite v8 as the build tool and vue-tsc for TypeScript checking, keeping dev server startup fast and type errors caught at build time.",
     ],
-    stack: ["React", "TypeScript", "API Integration", "Responsive UI", "Figma"],
+    stack: ["Vue 3", "TypeScript", "Pinia", "TanStack Vue Query", "Axios", "Apollo Client", "GraphQL", "Vue Router", "Vite"],
     challenge:
-      "As a first major React project, the challenge was combining API-driven data, interactive filters, and clean component structure in a production-like UI.",
+      "Building a scalable game browser required coordinating multiple data sources (REST and GraphQL), persistent filter state across routes, and smooth pagination — all while keeping the codebase typed and maintainable.",
     solution:
-      "Created a modular React interface with reusable components, organized state, and clear browsing workflows for discovering games quickly.",
+      "Designed a composable-first architecture with a typed API client, Pinia for global filter state, TanStack Query for cached REST pagination, and Apollo Client for GraphQL — each layer cleanly separated and reusable.",
     impact:
-      "Strengthened my frontend engineering foundation and demonstrated practical skills in building API-powered React applications end-to-end.",
+      "Delivered a production-quality Vue 3 application demonstrating advanced frontend patterns including multi-protocol API integration, composable data-fetching, and type-safe state management across a real dataset.",
   },
 ];
 
