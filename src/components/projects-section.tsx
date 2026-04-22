@@ -34,19 +34,16 @@ export function ProjectsSection() {
           <div className="flex justify-center lg:justify-start">
             <IphoneModelViewer className="h-[600px] w-[360px] lg:-ml-6" />
           </div>
-          <div className="mt-4 flex items-center gap-4 justify-center lg:justify-start lg:pl-2">
-            <span className="text-2xl text-zinc-500">↗</span>
+          <Link
+            href="/projects/safe-drive-ai"
+            className="mt-4 flex items-center gap-4 justify-center lg:justify-start lg:pl-2 group"
+          >
+            <span className="text-2xl text-zinc-500 transition-colors group-hover:text-zinc-300">↗</span>
             <div>
               <p className="font-mono text-xs uppercase tracking-widest text-zinc-500">Featured Mobile App</p>
-              <p className="mt-0.5 text-xl font-bold text-zinc-100">SafeDrive AI</p>
+              <p className="mt-0.5 text-xl font-bold text-zinc-100 transition-colors group-hover:text-zinc-300">SafeDrive AI</p>
             </div>
-            <Link
-              href="/projects/safe-drive-ai"
-              className="ml-auto rounded-full border border-zinc-700 px-4 py-1.5 font-mono text-xs text-zinc-300 transition-colors hover:border-zinc-500 hover:text-zinc-100"
-            >
-              View project →
-            </Link>
-          </div>
+          </Link>
         </div>
       </div>
 
