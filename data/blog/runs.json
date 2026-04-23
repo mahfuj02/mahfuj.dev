@@ -210,7 +210,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-04-22T09:52:03.622Z",
       "publishedSlug": "calculator-with-method-chaining-solution-notes"
+    },
+    "2026-04-23": {
+      "problemKey": "leetcode:404",
+      "slug": "sum-of-left-leaves-solution-notes",
+      "sourceTitle": "Sum of Left Leaves",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-23T06:17:08.641Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-04-23",
+    "problemKey": "leetcode:404",
+    "post": {
+      "slug": "sum-of-left-leaves-solution-notes",
+      "title": "Sum of Left Leaves: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Sum of Left Leaves with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Sum of Left Leaves",
+      "sourceUrl": "https://leetcode.com/problems/sum-of-left-leaves/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Sum of Left Leaves with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Sum of Left Leaves\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Sum of Left Leaves\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Sum of Left Leaves\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
