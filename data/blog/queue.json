@@ -822,6 +822,244 @@
           "cpp": "// C++ template for Can Place Flowers\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:279",
+      "post": {
+        "slug": "perfect-squares-solution-notes",
+        "title": "Perfect Squares: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Perfect Squares with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Perfect Squares",
+        "sourceUrl": "https://leetcode.com/problems/perfect-squares/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Perfect Squares with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Perfect Squares\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Perfect Squares\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Perfect Squares\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:412",
+      "post": {
+        "slug": "fizz-buzz-solution-notes",
+        "title": "Fizz Buzz: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Fizz Buzz with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Fizz Buzz",
+        "sourceUrl": "https://leetcode.com/problems/fizz-buzz/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Fizz Buzz with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Fizz Buzz\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Fizz Buzz\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Fizz Buzz\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1858",
+      "post": {
+        "slug": "latest-time-by-replacing-hidden-digits-solution-notes",
+        "title": "Latest Time by Replacing Hidden Digits: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Latest Time by Replacing Hidden Digits with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Latest Time by Replacing Hidden Digits",
+        "sourceUrl": "https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Latest Time by Replacing Hidden Digits with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Latest Time by Replacing Hidden Digits\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Latest Time by Replacing Hidden Digits\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Latest Time by Replacing Hidden Digits\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2418",
+      "post": {
+        "slug": "minimum-sum-of-squared-difference-solution-notes",
+        "title": "Minimum Sum of Squared Difference: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Minimum Sum of Squared Difference with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Minimum Sum of Squared Difference",
+        "sourceUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Minimum Sum of Squared Difference with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Minimum Sum of Squared Difference\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Minimum Sum of Squared Difference\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Minimum Sum of Squared Difference\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3568",
+      "post": {
+        "slug": "find-the-key-of-the-numbers-solution-notes",
+        "title": "Find the Key of the Numbers: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Find the Key of the Numbers with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Find the Key of the Numbers",
+        "sourceUrl": "https://leetcode.com/problems/find-the-key-of-the-numbers/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Find the Key of the Numbers with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Find the Key of the Numbers\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Find the Key of the Numbers\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Find the Key of the Numbers\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2550",
+      "post": {
+        "slug": "words-within-two-edits-of-dictionary-solution-notes",
+        "title": "Words Within Two Edits of Dictionary: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Words Within Two Edits of Dictionary with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Words Within Two Edits of Dictionary",
+        "sourceUrl": "https://leetcode.com/problems/words-within-two-edits-of-dictionary/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Words Within Two Edits of Dictionary with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Words Within Two Edits of Dictionary\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Words Within Two Edits of Dictionary\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Words Within Two Edits of Dictionary\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1891",
+      "post": {
+        "slug": "count-pairs-of-nodes-solution-notes",
+        "title": "Count Pairs Of Nodes: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Count Pairs Of Nodes with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Count Pairs Of Nodes",
+        "sourceUrl": "https://leetcode.com/problems/count-pairs-of-nodes/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Count Pairs Of Nodes with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Count Pairs Of Nodes\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Count Pairs Of Nodes\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Count Pairs Of Nodes\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
