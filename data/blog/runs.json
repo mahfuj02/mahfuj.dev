@@ -220,7 +220,51 @@
       "commitsToday": 3,
       "updatedAt": "2026-04-23T14:10:29.735Z",
       "publishedSlug": "sum-of-left-leaves-solution-notes"
+    },
+    "2026-04-24": {
+      "problemKey": "leetcode:978",
+      "slug": "valid-mountain-array-solution-notes",
+      "sourceTitle": "Valid Mountain Array",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-24T09:54:56.700Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-04-24",
+    "problemKey": "leetcode:978",
+    "post": {
+      "slug": "valid-mountain-array-solution-notes",
+      "title": "Valid Mountain Array: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Valid Mountain Array with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode",
+        "data-structures"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Valid Mountain Array",
+      "sourceUrl": "https://leetcode.com/problems/valid-mountain-array/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Valid Mountain Array with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Valid Mountain Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Valid Mountain Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Valid Mountain Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
