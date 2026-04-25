@@ -14,7 +14,8 @@
     "2026-04-19",
     "2026-04-22",
     "2026-04-23",
-    "2026-04-24"
+    "2026-04-24",
+    "2026-04-25"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -235,47 +236,11 @@
       "problemKey": "leetcode:2707",
       "slug": "merge-two-2d-arrays-by-summing-values-solution-notes",
       "sourceTitle": "Merge Two 2D Arrays by Summing Values",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-04-25T17:01:02.196Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-04-25T20:56:44.603Z",
+      "publishedSlug": "merge-two-2d-arrays-by-summing-values-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-04-25",
-    "problemKey": "leetcode:2707",
-    "post": {
-      "slug": "merge-two-2d-arrays-by-summing-values-solution-notes",
-      "title": "Merge Two 2D Arrays by Summing Values: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Merge Two 2D Arrays by Summing Values with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode",
-        "data-structures"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Merge Two 2D Arrays by Summing Values",
-      "sourceUrl": "https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/",
-      "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Merge Two 2D Arrays by Summing Values with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Merge Two 2D Arrays by Summing Values\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Merge Two 2D Arrays by Summing Values\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Merge Two 2D Arrays by Summing Values\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
