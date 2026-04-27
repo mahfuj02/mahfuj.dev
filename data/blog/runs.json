@@ -248,42 +248,50 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-04-26T20:57:26.752Z"
+    },
+    "2026-04-27": {
+      "problemKey": "leetcode:3731",
+      "slug": "sum-of-variable-length-subarrays-solution-notes",
+      "sourceTitle": "Sum of Variable Length Subarrays",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-27T21:16:42.363Z"
     }
   },
   "activeDraft": {
-    "date": "2026-04-26",
-    "problemKey": "leetcode:1858",
+    "date": "2026-04-27",
+    "problemKey": "leetcode:3731",
     "post": {
-      "slug": "latest-time-by-replacing-hidden-digits-solution-notes",
-      "title": "Latest Time by Replacing Hidden Digits: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Latest Time by Replacing Hidden Digits with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "sum-of-variable-length-subarrays-solution-notes",
+      "title": "Sum of Variable Length Subarrays: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Sum of Variable Length Subarrays with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode"
+        "leetcode",
+        "data-structures"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Latest Time by Replacing Hidden Digits",
-      "sourceUrl": "https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/",
+      "sourceTitle": "Sum of Variable Length Subarrays",
+      "sourceUrl": "https://leetcode.com/problems/sum-of-variable-length-subarrays/",
       "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Latest Time by Replacing Hidden Digits with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Sum of Variable Length Subarrays with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Latest Time by Replacing Hidden Digits\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Latest Time by Replacing Hidden Digits\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Latest Time by Replacing Hidden Digits\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Sum of Variable Length Subarrays\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Sum of Variable Length Subarrays\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Sum of Variable Length Subarrays\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }

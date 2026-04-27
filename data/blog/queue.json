@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "problemKey": "leetcode:3731",
-      "post": {
-        "slug": "sum-of-variable-length-subarrays-solution-notes",
-        "title": "Sum of Variable Length Subarrays: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Sum of Variable Length Subarrays with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode",
-          "data-structures"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Sum of Variable Length Subarrays",
-        "sourceUrl": "https://leetcode.com/problems/sum-of-variable-length-subarrays/",
-        "difficulty": "Easy",
-        "problemInMyWords": "In my own words, this problem asks me to solve Sum of Variable Length Subarrays with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Sum of Variable Length Subarrays\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Sum of Variable Length Subarrays\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Sum of Variable Length Subarrays\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:1227",
       "post": {
         "slug": "number-of-equivalent-domino-pairs-solution-notes",
