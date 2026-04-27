@@ -922,6 +922,246 @@
           "cpp": "// C++ template for Count Pairs Of Nodes\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:987",
+      "post": {
+        "slug": "reveal-cards-in-increasing-order-solution-notes",
+        "title": "Reveal Cards In Increasing Order: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Reveal Cards In Increasing Order with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Reveal Cards In Increasing Order",
+        "sourceUrl": "https://leetcode.com/problems/reveal-cards-in-increasing-order/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Reveal Cards In Increasing Order with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Reveal Cards In Increasing Order\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Reveal Cards In Increasing Order\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Reveal Cards In Increasing Order\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:992",
+      "post": {
+        "slug": "delete-columns-to-make-sorted-ii-solution-notes",
+        "title": "Delete Columns to Make Sorted II: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Delete Columns to Make Sorted II with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Delete Columns to Make Sorted II",
+        "sourceUrl": "https://leetcode.com/problems/delete-columns-to-make-sorted-ii/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Delete Columns to Make Sorted II with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Delete Columns to Make Sorted II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Delete Columns to Make Sorted II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Delete Columns to Make Sorted II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:81",
+      "post": {
+        "slug": "search-in-rotated-sorted-array-ii-solution-notes",
+        "title": "Search in Rotated Sorted Array II: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Search in Rotated Sorted Array II with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Search in Rotated Sorted Array II",
+        "sourceUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Search in Rotated Sorted Array II with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Search in Rotated Sorted Array II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Search in Rotated Sorted Array II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Search in Rotated Sorted Array II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2377",
+      "post": {
+        "slug": "check-if-number-has-equal-digit-count-and-digit-value-solution-notes",
+        "title": "Check if Number Has Equal Digit Count and Digit Value: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Check if Number Has Equal Digit Count and Digit Value with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Check if Number Has Equal Digit Count and Digit Value",
+        "sourceUrl": "https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Check if Number Has Equal Digit Count and Digit Value with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Check if Number Has Equal Digit Count and Digit Value\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Check if Number Has Equal Digit Count and Digit Value\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Check if Number Has Equal Digit Count and Digit Value\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2113",
+      "post": {
+        "slug": "find-the-kth-largest-integer-in-the-array-solution-notes",
+        "title": "Find the Kth Largest Integer in the Array: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Find the Kth Largest Integer in the Array with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Find the Kth Largest Integer in the Array",
+        "sourceUrl": "https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Find the Kth Largest Integer in the Array with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Find the Kth Largest Integer in the Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Find the Kth Largest Integer in the Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Find the Kth Largest Integer in the Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2008",
+      "post": {
+        "slug": "minimum-cost-to-change-the-final-value-of-expression-solution-notes",
+        "title": "Minimum Cost to Change the Final Value of Expression: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Minimum Cost to Change the Final Value of Expression with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Minimum Cost to Change the Final Value of Expression",
+        "sourceUrl": "https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Minimum Cost to Change the Final Value of Expression with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Minimum Cost to Change the Final Value of Expression\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Minimum Cost to Change the Final Value of Expression\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Minimum Cost to Change the Final Value of Expression\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:632",
+      "post": {
+        "slug": "smallest-range-covering-elements-from-k-lists-solution-notes",
+        "title": "Smallest Range Covering Elements from K Lists: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Smallest Range Covering Elements from K Lists with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Smallest Range Covering Elements from K Lists",
+        "sourceUrl": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Smallest Range Covering Elements from K Lists with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Smallest Range Covering Elements from K Lists\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Smallest Range Covering Elements from K Lists\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Smallest Range Covering Elements from K Lists\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
