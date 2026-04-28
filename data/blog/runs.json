@@ -256,27 +256,34 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-04-27T21:16:42.363Z"
+    },
+    "2026-04-28": {
+      "problemKey": "leetcode:1276",
+      "slug": "closest-divisors-solution-notes",
+      "sourceTitle": "Closest Divisors",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-28T04:05:04.639Z"
     }
   },
   "activeDraft": {
-    "date": "2026-04-27",
-    "problemKey": "leetcode:3731",
+    "date": "2026-04-28",
+    "problemKey": "leetcode:1276",
     "post": {
-      "slug": "sum-of-variable-length-subarrays-solution-notes",
-      "title": "Sum of Variable Length Subarrays: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Sum of Variable Length Subarrays with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "closest-divisors-solution-notes",
+      "title": "Closest Divisors: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Closest Divisors with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode",
-        "data-structures"
+        "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Sum of Variable Length Subarrays",
-      "sourceUrl": "https://leetcode.com/problems/sum-of-variable-length-subarrays/",
-      "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Sum of Variable Length Subarrays with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Closest Divisors",
+      "sourceUrl": "https://leetcode.com/problems/closest-divisors/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Closest Divisors with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -289,9 +296,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Sum of Variable Length Subarrays\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Sum of Variable Length Subarrays\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Sum of Variable Length Subarrays\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Closest Divisors\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Closest Divisors\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Closest Divisors\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
