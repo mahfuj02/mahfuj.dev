@@ -15,7 +15,8 @@
     "2026-04-22",
     "2026-04-23",
     "2026-04-24",
-    "2026-04-25"
+    "2026-04-25",
+    "2026-04-28"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -261,46 +262,11 @@
       "problemKey": "leetcode:1276",
       "slug": "closest-divisors-solution-notes",
       "sourceTitle": "Closest Divisors",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-04-28T06:43:45.294Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-04-28T10:24:57.284Z",
+      "publishedSlug": "closest-divisors-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-04-28",
-    "problemKey": "leetcode:1276",
-    "post": {
-      "slug": "closest-divisors-solution-notes",
-      "title": "Closest Divisors: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Closest Divisors with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Closest Divisors",
-      "sourceUrl": "https://leetcode.com/problems/closest-divisors/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Closest Divisors with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Closest Divisors\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Closest Divisors\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Closest Divisors\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
