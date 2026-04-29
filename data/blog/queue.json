@@ -958,40 +958,6 @@
       }
     },
     {
-      "problemKey": "leetcode:2377",
-      "post": {
-        "slug": "check-if-number-has-equal-digit-count-and-digit-value-solution-notes",
-        "title": "Check if Number Has Equal Digit Count and Digit Value: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Check if Number Has Equal Digit Count and Digit Value with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Check if Number Has Equal Digit Count and Digit Value",
-        "sourceUrl": "https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/",
-        "difficulty": "Easy",
-        "problemInMyWords": "In my own words, this problem asks me to solve Check if Number Has Equal Digit Count and Digit Value with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Check if Number Has Equal Digit Count and Digit Value\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Check if Number Has Equal Digit Count and Digit Value\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Check if Number Has Equal Digit Count and Digit Value\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:2113",
       "post": {
         "slug": "find-the-kth-largest-integer-in-the-array-solution-notes",
