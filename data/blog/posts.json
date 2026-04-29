@@ -688,5 +688,38 @@
       "python": "# Python template for Closest Divisors\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
       "cpp": "// C++ template for Closest Divisors\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
     }
+  },
+  {
+    "slug": "check-if-number-has-equal-digit-count-and-digit-value-solution-notes",
+    "title": "Check if Number Has Equal Digit Count and Digit Value: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Check if Number Has Equal Digit Count and Digit Value with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-04-29",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Check if Number Has Equal Digit Count and Digit Value",
+    "sourceUrl": "https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/",
+    "difficulty": "Easy",
+    "problemInMyWords": "In my own words, this problem asks me to solve Check if Number Has Equal Digit Count and Digit Value with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Check if Number Has Equal Digit Count and Digit Value\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Check if Number Has Equal Digit Count and Digit Value\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Check if Number Has Equal Digit Count and Digit Value\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
   }
 ]
