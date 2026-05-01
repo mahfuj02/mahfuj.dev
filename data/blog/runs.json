@@ -284,26 +284,35 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-04-30T21:15:25.205Z"
+    },
+    "2026-05-01": {
+      "problemKey": "leetcode:81",
+      "slug": "search-in-rotated-sorted-array-ii-solution-notes",
+      "sourceTitle": "Search in Rotated Sorted Array II",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-01T17:13:20.808Z"
     }
   },
   "activeDraft": {
-    "date": "2026-04-30",
-    "problemKey": "leetcode:780",
+    "date": "2026-05-01",
+    "problemKey": "leetcode:81",
     "post": {
-      "slug": "max-chunks-to-make-sorted-solution-notes",
-      "title": "Max Chunks To Make Sorted: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Max Chunks To Make Sorted with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "search-in-rotated-sorted-array-ii-solution-notes",
+      "title": "Search in Rotated Sorted Array II: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Search in Rotated Sorted Array II with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode"
+        "leetcode",
+        "data-structures"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Max Chunks To Make Sorted",
-      "sourceUrl": "https://leetcode.com/problems/max-chunks-to-make-sorted/",
+      "sourceTitle": "Search in Rotated Sorted Array II",
+      "sourceUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Max Chunks To Make Sorted with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Search in Rotated Sorted Array II with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -316,9 +325,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Max Chunks To Make Sorted\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Max Chunks To Make Sorted\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Max Chunks To Make Sorted\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Search in Rotated Sorted Array II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Search in Rotated Sorted Array II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Search in Rotated Sorted Array II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
