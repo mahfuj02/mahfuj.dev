@@ -292,43 +292,49 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-05-01T21:06:58.700Z"
+    },
+    "2026-05-02": {
+      "problemKey": "leetcode:3568",
+      "slug": "find-the-key-of-the-numbers-solution-notes",
+      "sourceTitle": "Find the Key of the Numbers",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-02T21:00:04.579Z"
     }
   },
   "activeDraft": {
-    "date": "2026-05-01",
-    "problemKey": "leetcode:81",
+    "date": "2026-05-02",
+    "problemKey": "leetcode:3568",
     "post": {
-      "slug": "search-in-rotated-sorted-array-ii-solution-notes",
-      "title": "Search in Rotated Sorted Array II: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Search in Rotated Sorted Array II with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "find-the-key-of-the-numbers-solution-notes",
+      "title": "Find the Key of the Numbers: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Find the Key of the Numbers with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode",
-        "data-structures"
+        "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Search in Rotated Sorted Array II",
-      "sourceUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Search in Rotated Sorted Array II with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "sourceTitle": "Find the Key of the Numbers",
+      "sourceUrl": "https://leetcode.com/problems/find-the-key-of-the-numbers/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Find the Key of the Numbers with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Search in Rotated Sorted Array II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Search in Rotated Sorted Array II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Search in Rotated Sorted Array II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Find the Key of the Numbers\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Find the Key of the Numbers\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Find the Key of the Numbers\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
