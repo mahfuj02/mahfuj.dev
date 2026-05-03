@@ -300,15 +300,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-05-02T21:00:04.579Z"
+    },
+    "2026-05-03": {
+      "problemKey": "leetcode:2553",
+      "slug": "total-cost-to-hire-k-workers-solution-notes",
+      "sourceTitle": "Total Cost to Hire K Workers",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-03T04:11:09.951Z"
     }
   },
   "activeDraft": {
-    "date": "2026-05-02",
-    "problemKey": "leetcode:3568",
+    "date": "2026-05-03",
+    "problemKey": "leetcode:2553",
     "post": {
-      "slug": "find-the-key-of-the-numbers-solution-notes",
-      "title": "Find the Key of the Numbers: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Find the Key of the Numbers with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "total-cost-to-hire-k-workers-solution-notes",
+      "title": "Total Cost to Hire K Workers: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Total Cost to Hire K Workers with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -316,10 +324,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Find the Key of the Numbers",
-      "sourceUrl": "https://leetcode.com/problems/find-the-key-of-the-numbers/",
-      "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Find the Key of the Numbers with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Total Cost to Hire K Workers",
+      "sourceUrl": "https://leetcode.com/problems/total-cost-to-hire-k-workers/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Total Cost to Hire K Workers with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -332,9 +340,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Find the Key of the Numbers\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Find the Key of the Numbers\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Find the Key of the Numbers\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Total Cost to Hire K Workers\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Total Cost to Hire K Workers\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Total Cost to Hire K Workers\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
