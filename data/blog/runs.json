@@ -310,7 +310,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-05-03T09:39:57.753Z",
       "publishedSlug": "total-cost-to-hire-k-workers-solution-notes"
+    },
+    "2026-05-04": {
+      "problemKey": "leetcode:632",
+      "slug": "smallest-range-covering-elements-from-k-lists-solution-notes",
+      "sourceTitle": "Smallest Range Covering Elements from K Lists",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-04T04:08:27.384Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-05-04",
+    "problemKey": "leetcode:632",
+    "post": {
+      "slug": "smallest-range-covering-elements-from-k-lists-solution-notes",
+      "title": "Smallest Range Covering Elements from K Lists: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Smallest Range Covering Elements from K Lists with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Smallest Range Covering Elements from K Lists",
+      "sourceUrl": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Smallest Range Covering Elements from K Lists with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Smallest Range Covering Elements from K Lists\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Smallest Range Covering Elements from K Lists\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Smallest Range Covering Elements from K Lists\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
