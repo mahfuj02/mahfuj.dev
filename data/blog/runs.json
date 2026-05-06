@@ -20,7 +20,8 @@
     "2026-04-29",
     "2026-05-03",
     "2026-05-04",
-    "2026-05-05"
+    "2026-05-05",
+    "2026-05-06"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -335,47 +336,11 @@
       "problemKey": "leetcode:4216",
       "slug": "weighted-word-mapping-solution-notes",
       "sourceTitle": "Weighted Word Mapping",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-05-06T17:52:28.286Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-06T21:20:21.148Z",
+      "publishedSlug": "weighted-word-mapping-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-05-06",
-    "problemKey": "leetcode:4216",
-    "post": {
-      "slug": "weighted-word-mapping-solution-notes",
-      "title": "Weighted Word Mapping: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Weighted Word Mapping with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode",
-        "data-structures"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Weighted Word Mapping",
-      "sourceUrl": "https://leetcode.com/problems/weighted-word-mapping/",
-      "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Weighted Word Mapping with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Weighted Word Mapping\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Weighted Word Mapping\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Weighted Word Mapping\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
