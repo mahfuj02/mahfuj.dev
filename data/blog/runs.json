@@ -330,7 +330,51 @@
       "commitsToday": 3,
       "updatedAt": "2026-05-05T17:49:02.168Z",
       "publishedSlug": "burst-balloons-solution-notes"
+    },
+    "2026-05-06": {
+      "problemKey": "leetcode:4216",
+      "slug": "weighted-word-mapping-solution-notes",
+      "sourceTitle": "Weighted Word Mapping",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-06T14:46:12.097Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-05-06",
+    "problemKey": "leetcode:4216",
+    "post": {
+      "slug": "weighted-word-mapping-solution-notes",
+      "title": "Weighted Word Mapping: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Weighted Word Mapping with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode",
+        "data-structures"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Weighted Word Mapping",
+      "sourceUrl": "https://leetcode.com/problems/weighted-word-mapping/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Weighted Word Mapping with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Weighted Word Mapping\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Weighted Word Mapping\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Weighted Word Mapping\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
