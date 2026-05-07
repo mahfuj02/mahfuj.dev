@@ -340,7 +340,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-05-06T21:20:21.148Z",
       "publishedSlug": "weighted-word-mapping-solution-notes"
+    },
+    "2026-05-07": {
+      "problemKey": "leetcode:2418",
+      "slug": "minimum-sum-of-squared-difference-solution-notes",
+      "sourceTitle": "Minimum Sum of Squared Difference",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-07T17:57:42.538Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-05-07",
+    "problemKey": "leetcode:2418",
+    "post": {
+      "slug": "minimum-sum-of-squared-difference-solution-notes",
+      "title": "Minimum Sum of Squared Difference: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Minimum Sum of Squared Difference with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Minimum Sum of Squared Difference",
+      "sourceUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Sum of Squared Difference with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Minimum Sum of Squared Difference\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Minimum Sum of Squared Difference\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Minimum Sum of Squared Difference\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
