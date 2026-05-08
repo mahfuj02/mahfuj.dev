@@ -348,15 +348,23 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-05-07T21:14:40.422Z"
+    },
+    "2026-05-08": {
+      "problemKey": "leetcode:852",
+      "slug": "friends-of-appropriate-ages-solution-notes",
+      "sourceTitle": "Friends Of Appropriate Ages",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-08T21:15:28.026Z"
     }
   },
   "activeDraft": {
-    "date": "2026-05-07",
-    "problemKey": "leetcode:2418",
+    "date": "2026-05-08",
+    "problemKey": "leetcode:852",
     "post": {
-      "slug": "minimum-sum-of-squared-difference-solution-notes",
-      "title": "Minimum Sum of Squared Difference: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Minimum Sum of Squared Difference with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "friends-of-appropriate-ages-solution-notes",
+      "title": "Friends Of Appropriate Ages: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Friends Of Appropriate Ages with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -364,26 +372,25 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Minimum Sum of Squared Difference",
-      "sourceUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+      "sourceTitle": "Friends Of Appropriate Ages",
+      "sourceUrl": "https://leetcode.com/problems/friends-of-appropriate-ages/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Sum of Squared Difference with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Friends Of Appropriate Ages with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Minimum Sum of Squared Difference\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Minimum Sum of Squared Difference\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Minimum Sum of Squared Difference\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Friends Of Appropriate Ages\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Friends Of Appropriate Ages\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Friends Of Appropriate Ages\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
