@@ -207,40 +207,6 @@
       }
     },
     {
-      "problemKey": "leetcode:476",
-      "post": {
-        "slug": "number-complement-solution-notes",
-        "title": "Number Complement: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Number Complement with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Number Complement",
-        "sourceUrl": "https://leetcode.com/problems/number-complement/",
-        "difficulty": "Easy",
-        "problemInMyWords": "In my own words, this problem asks me to solve Number Complement with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Number Complement\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Number Complement\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Number Complement\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:968",
       "post": {
         "slug": "beautiful-array-solution-notes",
