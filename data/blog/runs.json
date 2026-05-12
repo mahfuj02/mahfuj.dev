@@ -382,15 +382,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-05-11T21:41:17.051Z"
+    },
+    "2026-05-12": {
+      "problemKey": "leetcode:396",
+      "slug": "rotate-function-solution-notes",
+      "sourceTitle": "Rotate Function",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-12T04:04:41.105Z"
     }
   },
   "activeDraft": {
-    "date": "2026-05-11",
-    "problemKey": "leetcode:987",
+    "date": "2026-05-12",
+    "problemKey": "leetcode:396",
     "post": {
-      "slug": "reveal-cards-in-increasing-order-solution-notes",
-      "title": "Reveal Cards In Increasing Order: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Reveal Cards In Increasing Order with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "rotate-function-solution-notes",
+      "title": "Rotate Function: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Rotate Function with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -398,10 +406,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Reveal Cards In Increasing Order",
-      "sourceUrl": "https://leetcode.com/problems/reveal-cards-in-increasing-order/",
+      "sourceTitle": "Rotate Function",
+      "sourceUrl": "https://leetcode.com/problems/rotate-function/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Reveal Cards In Increasing Order with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Rotate Function with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -414,9 +422,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Reveal Cards In Increasing Order\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Reveal Cards In Increasing Order\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Reveal Cards In Increasing Order\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Rotate Function\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Rotate Function\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Rotate Function\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
