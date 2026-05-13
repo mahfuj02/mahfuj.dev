@@ -392,7 +392,51 @@
       "commitsToday": 3,
       "updatedAt": "2026-05-12T10:41:30.535Z",
       "publishedSlug": "rotate-function-solution-notes"
+    },
+    "2026-05-13": {
+      "problemKey": "leetcode:2747",
+      "slug": "apply-transform-over-each-element-in-array-solution-notes",
+      "sourceTitle": "Apply Transform Over Each Element in Array",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-13T04:11:51.441Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-05-13",
+    "problemKey": "leetcode:2747",
+    "post": {
+      "slug": "apply-transform-over-each-element-in-array-solution-notes",
+      "title": "Apply Transform Over Each Element in Array: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Apply Transform Over Each Element in Array with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode",
+        "data-structures"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Apply Transform Over Each Element in Array",
+      "sourceUrl": "https://leetcode.com/problems/apply-transform-over-each-element-in-array/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Apply Transform Over Each Element in Array with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Apply Transform Over Each Element in Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Apply Transform Over Each Element in Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Apply Transform Over Each Element in Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
