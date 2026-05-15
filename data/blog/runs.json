@@ -417,9 +417,9 @@
       "problemKey": "leetcode:1005",
       "slug": "univalued-binary-tree-solution-notes",
       "sourceTitle": "Univalued Binary Tree",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-05-15T14:34:29.982Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-05-15T17:52:20.499Z"
     }
   },
   "activeDraft": {
@@ -440,17 +440,18 @@
       "sourceTitle": "Univalued Binary Tree",
       "sourceUrl": "https://leetcode.com/problems/univalued-binary-tree/",
       "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Univalued Binary Tree with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Univalued Binary Tree with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Univalued Binary Tree\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
