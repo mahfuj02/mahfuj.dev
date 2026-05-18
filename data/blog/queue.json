@@ -1605,6 +1605,246 @@
           "cpp": "// C++ template for Minimized Maximum of Products Distributed to Any Store\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:2162",
+      "post": {
+        "slug": "partition-array-into-two-arrays-to-minimize-sum-difference-solution-notes",
+        "title": "Partition Array Into Two Arrays to Minimize Sum Difference: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Partition Array Into Two Arrays to Minimize Sum Difference with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Partition Array Into Two Arrays to Minimize Sum Difference",
+        "sourceUrl": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Partition Array Into Two Arrays to Minimize Sum Difference with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Partition Array Into Two Arrays to Minimize Sum Difference\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Partition Array Into Two Arrays to Minimize Sum Difference\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Partition Array Into Two Arrays to Minimize Sum Difference\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3579",
+      "post": {
+        "slug": "maximum-possible-number-by-binary-concatenation-solution-notes",
+        "title": "Maximum Possible Number by Binary Concatenation: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Maximum Possible Number by Binary Concatenation with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Maximum Possible Number by Binary Concatenation",
+        "sourceUrl": "https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Maximum Possible Number by Binary Concatenation with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Maximum Possible Number by Binary Concatenation\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Maximum Possible Number by Binary Concatenation\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Maximum Possible Number by Binary Concatenation\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:4247",
+      "post": {
+        "slug": "minimum-capacity-box-solution-notes",
+        "title": "Minimum Capacity Box: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Minimum Capacity Box with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Minimum Capacity Box",
+        "sourceUrl": "https://leetcode.com/problems/minimum-capacity-box/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Minimum Capacity Box with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Minimum Capacity Box\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Minimum Capacity Box\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Minimum Capacity Box\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3557",
+      "post": {
+        "slug": "minimum-number-of-valid-strings-to-form-target-ii-solution-notes",
+        "title": "Minimum Number of Valid Strings to Form Target II: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Minimum Number of Valid Strings to Form Target II with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Minimum Number of Valid Strings to Form Target II",
+        "sourceUrl": "https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Minimum Number of Valid Strings to Form Target II with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Minimum Number of Valid Strings to Form Target II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Minimum Number of Valid Strings to Form Target II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Minimum Number of Valid Strings to Form Target II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:4067",
+      "post": {
+        "slug": "design-auction-system-solution-notes",
+        "title": "Design Auction System: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Design Auction System with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Design Auction System",
+        "sourceUrl": "https://leetcode.com/problems/design-auction-system/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Design Auction System with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Design Auction System\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Design Auction System\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Design Auction System\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2012",
+      "post": {
+        "slug": "process-tasks-using-servers-solution-notes",
+        "title": "Process Tasks Using Servers: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Process Tasks Using Servers with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Process Tasks Using Servers",
+        "sourceUrl": "https://leetcode.com/problems/process-tasks-using-servers/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Process Tasks Using Servers with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Process Tasks Using Servers\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Process Tasks Using Servers\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Process Tasks Using Servers\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2415",
+      "post": {
+        "slug": "count-the-number-of-ideal-arrays-solution-notes",
+        "title": "Count the Number of Ideal Arrays: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Count the Number of Ideal Arrays with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Count the Number of Ideal Arrays",
+        "sourceUrl": "https://leetcode.com/problems/count-the-number-of-ideal-arrays/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Count the Number of Ideal Arrays with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Count the Number of Ideal Arrays\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Count the Number of Ideal Arrays\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Count the Number of Ideal Arrays\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
