@@ -438,27 +438,34 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-05-17T21:08:05.992Z"
+    },
+    "2026-05-18": {
+      "problemKey": "leetcode:3104",
+      "slug": "happy-students-solution-notes",
+      "sourceTitle": "Happy Students",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-18T04:41:09.204Z"
     }
   },
   "activeDraft": {
-    "date": "2026-05-17",
-    "problemKey": "leetcode:2436",
+    "date": "2026-05-18",
+    "problemKey": "leetcode:3104",
     "post": {
-      "slug": "make-array-zero-by-subtracting-equal-amounts-solution-notes",
-      "title": "Make Array Zero by Subtracting Equal Amounts: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Make Array Zero by Subtracting Equal Amounts with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "happy-students-solution-notes",
+      "title": "Happy Students: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Happy Students with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode",
-        "data-structures"
+        "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Make Array Zero by Subtracting Equal Amounts",
-      "sourceUrl": "https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/",
-      "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Make Array Zero by Subtracting Equal Amounts with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Happy Students",
+      "sourceUrl": "https://leetcode.com/problems/happy-students/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Happy Students with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -471,9 +478,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Make Array Zero by Subtracting Equal Amounts\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Make Array Zero by Subtracting Equal Amounts\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Make Array Zero by Subtracting Equal Amounts\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Happy Students\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Happy Students\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Happy Students\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
