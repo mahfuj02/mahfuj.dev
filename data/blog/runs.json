@@ -448,7 +448,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-05-18T15:55:46.239Z",
       "publishedSlug": "happy-students-solution-notes"
+    },
+    "2026-05-19": {
+      "problemKey": "leetcode:1227",
+      "slug": "number-of-equivalent-domino-pairs-solution-notes",
+      "sourceTitle": "Number of Equivalent Domino Pairs",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-19T04:33:20.109Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-05-19",
+    "problemKey": "leetcode:1227",
+    "post": {
+      "slug": "number-of-equivalent-domino-pairs-solution-notes",
+      "title": "Number of Equivalent Domino Pairs: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Number of Equivalent Domino Pairs with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Number of Equivalent Domino Pairs",
+      "sourceUrl": "https://leetcode.com/problems/number-of-equivalent-domino-pairs/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Number of Equivalent Domino Pairs with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Number of Equivalent Domino Pairs\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Number of Equivalent Domino Pairs\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Number of Equivalent Domino Pairs\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
