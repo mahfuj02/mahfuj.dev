@@ -521,5 +521,571 @@
       "python": "# Python template for Minimum Number of Removals to Make Mountain Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
       "cpp": "// C++ template for Minimum Number of Removals to Make Mountain Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
     }
+  },
+  {
+    "slug": "calculator-with-method-chaining-solution-notes",
+    "title": "Calculator with Method Chaining: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Calculator with Method Chaining with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-04-22",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Calculator with Method Chaining",
+    "sourceUrl": "https://leetcode.com/problems/calculator-with-method-chaining/",
+    "difficulty": "Easy",
+    "problemInMyWords": "In my own words, this problem asks me to solve Calculator with Method Chaining with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Calculator with Method Chaining\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Calculator with Method Chaining\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Calculator with Method Chaining\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "sum-of-left-leaves-solution-notes",
+    "title": "Sum of Left Leaves: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Sum of Left Leaves with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-04-23",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Sum of Left Leaves",
+    "sourceUrl": "https://leetcode.com/problems/sum-of-left-leaves/",
+    "difficulty": "Easy",
+    "problemInMyWords": "In my own words, this problem asks me to solve Sum of Left Leaves with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Sum of Left Leaves\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Sum of Left Leaves\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Sum of Left Leaves\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "valid-mountain-array-solution-notes",
+    "title": "Valid Mountain Array: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Valid Mountain Array with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-04-24",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode",
+      "data-structures"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Valid Mountain Array",
+    "sourceUrl": "https://leetcode.com/problems/valid-mountain-array/",
+    "difficulty": "Easy",
+    "problemInMyWords": "In my own words, this problem asks me to solve Valid Mountain Array with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Valid Mountain Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Valid Mountain Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Valid Mountain Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "merge-two-2d-arrays-by-summing-values-solution-notes",
+    "title": "Merge Two 2D Arrays by Summing Values: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Merge Two 2D Arrays by Summing Values with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-04-25",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode",
+      "data-structures"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Merge Two 2D Arrays by Summing Values",
+    "sourceUrl": "https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/",
+    "difficulty": "Easy",
+    "problemInMyWords": "In my own words, this problem asks me to solve Merge Two 2D Arrays by Summing Values with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Merge Two 2D Arrays by Summing Values\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Merge Two 2D Arrays by Summing Values\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Merge Two 2D Arrays by Summing Values\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "closest-divisors-solution-notes",
+    "title": "Closest Divisors: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Closest Divisors with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-04-28",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Closest Divisors",
+    "sourceUrl": "https://leetcode.com/problems/closest-divisors/",
+    "difficulty": "Medium",
+    "problemInMyWords": "In my own words, this problem asks me to solve Closest Divisors with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Closest Divisors\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Closest Divisors\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Closest Divisors\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "check-if-number-has-equal-digit-count-and-digit-value-solution-notes",
+    "title": "Check if Number Has Equal Digit Count and Digit Value: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Check if Number Has Equal Digit Count and Digit Value with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-04-29",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Check if Number Has Equal Digit Count and Digit Value",
+    "sourceUrl": "https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/",
+    "difficulty": "Easy",
+    "problemInMyWords": "In my own words, this problem asks me to solve Check if Number Has Equal Digit Count and Digit Value with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Check if Number Has Equal Digit Count and Digit Value\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Check if Number Has Equal Digit Count and Digit Value\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Check if Number Has Equal Digit Count and Digit Value\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "total-cost-to-hire-k-workers-solution-notes",
+    "title": "Total Cost to Hire K Workers: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Total Cost to Hire K Workers with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-03",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Total Cost to Hire K Workers",
+    "sourceUrl": "https://leetcode.com/problems/total-cost-to-hire-k-workers/",
+    "difficulty": "Medium",
+    "problemInMyWords": "In my own words, this problem asks me to solve Total Cost to Hire K Workers with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Total Cost to Hire K Workers\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Total Cost to Hire K Workers\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Total Cost to Hire K Workers\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "smallest-range-covering-elements-from-k-lists-solution-notes",
+    "title": "Smallest Range Covering Elements from K Lists: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Smallest Range Covering Elements from K Lists with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-04",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Smallest Range Covering Elements from K Lists",
+    "sourceUrl": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/",
+    "difficulty": "Hard",
+    "problemInMyWords": "In my own words, this problem asks me to solve Smallest Range Covering Elements from K Lists with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Smallest Range Covering Elements from K Lists\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Smallest Range Covering Elements from K Lists\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Smallest Range Covering Elements from K Lists\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "burst-balloons-solution-notes",
+    "title": "Burst Balloons: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Burst Balloons with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-05",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Burst Balloons",
+    "sourceUrl": "https://leetcode.com/problems/burst-balloons/",
+    "difficulty": "Hard",
+    "problemInMyWords": "In my own words, this problem asks me to solve Burst Balloons with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Burst Balloons\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Burst Balloons\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Burst Balloons\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "weighted-word-mapping-solution-notes",
+    "title": "Weighted Word Mapping: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Weighted Word Mapping with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-06",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode",
+      "data-structures"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Weighted Word Mapping",
+    "sourceUrl": "https://leetcode.com/problems/weighted-word-mapping/",
+    "difficulty": "Easy",
+    "problemInMyWords": "In my own words, this problem asks me to solve Weighted Word Mapping with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Weighted Word Mapping\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Weighted Word Mapping\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Weighted Word Mapping\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "number-complement-solution-notes",
+    "title": "Number Complement: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Number Complement with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-09",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Number Complement",
+    "sourceUrl": "https://leetcode.com/problems/number-complement/",
+    "difficulty": "Easy",
+    "problemInMyWords": "In my own words, this problem asks me to solve Number Complement with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Number Complement\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Number Complement\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Number Complement\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "rotate-function-solution-notes",
+    "title": "Rotate Function: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Rotate Function with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-12",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Rotate Function",
+    "sourceUrl": "https://leetcode.com/problems/rotate-function/",
+    "difficulty": "Medium",
+    "problemInMyWords": "In my own words, this problem asks me to solve Rotate Function with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Rotate Function\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Rotate Function\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Rotate Function\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "apply-transform-over-each-element-in-array-solution-notes",
+    "title": "Apply Transform Over Each Element in Array: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Apply Transform Over Each Element in Array with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-13",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode",
+      "data-structures"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Apply Transform Over Each Element in Array",
+    "sourceUrl": "https://leetcode.com/problems/apply-transform-over-each-element-in-array/",
+    "difficulty": "Easy",
+    "problemInMyWords": "In my own words, this problem asks me to solve Apply Transform Over Each Element in Array with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Apply Transform Over Each Element in Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Apply Transform Over Each Element in Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Apply Transform Over Each Element in Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "brace-expansion-ii-solution-notes",
+    "title": "Brace Expansion II: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Brace Expansion II with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-14",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Brace Expansion II",
+    "sourceUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+    "difficulty": "Hard",
+    "problemInMyWords": "In my own words, this problem asks me to solve Brace Expansion II with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Brace Expansion II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Brace Expansion II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Brace Expansion II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "univalued-binary-tree-solution-notes",
+    "title": "Univalued Binary Tree: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Univalued Binary Tree with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-15",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode",
+      "data-structures"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Univalued Binary Tree",
+    "sourceUrl": "https://leetcode.com/problems/univalued-binary-tree/",
+    "difficulty": "Easy",
+    "problemInMyWords": "In my own words, this problem asks me to solve Univalued Binary Tree with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Univalued Binary Tree\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Univalued Binary Tree\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Univalued Binary Tree\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "happy-students-solution-notes",
+    "title": "Happy Students: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Happy Students with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-18",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Happy Students",
+    "sourceUrl": "https://leetcode.com/problems/happy-students/",
+    "difficulty": "Medium",
+    "problemInMyWords": "In my own words, this problem asks me to solve Happy Students with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Happy Students\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Happy Students\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Happy Students\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "number-of-equivalent-domino-pairs-solution-notes",
+    "title": "Number of Equivalent Domino Pairs: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Number of Equivalent Domino Pairs with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-19",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Number of Equivalent Domino Pairs",
+    "sourceUrl": "https://leetcode.com/problems/number-of-equivalent-domino-pairs/",
+    "difficulty": "Easy",
+    "problemInMyWords": "In my own words, this problem asks me to solve Number of Equivalent Domino Pairs with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Number of Equivalent Domino Pairs\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Number of Equivalent Domino Pairs\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Number of Equivalent Domino Pairs\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
   }
 ]

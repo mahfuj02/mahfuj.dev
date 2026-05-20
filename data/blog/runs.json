@@ -11,7 +11,24 @@
     "2026-04-14",
     "2026-04-15",
     "2026-04-16",
-    "2026-04-19"
+    "2026-04-19",
+    "2026-04-22",
+    "2026-04-23",
+    "2026-04-24",
+    "2026-04-25",
+    "2026-04-28",
+    "2026-04-29",
+    "2026-05-03",
+    "2026-05-04",
+    "2026-05-05",
+    "2026-05-06",
+    "2026-05-09",
+    "2026-05-12",
+    "2026-05-13",
+    "2026-05-14",
+    "2026-05-15",
+    "2026-05-18",
+    "2026-05-19"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -200,42 +217,248 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-04-21T21:05:25.871Z"
+    },
+    "2026-04-22": {
+      "problemKey": "leetcode:2863",
+      "slug": "calculator-with-method-chaining-solution-notes",
+      "sourceTitle": "Calculator with Method Chaining",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-04-22T09:52:03.622Z",
+      "publishedSlug": "calculator-with-method-chaining-solution-notes"
+    },
+    "2026-04-23": {
+      "problemKey": "leetcode:404",
+      "slug": "sum-of-left-leaves-solution-notes",
+      "sourceTitle": "Sum of Left Leaves",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-04-23T14:10:29.735Z",
+      "publishedSlug": "sum-of-left-leaves-solution-notes"
+    },
+    "2026-04-24": {
+      "problemKey": "leetcode:978",
+      "slug": "valid-mountain-array-solution-notes",
+      "sourceTitle": "Valid Mountain Array",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-04-24T17:13:00.320Z",
+      "publishedSlug": "valid-mountain-array-solution-notes"
+    },
+    "2026-04-25": {
+      "problemKey": "leetcode:2707",
+      "slug": "merge-two-2d-arrays-by-summing-values-solution-notes",
+      "sourceTitle": "Merge Two 2D Arrays by Summing Values",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-04-25T20:56:44.603Z",
+      "publishedSlug": "merge-two-2d-arrays-by-summing-values-solution-notes"
+    },
+    "2026-04-26": {
+      "problemKey": "leetcode:1858",
+      "slug": "latest-time-by-replacing-hidden-digits-solution-notes",
+      "sourceTitle": "Latest Time by Replacing Hidden Digits",
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-04-26T20:57:26.752Z"
+    },
+    "2026-04-27": {
+      "problemKey": "leetcode:3731",
+      "slug": "sum-of-variable-length-subarrays-solution-notes",
+      "sourceTitle": "Sum of Variable Length Subarrays",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-27T21:16:42.363Z"
+    },
+    "2026-04-28": {
+      "problemKey": "leetcode:1276",
+      "slug": "closest-divisors-solution-notes",
+      "sourceTitle": "Closest Divisors",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-04-28T10:24:57.284Z",
+      "publishedSlug": "closest-divisors-solution-notes"
+    },
+    "2026-04-29": {
+      "problemKey": "leetcode:2377",
+      "slug": "check-if-number-has-equal-digit-count-and-digit-value-solution-notes",
+      "sourceTitle": "Check if Number Has Equal Digit Count and Digit Value",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-04-29T10:19:50.779Z",
+      "publishedSlug": "check-if-number-has-equal-digit-count-and-digit-value-solution-notes"
+    },
+    "2026-04-30": {
+      "problemKey": "leetcode:780",
+      "slug": "max-chunks-to-make-sorted-solution-notes",
+      "sourceTitle": "Max Chunks To Make Sorted",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-04-30T21:15:25.205Z"
+    },
+    "2026-05-01": {
+      "problemKey": "leetcode:81",
+      "slug": "search-in-rotated-sorted-array-ii-solution-notes",
+      "sourceTitle": "Search in Rotated Sorted Array II",
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-05-01T21:06:58.700Z"
+    },
+    "2026-05-02": {
+      "problemKey": "leetcode:3568",
+      "slug": "find-the-key-of-the-numbers-solution-notes",
+      "sourceTitle": "Find the Key of the Numbers",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-02T21:00:04.579Z"
+    },
+    "2026-05-03": {
+      "problemKey": "leetcode:2553",
+      "slug": "total-cost-to-hire-k-workers-solution-notes",
+      "sourceTitle": "Total Cost to Hire K Workers",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-03T09:39:57.753Z",
+      "publishedSlug": "total-cost-to-hire-k-workers-solution-notes"
+    },
+    "2026-05-04": {
+      "problemKey": "leetcode:632",
+      "slug": "smallest-range-covering-elements-from-k-lists-solution-notes",
+      "sourceTitle": "Smallest Range Covering Elements from K Lists",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-04T10:24:40.415Z",
+      "publishedSlug": "smallest-range-covering-elements-from-k-lists-solution-notes"
+    },
+    "2026-05-05": {
+      "problemKey": "leetcode:312",
+      "slug": "burst-balloons-solution-notes",
+      "sourceTitle": "Burst Balloons",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-05T17:49:02.168Z",
+      "publishedSlug": "burst-balloons-solution-notes"
+    },
+    "2026-05-06": {
+      "problemKey": "leetcode:4216",
+      "slug": "weighted-word-mapping-solution-notes",
+      "sourceTitle": "Weighted Word Mapping",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-06T21:20:21.148Z",
+      "publishedSlug": "weighted-word-mapping-solution-notes"
+    },
+    "2026-05-07": {
+      "problemKey": "leetcode:2418",
+      "slug": "minimum-sum-of-squared-difference-solution-notes",
+      "sourceTitle": "Minimum Sum of Squared Difference",
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-05-07T21:14:40.422Z"
+    },
+    "2026-05-08": {
+      "problemKey": "leetcode:852",
+      "slug": "friends-of-appropriate-ages-solution-notes",
+      "sourceTitle": "Friends Of Appropriate Ages",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-08T21:15:28.026Z"
+    },
+    "2026-05-09": {
+      "problemKey": "leetcode:476",
+      "slug": "number-complement-solution-notes",
+      "sourceTitle": "Number Complement",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-09T09:43:19.581Z",
+      "publishedSlug": "number-complement-solution-notes"
+    },
+    "2026-05-10": {
+      "problemKey": "leetcode:1361",
+      "slug": "tiling-a-rectangle-with-the-fewest-squares-solution-notes",
+      "sourceTitle": "Tiling a Rectangle with the Fewest Squares",
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-05-10T21:05:28.317Z"
+    },
+    "2026-05-11": {
+      "problemKey": "leetcode:987",
+      "slug": "reveal-cards-in-increasing-order-solution-notes",
+      "sourceTitle": "Reveal Cards In Increasing Order",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-11T21:41:17.051Z"
+    },
+    "2026-05-12": {
+      "problemKey": "leetcode:396",
+      "slug": "rotate-function-solution-notes",
+      "sourceTitle": "Rotate Function",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-12T10:41:30.535Z",
+      "publishedSlug": "rotate-function-solution-notes"
+    },
+    "2026-05-13": {
+      "problemKey": "leetcode:2747",
+      "slug": "apply-transform-over-each-element-in-array-solution-notes",
+      "sourceTitle": "Apply Transform Over Each Element in Array",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-13T10:42:52.129Z",
+      "publishedSlug": "apply-transform-over-each-element-in-array-solution-notes"
+    },
+    "2026-05-14": {
+      "problemKey": "leetcode:1188",
+      "slug": "brace-expansion-ii-solution-notes",
+      "sourceTitle": "Brace Expansion II",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-14T18:07:08.618Z",
+      "publishedSlug": "brace-expansion-ii-solution-notes"
+    },
+    "2026-05-15": {
+      "problemKey": "leetcode:1005",
+      "slug": "univalued-binary-tree-solution-notes",
+      "sourceTitle": "Univalued Binary Tree",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-15T21:18:09.512Z",
+      "publishedSlug": "univalued-binary-tree-solution-notes"
+    },
+    "2026-05-16": {
+      "problemKey": "leetcode:4041",
+      "slug": "climbing-stairs-ii-solution-notes",
+      "sourceTitle": "Climbing Stairs II",
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-05-16T21:04:18.805Z"
+    },
+    "2026-05-17": {
+      "problemKey": "leetcode:2436",
+      "slug": "make-array-zero-by-subtracting-equal-amounts-solution-notes",
+      "sourceTitle": "Make Array Zero by Subtracting Equal Amounts",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-17T21:08:05.992Z"
+    },
+    "2026-05-18": {
+      "problemKey": "leetcode:3104",
+      "slug": "happy-students-solution-notes",
+      "sourceTitle": "Happy Students",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-18T15:55:46.239Z",
+      "publishedSlug": "happy-students-solution-notes"
+    },
+    "2026-05-19": {
+      "problemKey": "leetcode:1227",
+      "slug": "number-of-equivalent-domino-pairs-solution-notes",
+      "sourceTitle": "Number of Equivalent Domino Pairs",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-19T15:48:23.391Z",
+      "publishedSlug": "number-of-equivalent-domino-pairs-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-04-21",
-    "problemKey": "leetcode:1457",
-    "post": {
-      "slug": "minimum-difficulty-of-a-job-schedule-solution-notes",
-      "title": "Minimum Difficulty of a Job Schedule: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Minimum Difficulty of a Job Schedule with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Minimum Difficulty of a Job Schedule",
-      "sourceUrl": "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Difficulty of a Job Schedule with a correct and efficient strategy while handling edge cases cleanly.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Minimum Difficulty of a Job Schedule\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Minimum Difficulty of a Job Schedule\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Minimum Difficulty of a Job Schedule\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
