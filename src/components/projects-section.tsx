@@ -136,6 +136,7 @@ export function ProjectsSection() {
                   alt={project.bannerAlt}
                   fill
                   className="object-cover"
+                  unoptimized={project.bannerImage.endsWith(".gif")}
                   sizes="(min-width: 1024px) 33vw, 100vw"
                 />
               </div>

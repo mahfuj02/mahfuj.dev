@@ -1,6 +1,6 @@
 "use client";
 
-import { Suspense, useMemo, useRef } from "react";
+import { Suspense, useMemo, useRef, useState } from "react";
 import { Canvas, useFrame } from "@react-three/fiber";
 import { Environment, useGLTF } from "@react-three/drei";
 import * as THREE from "three";
@@ -47,13 +47,22 @@ function IphoneModel() {
 }
 
 export function IphoneModelViewer({ className }: ViewerProps) {
+  const [canvasKey, setCanvasKey] = useState(0);
+
   return (
     <div className={className} style={{ background: "transparent" }}>
       <Canvas
+        key={canvasKey}
         camera={{ position: [0, 0.14, 6.25], fov: 30 }}
         gl={{ alpha: true, antialias: true }}
         style={{ background: "transparent" }}
-        onCreated={({ gl }) => { gl.setClearColor(0x000000, 0); }}
+        onCreated={({ gl }) => {
+          gl.setClearColor(0x000000, 0);
+          gl.domElement.addEventListener("webglcontextlost", (e) => {
+            e.preventDefault();
+            setTimeout(() => setCanvasKey((k) => k + 1), 300);
+          });
+        }}
       >
         <ambientLight intensity={0.8} />
         <directionalLight position={[4, 4, 3]} intensity={1.4} />

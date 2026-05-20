@@ -103,6 +103,35 @@ export const projects: Project[] = [
       "Delivered a fully on-device, privacy-first speed monitoring app with zero backend dependency — all geospatial logic, alert logic, and data parsing runs locally on the device across both iOS and Android.",
   },
   {
+    id: "av-device-controller",
+    slug: "av-device-controller",
+    title: "AV Device Controller",
+    category: "Systems Programming",
+    bannerImage: "/projects/av-device-controller-demo.gif",
+    bannerAlt: "AV Device Controller terminal demo",
+    year: "2025",
+    role: "Systems Developer",
+    summary:
+      "A C++17 command-line system for managing multiple AV displays in venues through centralized control, featuring real-time temperature monitoring, timestamped event logging, and a five-layer architecture designed to swap the CLI for a JSON API or web interface without touching core logic.",
+    details: [
+      "Built a C++17 CLI application with zero external dependencies, relying entirely on the standard library for a portable, self-contained CMake build.",
+      "Designed a five-layer architecture separating Parser, Controller, Display, Logger, and Alert concerns — each independently testable and replaceable without modifying adjacent layers.",
+      "Implemented broadcast and individual display control using DISPLAY <id> and ALL command prefixes, supporting power, volume, brightness, and input source (HDMI/AV/DP) across all connected displays simultaneously.",
+      "Built a simulated temperature monitoring subsystem with configurable alert thresholds that emit timestamped warnings when sensor readings exceed configured limits.",
+      "Implemented append-mode event logging to logs/events.log with microsecond timestamps, recording all confirmed state changes for operational audit and replay.",
+      "Supported file-based configuration loading from config/displays.cfg with case-insensitive parsing, comment and blank-line handling — display names updatable without recompilation.",
+      "Shipped a testing suite with custom parser unit tests and file-driven integration tests using scripted input files for repeatable, automated validation.",
+    ],
+    stack: ["C++17", "CMake", "Standard Library"],
+    challenge:
+      "Coordinating state across multiple AV displays in a venue requires reliable broadcast control, live temperature feedback, and durable event logging — all without external dependencies that could complicate deployment on venue hardware.",
+    solution:
+      "Designed a grammar-aware parser and centralized controller separated by layer boundaries, with a passive logger and alert subsystem that consume state transitions without coupling to command logic — keeping each concern independently testable.",
+    impact:
+      "Delivered a fully portable, zero-dependency AV management system demonstrating clean layered C++ design, real-time monitoring, and rigorous testing — deployable on any machine where CMake is available.",
+    githubUrl: "https://github.com/mahfuj02/av-device-controller",
+  },
+  {
     id: "game-hub",
     slug: "game-hub",
     title: "Game Hub",

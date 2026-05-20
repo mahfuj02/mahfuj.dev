@@ -84,6 +84,7 @@ export default async function ProjectPage({
                 fill
                 className="object-contain"
                 priority
+                unoptimized={project.bannerImage.endsWith(".gif")}
                 sizes="(min-width: 1024px) 60vw, 100vw"
               />
             </div>
