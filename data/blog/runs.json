@@ -466,15 +466,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-05-20T22:03:52.397Z"
+    },
+    "2026-05-21": {
+      "problemKey": "leetcode:205",
+      "slug": "isomorphic-strings-solution-notes",
+      "sourceTitle": "Isomorphic Strings",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-21T04:43:17.215Z"
     }
   },
   "activeDraft": {
-    "date": "2026-05-20",
-    "problemKey": "leetcode:2188",
+    "date": "2026-05-21",
+    "problemKey": "leetcode:205",
     "post": {
-      "slug": "minimized-maximum-of-products-distributed-to-any-store-solution-notes",
-      "title": "Minimized Maximum of Products Distributed to Any Store: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Minimized Maximum of Products Distributed to Any Store with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "isomorphic-strings-solution-notes",
+      "title": "Isomorphic Strings: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Isomorphic Strings with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -482,10 +490,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Minimized Maximum of Products Distributed to Any Store",
-      "sourceUrl": "https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Minimized Maximum of Products Distributed to Any Store with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Isomorphic Strings",
+      "sourceUrl": "https://leetcode.com/problems/isomorphic-strings/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Isomorphic Strings with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -498,9 +506,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Minimized Maximum of Products Distributed to Any Store\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Minimized Maximum of Products Distributed to Any Store\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Minimized Maximum of Products Distributed to Any Store\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Isomorphic Strings\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Isomorphic Strings\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Isomorphic Strings\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
