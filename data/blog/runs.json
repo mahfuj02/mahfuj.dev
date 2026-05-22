@@ -29,7 +29,8 @@
     "2026-05-15",
     "2026-05-18",
     "2026-05-19",
-    "2026-05-21"
+    "2026-05-21",
+    "2026-05-22"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -481,46 +482,11 @@
       "problemKey": "leetcode:2715",
       "slug": "k-items-with-the-maximum-sum-solution-notes",
       "sourceTitle": "K Items With the Maximum Sum",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-05-22T11:17:23.828Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-22T15:21:38.809Z",
+      "publishedSlug": "k-items-with-the-maximum-sum-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-05-22",
-    "problemKey": "leetcode:2715",
-    "post": {
-      "slug": "k-items-with-the-maximum-sum-solution-notes",
-      "title": "K Items With the Maximum Sum: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for K Items With the Maximum Sum with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "K Items With the Maximum Sum",
-      "sourceUrl": "https://leetcode.com/problems/k-items-with-the-maximum-sum/",
-      "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve K Items With the Maximum Sum with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for K Items With the Maximum Sum\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for K Items With the Maximum Sum\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for K Items With the Maximum Sum\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
