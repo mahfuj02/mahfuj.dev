@@ -959,40 +959,6 @@
       }
     },
     {
-      "problemKey": "leetcode:719",
-      "post": {
-        "slug": "find-k-th-smallest-pair-distance-solution-notes",
-        "title": "Find K-th Smallest Pair Distance: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Find K-th Smallest Pair Distance with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Find K-th Smallest Pair Distance",
-        "sourceUrl": "https://leetcode.com/problems/find-k-th-smallest-pair-distance/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Find K-th Smallest Pair Distance with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Find K-th Smallest Pair Distance\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Find K-th Smallest Pair Distance\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Find K-th Smallest Pair Distance\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:2921",
       "post": {
         "slug": "count-stepping-numbers-in-range-solution-notes",
