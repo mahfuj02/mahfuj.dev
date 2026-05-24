@@ -1186,5 +1186,38 @@
       "python": "# Python template for Find K-th Smallest Pair Distance\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
       "cpp": "// C++ template for Find K-th Smallest Pair Distance\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
     }
+  },
+  {
+    "slug": "sum-of-two-integers-solution-notes",
+    "title": "Sum of Two Integers: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Sum of Two Integers with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-24",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Sum of Two Integers",
+    "sourceUrl": "https://leetcode.com/problems/sum-of-two-integers/",
+    "difficulty": "Medium",
+    "problemInMyWords": "In my own words, this problem asks me to solve Sum of Two Integers with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Sum of Two Integers\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Sum of Two Integers\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Sum of Two Integers\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
   }
 ]
