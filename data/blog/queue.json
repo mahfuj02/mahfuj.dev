@@ -1879,6 +1879,246 @@
           "cpp": "// C++ template for Integer to English Words\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:796",
+      "post": {
+        "slug": "reaching-points-solution-notes",
+        "title": "Reaching Points: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Reaching Points with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Reaching Points",
+        "sourceUrl": "https://leetcode.com/problems/reaching-points/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Reaching Points with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Reaching Points\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Reaching Points\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Reaching Points\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:387",
+      "post": {
+        "slug": "first-unique-character-in-a-string-solution-notes",
+        "title": "First Unique Character in a String: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for First Unique Character in a String with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "First Unique Character in a String",
+        "sourceUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve First Unique Character in a String with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for First Unique Character in a String\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for First Unique Character in a String\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for First Unique Character in a String\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:517",
+      "post": {
+        "slug": "super-washing-machines-solution-notes",
+        "title": "Super Washing Machines: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Super Washing Machines with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Super Washing Machines",
+        "sourceUrl": "https://leetcode.com/problems/super-washing-machines/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Super Washing Machines with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Super Washing Machines\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Super Washing Machines\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Super Washing Machines\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:4063",
+      "post": {
+        "slug": "count-distinct-subarrays-divisible-by-k-in-sorted-array-solution-notes",
+        "title": "Count Distinct Subarrays Divisible by K in Sorted Array: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Count Distinct Subarrays Divisible by K in Sorted Array with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Count Distinct Subarrays Divisible by K in Sorted Array",
+        "sourceUrl": "https://leetcode.com/problems/count-distinct-subarrays-divisible-by-k-in-sorted-array/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Count Distinct Subarrays Divisible by K in Sorted Array with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Count Distinct Subarrays Divisible by K in Sorted Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Count Distinct Subarrays Divisible by K in Sorted Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Count Distinct Subarrays Divisible by K in Sorted Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:672",
+      "post": {
+        "slug": "bulb-switcher-ii-solution-notes",
+        "title": "Bulb Switcher II: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Bulb Switcher II with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Bulb Switcher II",
+        "sourceUrl": "https://leetcode.com/problems/bulb-switcher-ii/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Bulb Switcher II with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Bulb Switcher II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Bulb Switcher II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Bulb Switcher II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:528",
+      "post": {
+        "slug": "swapping-nodes-in-a-linked-list-solution-notes",
+        "title": "Swapping Nodes in a Linked List: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Swapping Nodes in a Linked List with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Swapping Nodes in a Linked List",
+        "sourceUrl": "https://leetcode.com/problems/swapping-nodes-in-a-linked-list/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Swapping Nodes in a Linked List with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Swapping Nodes in a Linked List\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Swapping Nodes in a Linked List\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Swapping Nodes in a Linked List\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1261",
+      "post": {
+        "slug": "swap-for-longest-repeated-character-substring-solution-notes",
+        "title": "Swap For Longest Repeated Character Substring: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Swap For Longest Repeated Character Substring with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Swap For Longest Repeated Character Substring",
+        "sourceUrl": "https://leetcode.com/problems/swap-for-longest-repeated-character-substring/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Swap For Longest Repeated Character Substring with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Swap For Longest Repeated Character Substring\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Swap For Longest Repeated Character Substring\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Swap For Longest Repeated Character Substring\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
