@@ -1403,41 +1403,6 @@
       }
     },
     {
-      "problemKey": "leetcode:2162",
-      "post": {
-        "slug": "partition-array-into-two-arrays-to-minimize-sum-difference-solution-notes",
-        "title": "Partition Array Into Two Arrays to Minimize Sum Difference: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Partition Array Into Two Arrays to Minimize Sum Difference with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode",
-          "data-structures"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Partition Array Into Two Arrays to Minimize Sum Difference",
-        "sourceUrl": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Partition Array Into Two Arrays to Minimize Sum Difference with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Partition Array Into Two Arrays to Minimize Sum Difference\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Partition Array Into Two Arrays to Minimize Sum Difference\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Partition Array Into Two Arrays to Minimize Sum Difference\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:3579",
       "post": {
         "slug": "maximum-possible-number-by-binary-concatenation-solution-notes",
