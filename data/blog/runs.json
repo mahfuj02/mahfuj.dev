@@ -514,43 +514,49 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-05-25T21:33:49.499Z"
+    },
+    "2026-05-26": {
+      "problemKey": "leetcode:3437",
+      "slug": "maximum-total-damage-with-spell-casting-solution-notes",
+      "sourceTitle": "Maximum Total Damage With Spell Casting",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-26T21:58:00.278Z"
     }
   },
   "activeDraft": {
-    "date": "2026-05-25",
-    "problemKey": "leetcode:2162",
+    "date": "2026-05-26",
+    "problemKey": "leetcode:3437",
     "post": {
-      "slug": "partition-array-into-two-arrays-to-minimize-sum-difference-solution-notes",
-      "title": "Partition Array Into Two Arrays to Minimize Sum Difference: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Partition Array Into Two Arrays to Minimize Sum Difference with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "maximum-total-damage-with-spell-casting-solution-notes",
+      "title": "Maximum Total Damage With Spell Casting: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Maximum Total Damage With Spell Casting with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode",
-        "data-structures"
+        "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Partition Array Into Two Arrays to Minimize Sum Difference",
-      "sourceUrl": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Partition Array Into Two Arrays to Minimize Sum Difference with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "sourceTitle": "Maximum Total Damage With Spell Casting",
+      "sourceUrl": "https://leetcode.com/problems/maximum-total-damage-with-spell-casting/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Total Damage With Spell Casting with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Partition Array Into Two Arrays to Minimize Sum Difference\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Partition Array Into Two Arrays to Minimize Sum Difference\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Partition Array Into Two Arrays to Minimize Sum Difference\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Maximum Total Damage With Spell Casting\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Maximum Total Damage With Spell Casting\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Maximum Total Damage With Spell Casting\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }

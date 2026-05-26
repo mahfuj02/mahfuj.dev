@@ -821,40 +821,6 @@
       }
     },
     {
-      "problemKey": "leetcode:3437",
-      "post": {
-        "slug": "maximum-total-damage-with-spell-casting-solution-notes",
-        "title": "Maximum Total Damage With Spell Casting: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Maximum Total Damage With Spell Casting with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Maximum Total Damage With Spell Casting",
-        "sourceUrl": "https://leetcode.com/problems/maximum-total-damage-with-spell-casting/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Maximum Total Damage With Spell Casting with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Maximum Total Damage With Spell Casting\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Maximum Total Damage With Spell Casting\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Maximum Total Damage With Spell Casting\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:892",
       "post": {
         "slug": "shortest-subarray-with-sum-at-least-k-solution-notes",
