@@ -1982,6 +1982,247 @@
           "cpp": "// C++ template for Swap For Longest Repeated Character Substring\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:1247",
+      "post": {
+        "slug": "decrease-elements-to-make-array-zigzag-solution-notes",
+        "title": "Decrease Elements To Make Array Zigzag: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Decrease Elements To Make Array Zigzag with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Decrease Elements To Make Array Zigzag",
+        "sourceUrl": "https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Decrease Elements To Make Array Zigzag with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Decrease Elements To Make Array Zigzag\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Decrease Elements To Make Array Zigzag\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Decrease Elements To Make Array Zigzag\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3172",
+      "post": {
+        "slug": "divisible-and-non-divisible-sums-difference-solution-notes",
+        "title": "Divisible and Non-divisible Sums Difference: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Divisible and Non-divisible Sums Difference with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Divisible and Non-divisible Sums Difference",
+        "sourceUrl": "https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Divisible and Non-divisible Sums Difference with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Divisible and Non-divisible Sums Difference\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Divisible and Non-divisible Sums Difference\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Divisible and Non-divisible Sums Difference\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:617",
+      "post": {
+        "slug": "merge-two-binary-trees-solution-notes",
+        "title": "Merge Two Binary Trees: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Merge Two Binary Trees with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Merge Two Binary Trees",
+        "sourceUrl": "https://leetcode.com/problems/merge-two-binary-trees/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Merge Two Binary Trees with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Merge Two Binary Trees\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Merge Two Binary Trees\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Merge Two Binary Trees\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:155",
+      "post": {
+        "slug": "min-stack-solution-notes",
+        "title": "Min Stack: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Min Stack with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Min Stack",
+        "sourceUrl": "https://leetcode.com/problems/min-stack/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Min Stack with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Min Stack\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Min Stack\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Min Stack\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2168",
+      "post": {
+        "slug": "check-if-numbers-are-ascending-in-a-sentence-solution-notes",
+        "title": "Check if Numbers Are Ascending in a Sentence: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Check if Numbers Are Ascending in a Sentence with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Check if Numbers Are Ascending in a Sentence",
+        "sourceUrl": "https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Check if Numbers Are Ascending in a Sentence with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Check if Numbers Are Ascending in a Sentence\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Check if Numbers Are Ascending in a Sentence\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Check if Numbers Are Ascending in a Sentence\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3076",
+      "post": {
+        "slug": "get-the-size-of-a-dataframe-solution-notes",
+        "title": "Get the Size of a DataFrame: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Get the Size of a DataFrame with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Get the Size of a DataFrame",
+        "sourceUrl": "https://leetcode.com/problems/get-the-size-of-a-dataframe/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Get the Size of a DataFrame with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Get the Size of a DataFrame\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Get the Size of a DataFrame\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Get the Size of a DataFrame\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2361",
+      "post": {
+        "slug": "calculate-digit-sum-of-a-string-solution-notes",
+        "title": "Calculate Digit Sum of a String: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Calculate Digit Sum of a String with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Calculate Digit Sum of a String",
+        "sourceUrl": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Calculate Digit Sum of a String with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Calculate Digit Sum of a String\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Calculate Digit Sum of a String\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Calculate Digit Sum of a String\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
