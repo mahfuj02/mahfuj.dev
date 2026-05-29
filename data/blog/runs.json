@@ -34,7 +34,8 @@
     "2026-05-23",
     "2026-05-24",
     "2026-05-27",
-    "2026-05-28"
+    "2026-05-28",
+    "2026-05-29"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -547,47 +548,11 @@
       "problemKey": "leetcode:892",
       "slug": "shortest-subarray-with-sum-at-least-k-solution-notes",
       "sourceTitle": "Shortest Subarray with Sum at Least K",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-05-29T16:07:56.862Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-29T18:42:27.435Z",
+      "publishedSlug": "shortest-subarray-with-sum-at-least-k-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-05-29",
-    "problemKey": "leetcode:892",
-    "post": {
-      "slug": "shortest-subarray-with-sum-at-least-k-solution-notes",
-      "title": "Shortest Subarray with Sum at Least K: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Shortest Subarray with Sum at Least K with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode",
-        "data-structures"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Shortest Subarray with Sum at Least K",
-      "sourceUrl": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Shortest Subarray with Sum at Least K with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Shortest Subarray with Sum at Least K\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Shortest Subarray with Sum at Least K\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Shortest Subarray with Sum at Least K\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
