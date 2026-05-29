@@ -821,41 +821,6 @@
       }
     },
     {
-      "problemKey": "leetcode:892",
-      "post": {
-        "slug": "shortest-subarray-with-sum-at-least-k-solution-notes",
-        "title": "Shortest Subarray with Sum at Least K: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Shortest Subarray with Sum at Least K with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode",
-          "data-structures"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Shortest Subarray with Sum at Least K",
-        "sourceUrl": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Shortest Subarray with Sum at Least K with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Shortest Subarray with Sum at Least K\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Shortest Subarray with Sum at Least K\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Shortest Subarray with Sum at Least K\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:2119",
       "post": {
         "slug": "minimum-number-of-operations-to-make-array-continuous-solution-notes",
