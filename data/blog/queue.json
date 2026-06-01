@@ -2120,6 +2120,245 @@
           "cpp": "// C++ template for Calculate Digit Sum of a String\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:3948",
+      "post": {
+        "slug": "maximum-number-of-subsequences-after-one-inserting-solution-notes",
+        "title": "Maximum Number of Subsequences After One Inserting: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Maximum Number of Subsequences After One Inserting with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Maximum Number of Subsequences After One Inserting",
+        "sourceUrl": "https://leetcode.com/problems/maximum-number-of-subsequences-after-one-inserting/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Maximum Number of Subsequences After One Inserting with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Maximum Number of Subsequences After One Inserting\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Maximum Number of Subsequences After One Inserting\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Maximum Number of Subsequences After One Inserting\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:292",
+      "post": {
+        "slug": "nim-game-solution-notes",
+        "title": "Nim Game: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Nim Game with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Nim Game",
+        "sourceUrl": "https://leetcode.com/problems/nim-game/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Nim Game with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Nim Game\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Nim Game\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Nim Game\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3932",
+      "post": {
+        "slug": "find-covid-recovery-patients-solution-notes",
+        "title": "Find COVID Recovery Patients: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Find COVID Recovery Patients with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Find COVID Recovery Patients",
+        "sourceUrl": "https://leetcode.com/problems/find-covid-recovery-patients/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Find COVID Recovery Patients with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Find COVID Recovery Patients\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Find COVID Recovery Patients\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Find COVID Recovery Patients\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1197",
+      "post": {
+        "slug": "parsing-a-boolean-expression-solution-notes",
+        "title": "Parsing A Boolean Expression: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Parsing A Boolean Expression with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Parsing A Boolean Expression",
+        "sourceUrl": "https://leetcode.com/problems/parsing-a-boolean-expression/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Parsing A Boolean Expression with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Parsing A Boolean Expression\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Parsing A Boolean Expression\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Parsing A Boolean Expression\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:413",
+      "post": {
+        "slug": "arithmetic-slices-solution-notes",
+        "title": "Arithmetic Slices: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Arithmetic Slices with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Arithmetic Slices",
+        "sourceUrl": "https://leetcode.com/problems/arithmetic-slices/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Arithmetic Slices with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Arithmetic Slices\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Arithmetic Slices\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Arithmetic Slices\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:236",
+      "post": {
+        "slug": "lowest-common-ancestor-of-a-binary-tree-solution-notes",
+        "title": "Lowest Common Ancestor of a Binary Tree: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Lowest Common Ancestor of a Binary Tree with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Lowest Common Ancestor of a Binary Tree",
+        "sourceUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Lowest Common Ancestor of a Binary Tree with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Lowest Common Ancestor of a Binary Tree\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Lowest Common Ancestor of a Binary Tree\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Lowest Common Ancestor of a Binary Tree\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3375",
+      "post": {
+        "slug": "kth-smallest-amount-with-single-denomination-combination-solution-notes",
+        "title": "Kth Smallest Amount With Single Denomination Combination: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Kth Smallest Amount With Single Denomination Combination with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Kth Smallest Amount With Single Denomination Combination",
+        "sourceUrl": "https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Kth Smallest Amount With Single Denomination Combination with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Kth Smallest Amount With Single Denomination Combination\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Kth Smallest Amount With Single Denomination Combination\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Kth Smallest Amount With Single Denomination Combination\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
