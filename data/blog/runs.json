@@ -37,7 +37,8 @@
     "2026-05-28",
     "2026-05-29",
     "2026-05-30",
-    "2026-05-31"
+    "2026-05-31",
+    "2026-06-02"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -585,47 +586,11 @@
       "problemKey": "leetcode:1747",
       "slug": "lexicographically-smallest-string-after-applying-operations-solution-notes",
       "sourceTitle": "Lexicographically Smallest String After Applying Operations",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-06-02T12:14:43.789Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-06-02T16:55:42.136Z",
+      "publishedSlug": "lexicographically-smallest-string-after-applying-operations-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-06-02",
-    "problemKey": "leetcode:1747",
-    "post": {
-      "slug": "lexicographically-smallest-string-after-applying-operations-solution-notes",
-      "title": "Lexicographically Smallest String After Applying Operations: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Lexicographically Smallest String After Applying Operations with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode",
-        "data-structures"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Lexicographically Smallest String After Applying Operations",
-      "sourceUrl": "https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Lexicographically Smallest String After Applying Operations with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Lexicographically Smallest String After Applying Operations\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Lexicographically Smallest String After Applying Operations\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Lexicographically Smallest String After Applying Operations\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
