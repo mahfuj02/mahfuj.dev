@@ -580,26 +580,35 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-06-01T20:35:16.396Z"
+    },
+    "2026-06-02": {
+      "problemKey": "leetcode:1747",
+      "slug": "lexicographically-smallest-string-after-applying-operations-solution-notes",
+      "sourceTitle": "Lexicographically Smallest String After Applying Operations",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-06-02T05:00:02.134Z"
     }
   },
   "activeDraft": {
-    "date": "2026-06-01",
-    "problemKey": "leetcode:3076",
+    "date": "2026-06-02",
+    "problemKey": "leetcode:1747",
     "post": {
-      "slug": "get-the-size-of-a-dataframe-solution-notes",
-      "title": "Get the Size of a DataFrame: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Get the Size of a DataFrame with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "lexicographically-smallest-string-after-applying-operations-solution-notes",
+      "title": "Lexicographically Smallest String After Applying Operations: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Lexicographically Smallest String After Applying Operations with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode"
+        "leetcode",
+        "data-structures"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Get the Size of a DataFrame",
-      "sourceUrl": "https://leetcode.com/problems/get-the-size-of-a-dataframe/",
-      "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Get the Size of a DataFrame with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Lexicographically Smallest String After Applying Operations",
+      "sourceUrl": "https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Lexicographically Smallest String After Applying Operations with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -612,9 +621,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Get the Size of a DataFrame\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Get the Size of a DataFrame\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Get the Size of a DataFrame\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Lexicographically Smallest String After Applying Operations\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Lexicographically Smallest String After Applying Operations\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Lexicographically Smallest String After Applying Operations\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
