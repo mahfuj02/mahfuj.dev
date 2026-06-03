@@ -1129,40 +1129,6 @@
       }
     },
     {
-      "problemKey": "leetcode:740",
-      "post": {
-        "slug": "delete-and-earn-solution-notes",
-        "title": "Delete and Earn: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Delete and Earn with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Delete and Earn",
-        "sourceUrl": "https://leetcode.com/problems/delete-and-earn/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Delete and Earn with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Delete and Earn\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Delete and Earn\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Delete and Earn\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:2182",
       "post": {
         "slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points-solution-notes",
