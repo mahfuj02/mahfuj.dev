@@ -636,26 +636,35 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-06-07T21:36:01.644Z"
+    },
+    "2026-06-08": {
+      "problemKey": "leetcode:528",
+      "slug": "swapping-nodes-in-a-linked-list-solution-notes",
+      "sourceTitle": "Swapping Nodes in a Linked List",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-06-08T05:00:56.469Z"
     }
   },
   "activeDraft": {
-    "date": "2026-06-07",
-    "problemKey": "leetcode:227",
+    "date": "2026-06-08",
+    "problemKey": "leetcode:528",
     "post": {
-      "slug": "basic-calculator-ii-solution-notes",
-      "title": "Basic Calculator II: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Basic Calculator II with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "swapping-nodes-in-a-linked-list-solution-notes",
+      "title": "Swapping Nodes in a Linked List: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Swapping Nodes in a Linked List with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode"
+        "leetcode",
+        "data-structures"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Basic Calculator II",
-      "sourceUrl": "https://leetcode.com/problems/basic-calculator-ii/",
+      "sourceTitle": "Swapping Nodes in a Linked List",
+      "sourceUrl": "https://leetcode.com/problems/swapping-nodes-in-a-linked-list/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Basic Calculator II with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Swapping Nodes in a Linked List with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -668,9 +677,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Basic Calculator II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Basic Calculator II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Basic Calculator II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Swapping Nodes in a Linked List\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Swapping Nodes in a Linked List\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Swapping Nodes in a Linked List\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
