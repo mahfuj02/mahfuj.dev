@@ -16,9 +16,87 @@ export const metadata: Metadata = {
     "Notes and writeups on algorithms, data structures, LeetCode problems, and problem-solving patterns.",
 };
 
+const POSTS_PER_PAGE = 10;
+
 type BlogPageProps = {
-  searchParams: Promise<{ category?: string }>;
+  searchParams: Promise<{ category?: string; page?: string }>;
 };
+
+function buildPageUrl(page: number, category: string | null) {
+  const params = new URLSearchParams();
+  if (category) params.set("category", category);
+  if (page > 1) params.set("page", String(page));
+  const query = params.toString();
+  return `/blog${query ? `?${query}` : ""}`;
+}
+
+function getPageRange(currentPage: number, totalPages: number): (number | "...")[] {
+  if (totalPages <= 7) return Array.from({ length: totalPages }, (_, i) => i + 1);
+  if (currentPage <= 4) return [1, 2, 3, 4, 5, "...", totalPages];
+  if (currentPage >= totalPages - 3) {
+    return [1, "...", totalPages - 4, totalPages - 3, totalPages - 2, totalPages - 1, totalPages];
+  }
+  return [1, "...", currentPage - 1, currentPage, currentPage + 1, "...", totalPages];
+}
+
+function PaginationBar({
+  currentPage,
+  totalPages,
+  category,
+}: {
+  currentPage: number;
+  totalPages: number;
+  category: string | null;
+}) {
+  if (totalPages <= 1) return null;
+  const pageRange = getPageRange(currentPage, totalPages);
+  return (
+    <nav className="mt-10 flex items-center justify-center gap-1.5" aria-label="Pagination">
+      <Link
+        href={buildPageUrl(currentPage - 1, category)}
+        aria-disabled={currentPage === 1}
+        className={`flex h-9 items-center gap-1.5 rounded-lg border px-3 text-sm font-medium transition-colors ${
+          currentPage === 1
+            ? "pointer-events-none border-zinc-800 text-zinc-600"
+            : "border-zinc-700 text-zinc-300 hover:border-zinc-500 hover:text-zinc-100"
+        }`}
+      >
+        <span aria-hidden="true">←</span> Prev
+      </Link>
+      {pageRange.map((item, i) =>
+        item === "..." ? (
+          <span key={`ellipsis-${i}`} className="flex h-9 w-9 items-center justify-center text-sm text-zinc-500">
+            …
+          </span>
+        ) : (
+          <Link
+            key={item}
+            href={buildPageUrl(item, category)}
+            aria-current={item === currentPage ? "page" : undefined}
+            className={`flex h-9 w-9 items-center justify-center rounded-lg border text-sm font-medium transition-colors ${
+              item === currentPage
+                ? "border-zinc-300/55 bg-zinc-200/10 text-zinc-100"
+                : "border-zinc-700 text-zinc-400 hover:border-zinc-500 hover:text-zinc-100"
+            }`}
+          >
+            {item}
+          </Link>
+        ),
+      )}
+      <Link
+        href={buildPageUrl(currentPage + 1, category)}
+        aria-disabled={currentPage === totalPages}
+        className={`flex h-9 items-center gap-1.5 rounded-lg border px-3 text-sm font-medium transition-colors ${
+          currentPage === totalPages
+            ? "pointer-events-none border-zinc-800 text-zinc-600"
+            : "border-zinc-700 text-zinc-300 hover:border-zinc-500 hover:text-zinc-100"
+        }`}
+      >
+        Next <span aria-hidden="true">→</span>
+      </Link>
+    </nav>
+  );
+}
 
 const categoryStyleMap: Record<string, { active: string; inactive: string; tag: string }> = {
   algorithms: {
@@ -47,9 +125,12 @@ function formatDate(input: string) {
 }
 
 export default async function BlogPage({ searchParams }: BlogPageProps) {
-  const { category } = await searchParams;
+  const { category, page } = await searchParams;
   const activeCategory = category && isBlogCategory(category) ? category : null;
-  const posts = activeCategory ? getPostsByCategory(activeCategory) : getAllBlogPosts();
+  const allPosts = activeCategory ? getPostsByCategory(activeCategory) : getAllBlogPosts();
+  const totalPages = Math.max(1, Math.ceil(allPosts.length / POSTS_PER_PAGE));
+  const currentPage = Math.min(Math.max(1, Number(page) || 1), totalPages);
+  const posts = allPosts.slice((currentPage - 1) * POSTS_PER_PAGE, currentPage * POSTS_PER_PAGE);
 
   return (
     <>
@@ -126,7 +207,9 @@ export default async function BlogPage({ searchParams }: BlogPageProps) {
           ))}
         </section>
 
-        {posts.length === 0 && (
+        <PaginationBar currentPage={currentPage} totalPages={totalPages} category={activeCategory} />
+
+        {allPosts.length === 0 && (
           <div className="mt-8 rounded-2xl border border-zinc-800 bg-zinc-900/35 p-6 text-zinc-300">
             No posts found for this category yet. Add new entries in your blog data source and they will show here automatically.
           </div>
