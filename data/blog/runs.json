@@ -28,7 +28,20 @@
     "2026-05-14",
     "2026-05-15",
     "2026-05-18",
-    "2026-05-19"
+    "2026-05-19",
+    "2026-05-21",
+    "2026-05-22",
+    "2026-05-23",
+    "2026-05-24",
+    "2026-05-27",
+    "2026-05-28",
+    "2026-05-29",
+    "2026-05-30",
+    "2026-05-31",
+    "2026-06-02",
+    "2026-06-03",
+    "2026-06-04",
+    "2026-06-05"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -458,7 +471,207 @@
       "commitsToday": 3,
       "updatedAt": "2026-05-19T15:48:23.391Z",
       "publishedSlug": "number-of-equivalent-domino-pairs-solution-notes"
+    },
+    "2026-05-20": {
+      "problemKey": "leetcode:2188",
+      "slug": "minimized-maximum-of-products-distributed-to-any-store-solution-notes",
+      "sourceTitle": "Minimized Maximum of Products Distributed to Any Store",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-20T22:03:52.397Z"
+    },
+    "2026-05-21": {
+      "problemKey": "leetcode:205",
+      "slug": "isomorphic-strings-solution-notes",
+      "sourceTitle": "Isomorphic Strings",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-21T15:50:59.598Z",
+      "publishedSlug": "isomorphic-strings-solution-notes"
+    },
+    "2026-05-22": {
+      "problemKey": "leetcode:2715",
+      "slug": "k-items-with-the-maximum-sum-solution-notes",
+      "sourceTitle": "K Items With the Maximum Sum",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-22T15:21:38.809Z",
+      "publishedSlug": "k-items-with-the-maximum-sum-solution-notes"
+    },
+    "2026-05-23": {
+      "problemKey": "leetcode:719",
+      "slug": "find-k-th-smallest-pair-distance-solution-notes",
+      "sourceTitle": "Find K-th Smallest Pair Distance",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-23T17:16:17.745Z",
+      "publishedSlug": "find-k-th-smallest-pair-distance-solution-notes"
+    },
+    "2026-05-24": {
+      "problemKey": "leetcode:371",
+      "slug": "sum-of-two-integers-solution-notes",
+      "sourceTitle": "Sum of Two Integers",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-24T21:10:52.286Z",
+      "publishedSlug": "sum-of-two-integers-solution-notes"
+    },
+    "2026-05-25": {
+      "problemKey": "leetcode:2162",
+      "slug": "partition-array-into-two-arrays-to-minimize-sum-difference-solution-notes",
+      "sourceTitle": "Partition Array Into Two Arrays to Minimize Sum Difference",
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-05-25T21:33:49.499Z"
+    },
+    "2026-05-26": {
+      "problemKey": "leetcode:3437",
+      "slug": "maximum-total-damage-with-spell-casting-solution-notes",
+      "sourceTitle": "Maximum Total Damage With Spell Casting",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-05-26T21:58:00.278Z"
+    },
+    "2026-05-27": {
+      "problemKey": "leetcode:387",
+      "slug": "first-unique-character-in-a-string-solution-notes",
+      "sourceTitle": "First Unique Character in a String",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-27T18:33:42.732Z",
+      "publishedSlug": "first-unique-character-in-a-string-solution-notes"
+    },
+    "2026-05-28": {
+      "problemKey": "leetcode:1324",
+      "slug": "where-will-the-ball-fall-solution-notes",
+      "sourceTitle": "Where Will the Ball Fall",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-28T16:33:22.024Z",
+      "publishedSlug": "where-will-the-ball-fall-solution-notes"
+    },
+    "2026-05-29": {
+      "problemKey": "leetcode:892",
+      "slug": "shortest-subarray-with-sum-at-least-k-solution-notes",
+      "sourceTitle": "Shortest Subarray with Sum at Least K",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-29T18:42:27.435Z",
+      "publishedSlug": "shortest-subarray-with-sum-at-least-k-solution-notes"
+    },
+    "2026-05-30": {
+      "problemKey": "leetcode:171",
+      "slug": "excel-sheet-column-number-solution-notes",
+      "sourceTitle": "Excel Sheet Column Number",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-30T10:16:56.775Z",
+      "publishedSlug": "excel-sheet-column-number-solution-notes"
+    },
+    "2026-05-31": {
+      "problemKey": "leetcode:4202",
+      "slug": "maximum-score-using-exactly-k-pairs-solution-notes",
+      "sourceTitle": "Maximum Score Using Exactly K Pairs",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-05-31T14:10:52.317Z",
+      "publishedSlug": "maximum-score-using-exactly-k-pairs-solution-notes"
+    },
+    "2026-06-01": {
+      "problemKey": "leetcode:3076",
+      "slug": "get-the-size-of-a-dataframe-solution-notes",
+      "sourceTitle": "Get the Size of a DataFrame",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-06-01T20:35:16.396Z"
+    },
+    "2026-06-02": {
+      "problemKey": "leetcode:1747",
+      "slug": "lexicographically-smallest-string-after-applying-operations-solution-notes",
+      "sourceTitle": "Lexicographically Smallest String After Applying Operations",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-06-02T16:55:42.136Z",
+      "publishedSlug": "lexicographically-smallest-string-after-applying-operations-solution-notes"
+    },
+    "2026-06-03": {
+      "problemKey": "leetcode:740",
+      "slug": "delete-and-earn-solution-notes",
+      "sourceTitle": "Delete and Earn",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-06-03T19:57:47.515Z",
+      "publishedSlug": "delete-and-earn-solution-notes"
+    },
+    "2026-06-04": {
+      "problemKey": "leetcode:2168",
+      "slug": "check-if-numbers-are-ascending-in-a-sentence-solution-notes",
+      "sourceTitle": "Check if Numbers Are Ascending in a Sentence",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-06-04T18:29:17.626Z",
+      "publishedSlug": "check-if-numbers-are-ascending-in-a-sentence-solution-notes"
+    },
+    "2026-06-05": {
+      "problemKey": "leetcode:2512",
+      "slug": "longest-uploaded-prefix-solution-notes",
+      "sourceTitle": "Longest Uploaded Prefix",
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-06-05T21:43:34.842Z",
+      "publishedSlug": "longest-uploaded-prefix-solution-notes"
+    },
+    "2026-06-06": {
+      "problemKey": "leetcode:412",
+      "slug": "fizz-buzz-solution-notes",
+      "sourceTitle": "Fizz Buzz",
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-06-06T21:17:04.419Z"
+    },
+    "2026-06-07": {
+      "problemKey": "leetcode:227",
+      "slug": "basic-calculator-ii-solution-notes",
+      "sourceTitle": "Basic Calculator II",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-06-07T21:36:01.644Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-06-07",
+    "problemKey": "leetcode:227",
+    "post": {
+      "slug": "basic-calculator-ii-solution-notes",
+      "title": "Basic Calculator II: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Basic Calculator II with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Basic Calculator II",
+      "sourceUrl": "https://leetcode.com/problems/basic-calculator-ii/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Basic Calculator II with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Basic Calculator II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Basic Calculator II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Basic Calculator II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }

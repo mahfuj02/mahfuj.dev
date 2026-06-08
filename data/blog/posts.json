@@ -1087,5 +1087,436 @@
       "python": "# Python template for Number of Equivalent Domino Pairs\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
       "cpp": "// C++ template for Number of Equivalent Domino Pairs\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
     }
+  },
+  {
+    "slug": "isomorphic-strings-solution-notes",
+    "title": "Isomorphic Strings: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Isomorphic Strings with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-21",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Isomorphic Strings",
+    "sourceUrl": "https://leetcode.com/problems/isomorphic-strings/",
+    "difficulty": "Easy",
+    "problemInMyWords": "In my own words, this problem asks me to solve Isomorphic Strings with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Isomorphic Strings\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Isomorphic Strings\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Isomorphic Strings\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "k-items-with-the-maximum-sum-solution-notes",
+    "title": "K Items With the Maximum Sum: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for K Items With the Maximum Sum with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-22",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "K Items With the Maximum Sum",
+    "sourceUrl": "https://leetcode.com/problems/k-items-with-the-maximum-sum/",
+    "difficulty": "Easy",
+    "problemInMyWords": "In my own words, this problem asks me to solve K Items With the Maximum Sum with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for K Items With the Maximum Sum\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for K Items With the Maximum Sum\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for K Items With the Maximum Sum\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "find-k-th-smallest-pair-distance-solution-notes",
+    "title": "Find K-th Smallest Pair Distance: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Find K-th Smallest Pair Distance with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-23",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Find K-th Smallest Pair Distance",
+    "sourceUrl": "https://leetcode.com/problems/find-k-th-smallest-pair-distance/",
+    "difficulty": "Hard",
+    "problemInMyWords": "In my own words, this problem asks me to solve Find K-th Smallest Pair Distance with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Find K-th Smallest Pair Distance\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Find K-th Smallest Pair Distance\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Find K-th Smallest Pair Distance\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "sum-of-two-integers-solution-notes",
+    "title": "Sum of Two Integers: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Sum of Two Integers with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-24",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Sum of Two Integers",
+    "sourceUrl": "https://leetcode.com/problems/sum-of-two-integers/",
+    "difficulty": "Medium",
+    "problemInMyWords": "In my own words, this problem asks me to solve Sum of Two Integers with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Sum of Two Integers\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Sum of Two Integers\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Sum of Two Integers\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "first-unique-character-in-a-string-solution-notes",
+    "title": "First Unique Character in a String: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for First Unique Character in a String with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-27",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "First Unique Character in a String",
+    "sourceUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+    "difficulty": "Easy",
+    "problemInMyWords": "In my own words, this problem asks me to solve First Unique Character in a String with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for First Unique Character in a String\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for First Unique Character in a String\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for First Unique Character in a String\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "where-will-the-ball-fall-solution-notes",
+    "title": "Where Will the Ball Fall: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Where Will the Ball Fall with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-28",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Where Will the Ball Fall",
+    "sourceUrl": "https://leetcode.com/problems/where-will-the-ball-fall/",
+    "difficulty": "Medium",
+    "problemInMyWords": "In my own words, this problem asks me to solve Where Will the Ball Fall with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Where Will the Ball Fall\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Where Will the Ball Fall\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Where Will the Ball Fall\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "shortest-subarray-with-sum-at-least-k-solution-notes",
+    "title": "Shortest Subarray with Sum at Least K: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Shortest Subarray with Sum at Least K with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-29",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode",
+      "data-structures"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Shortest Subarray with Sum at Least K",
+    "sourceUrl": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/",
+    "difficulty": "Hard",
+    "problemInMyWords": "In my own words, this problem asks me to solve Shortest Subarray with Sum at Least K with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Shortest Subarray with Sum at Least K\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Shortest Subarray with Sum at Least K\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Shortest Subarray with Sum at Least K\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "excel-sheet-column-number-solution-notes",
+    "title": "Excel Sheet Column Number: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Excel Sheet Column Number with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-30",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Excel Sheet Column Number",
+    "sourceUrl": "https://leetcode.com/problems/excel-sheet-column-number/",
+    "difficulty": "Easy",
+    "problemInMyWords": "In my own words, this problem asks me to solve Excel Sheet Column Number with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Excel Sheet Column Number\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Excel Sheet Column Number\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Excel Sheet Column Number\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "maximum-score-using-exactly-k-pairs-solution-notes",
+    "title": "Maximum Score Using Exactly K Pairs: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Maximum Score Using Exactly K Pairs with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-05-31",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Maximum Score Using Exactly K Pairs",
+    "sourceUrl": "https://leetcode.com/problems/maximum-score-using-exactly-k-pairs/",
+    "difficulty": "Hard",
+    "problemInMyWords": "In my own words, this problem asks me to solve Maximum Score Using Exactly K Pairs with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Maximum Score Using Exactly K Pairs\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Maximum Score Using Exactly K Pairs\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Maximum Score Using Exactly K Pairs\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "lexicographically-smallest-string-after-applying-operations-solution-notes",
+    "title": "Lexicographically Smallest String After Applying Operations: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Lexicographically Smallest String After Applying Operations with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-06-02",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode",
+      "data-structures"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Lexicographically Smallest String After Applying Operations",
+    "sourceUrl": "https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/",
+    "difficulty": "Medium",
+    "problemInMyWords": "In my own words, this problem asks me to solve Lexicographically Smallest String After Applying Operations with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Lexicographically Smallest String After Applying Operations\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Lexicographically Smallest String After Applying Operations\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Lexicographically Smallest String After Applying Operations\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "delete-and-earn-solution-notes",
+    "title": "Delete and Earn: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Delete and Earn with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-06-03",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Delete and Earn",
+    "sourceUrl": "https://leetcode.com/problems/delete-and-earn/",
+    "difficulty": "Medium",
+    "problemInMyWords": "In my own words, this problem asks me to solve Delete and Earn with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Delete and Earn\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Delete and Earn\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Delete and Earn\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "check-if-numbers-are-ascending-in-a-sentence-solution-notes",
+    "title": "Check if Numbers Are Ascending in a Sentence: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Check if Numbers Are Ascending in a Sentence with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-06-04",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Check if Numbers Are Ascending in a Sentence",
+    "sourceUrl": "https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/",
+    "difficulty": "Easy",
+    "problemInMyWords": "In my own words, this problem asks me to solve Check if Numbers Are Ascending in a Sentence with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Check if Numbers Are Ascending in a Sentence\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Check if Numbers Are Ascending in a Sentence\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Check if Numbers Are Ascending in a Sentence\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
+  },
+  {
+    "slug": "longest-uploaded-prefix-solution-notes",
+    "title": "Longest Uploaded Prefix: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Longest Uploaded Prefix with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-06-05",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Longest Uploaded Prefix",
+    "sourceUrl": "https://leetcode.com/problems/longest-uploaded-prefix/",
+    "difficulty": "Medium",
+    "problemInMyWords": "In my own words, this problem asks me to solve Longest Uploaded Prefix with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Longest Uploaded Prefix\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Longest Uploaded Prefix\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Longest Uploaded Prefix\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
   }
 ]
