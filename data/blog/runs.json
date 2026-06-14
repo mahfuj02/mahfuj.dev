@@ -46,7 +46,8 @@
     "2026-06-09",
     "2026-06-11",
     "2026-06-12",
-    "2026-06-13"
+    "2026-06-13",
+    "2026-06-14"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -699,47 +700,11 @@
       "problemKey": "leetcode:2415",
       "slug": "count-the-number-of-ideal-arrays-solution-notes",
       "sourceTitle": "Count the Number of Ideal Arrays",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-06-14T17:46:52.493Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-06-14T21:38:55.429Z",
+      "publishedSlug": "count-the-number-of-ideal-arrays-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-06-14",
-    "problemKey": "leetcode:2415",
-    "post": {
-      "slug": "count-the-number-of-ideal-arrays-solution-notes",
-      "title": "Count the Number of Ideal Arrays: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Count the Number of Ideal Arrays with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode",
-        "data-structures"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Count the Number of Ideal Arrays",
-      "sourceUrl": "https://leetcode.com/problems/count-the-number-of-ideal-arrays/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Count the Number of Ideal Arrays with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Count the Number of Ideal Arrays\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Count the Number of Ideal Arrays\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Count the Number of Ideal Arrays\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
