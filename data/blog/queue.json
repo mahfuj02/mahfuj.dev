@@ -2596,6 +2596,245 @@
           "cpp": "// C++ template for Power of Two\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:3657",
+      "post": {
+        "slug": "check-if-grid-can-be-cut-into-sections-solution-notes",
+        "title": "Check if Grid can be Cut into Sections: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Check if Grid can be Cut into Sections with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Check if Grid can be Cut into Sections",
+        "sourceUrl": "https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Check if Grid can be Cut into Sections with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Check if Grid can be Cut into Sections\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Check if Grid can be Cut into Sections\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Check if Grid can be Cut into Sections\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3170",
+      "post": {
+        "slug": "find-indices-with-index-and-value-difference-ii-solution-notes",
+        "title": "Find Indices With Index and Value Difference II: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Find Indices With Index and Value Difference II with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Find Indices With Index and Value Difference II",
+        "sourceUrl": "https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Find Indices With Index and Value Difference II with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Find Indices With Index and Value Difference II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Find Indices With Index and Value Difference II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Find Indices With Index and Value Difference II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2269",
+      "post": {
+        "slug": "count-elements-with-strictly-smaller-and-greater-elements-solution-notes",
+        "title": "Count Elements With Strictly Smaller and Greater Elements : Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Count Elements With Strictly Smaller and Greater Elements  with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Count Elements With Strictly Smaller and Greater Elements ",
+        "sourceUrl": "https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Count Elements With Strictly Smaller and Greater Elements  with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Count Elements With Strictly Smaller and Greater Elements \nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Count Elements With Strictly Smaller and Greater Elements \ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Count Elements With Strictly Smaller and Greater Elements \n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:300",
+      "post": {
+        "slug": "longest-increasing-subsequence-solution-notes",
+        "title": "Longest Increasing Subsequence: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Longest Increasing Subsequence with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Longest Increasing Subsequence",
+        "sourceUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Longest Increasing Subsequence with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Longest Increasing Subsequence\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Longest Increasing Subsequence\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Longest Increasing Subsequence\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2816",
+      "post": {
+        "slug": "lexicographically-smallest-palindrome-solution-notes",
+        "title": "Lexicographically Smallest Palindrome: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Lexicographically Smallest Palindrome with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Lexicographically Smallest Palindrome",
+        "sourceUrl": "https://leetcode.com/problems/lexicographically-smallest-palindrome/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Lexicographically Smallest Palindrome with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Lexicographically Smallest Palindrome\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Lexicographically Smallest Palindrome\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Lexicographically Smallest Palindrome\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3975",
+      "post": {
+        "slug": "xor-after-range-multiplication-queries-ii-solution-notes",
+        "title": "XOR After Range Multiplication Queries II: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for XOR After Range Multiplication Queries II with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "XOR After Range Multiplication Queries II",
+        "sourceUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve XOR After Range Multiplication Queries II with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for XOR After Range Multiplication Queries II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for XOR After Range Multiplication Queries II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for XOR After Range Multiplication Queries II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:831",
+      "post": {
+        "slug": "largest-sum-of-averages-solution-notes",
+        "title": "Largest Sum of Averages: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Largest Sum of Averages with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Largest Sum of Averages",
+        "sourceUrl": "https://leetcode.com/problems/largest-sum-of-averages/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Largest Sum of Averages with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Largest Sum of Averages\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Largest Sum of Averages\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Largest Sum of Averages\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
