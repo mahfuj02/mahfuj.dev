@@ -712,43 +712,49 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-06-15T22:28:38.438Z"
+    },
+    "2026-06-16": {
+      "problemKey": "leetcode:4251",
+      "slug": "direction-assignments-with-exactly-k-visible-people-solution-notes",
+      "sourceTitle": "Direction Assignments with Exactly K Visible People",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-06-16T22:22:00.380Z"
     }
   },
   "activeDraft": {
-    "date": "2026-06-15",
-    "problemKey": "leetcode:617",
+    "date": "2026-06-16",
+    "problemKey": "leetcode:4251",
     "post": {
-      "slug": "merge-two-binary-trees-solution-notes",
-      "title": "Merge Two Binary Trees: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Merge Two Binary Trees with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "direction-assignments-with-exactly-k-visible-people-solution-notes",
+      "title": "Direction Assignments with Exactly K Visible People: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Direction Assignments with Exactly K Visible People with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode",
-        "data-structures"
+        "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Merge Two Binary Trees",
-      "sourceUrl": "https://leetcode.com/problems/merge-two-binary-trees/",
-      "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Merge Two Binary Trees with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "sourceTitle": "Direction Assignments with Exactly K Visible People",
+      "sourceUrl": "https://leetcode.com/problems/direction-assignments-with-exactly-k-visible-people/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Direction Assignments with Exactly K Visible People with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Merge Two Binary Trees\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Merge Two Binary Trees\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Merge Two Binary Trees\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Direction Assignments with Exactly K Visible People\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Direction Assignments with Exactly K Visible People\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Direction Assignments with Exactly K Visible People\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
