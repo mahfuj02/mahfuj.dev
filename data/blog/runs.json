@@ -720,15 +720,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-06-16T22:22:00.380Z"
+    },
+    "2026-06-17": {
+      "problemKey": "leetcode:458",
+      "slug": "poor-pigs-solution-notes",
+      "sourceTitle": "Poor Pigs",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-06-17T05:15:46.539Z"
     }
   },
   "activeDraft": {
-    "date": "2026-06-16",
-    "problemKey": "leetcode:4251",
+    "date": "2026-06-17",
+    "problemKey": "leetcode:458",
     "post": {
-      "slug": "direction-assignments-with-exactly-k-visible-people-solution-notes",
-      "title": "Direction Assignments with Exactly K Visible People: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Direction Assignments with Exactly K Visible People with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "poor-pigs-solution-notes",
+      "title": "Poor Pigs: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Poor Pigs with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -736,10 +744,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Direction Assignments with Exactly K Visible People",
-      "sourceUrl": "https://leetcode.com/problems/direction-assignments-with-exactly-k-visible-people/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Direction Assignments with Exactly K Visible People with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Poor Pigs",
+      "sourceUrl": "https://leetcode.com/problems/poor-pigs/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Poor Pigs with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -752,9 +760,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Direction Assignments with Exactly K Visible People\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Direction Assignments with Exactly K Visible People\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Direction Assignments with Exactly K Visible People\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Poor Pigs\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Poor Pigs\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Poor Pigs\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
