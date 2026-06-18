@@ -2698,6 +2698,248 @@
           "cpp": "// C++ template for Largest Sum of Averages\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:2123",
+      "post": {
+        "slug": "the-number-of-weak-characters-in-the-game-solution-notes",
+        "title": "The Number of Weak Characters in the Game: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for The Number of Weak Characters in the Game with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "The Number of Weak Characters in the Game",
+        "sourceUrl": "https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve The Number of Weak Characters in the Game with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for The Number of Weak Characters in the Game\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for The Number of Weak Characters in the Game\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for The Number of Weak Characters in the Game\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:953",
+      "post": {
+        "slug": "reverse-only-letters-solution-notes",
+        "title": "Reverse Only Letters: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Reverse Only Letters with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Reverse Only Letters",
+        "sourceUrl": "https://leetcode.com/problems/reverse-only-letters/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Reverse Only Letters with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Reverse Only Letters\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Reverse Only Letters\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Reverse Only Letters\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1649",
+      "post": {
+        "slug": "maximum-number-of-non-overlapping-subarrays-with-sum-equals-target-solution-notes",
+        "title": "Maximum Number of Non-Overlapping Subarrays With Sum Equals Target: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Maximum Number of Non-Overlapping Subarrays With Sum Equals Target with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Maximum Number of Non-Overlapping Subarrays With Sum Equals Target",
+        "sourceUrl": "https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Maximum Number of Non-Overlapping Subarrays With Sum Equals Target with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Maximum Number of Non-Overlapping Subarrays With Sum Equals Target\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Maximum Number of Non-Overlapping Subarrays With Sum Equals Target\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Maximum Number of Non-Overlapping Subarrays With Sum Equals Target\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2461",
+      "post": {
+        "slug": "amount-of-time-for-binary-tree-to-be-infected-solution-notes",
+        "title": "Amount of Time for Binary Tree to Be Infected: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Amount of Time for Binary Tree to Be Infected with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Amount of Time for Binary Tree to Be Infected",
+        "sourceUrl": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Amount of Time for Binary Tree to Be Infected with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Amount of Time for Binary Tree to Be Infected\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Amount of Time for Binary Tree to Be Infected\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Amount of Time for Binary Tree to Be Infected\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2210",
+      "post": {
+        "slug": "find-target-indices-after-sorting-array-solution-notes",
+        "title": "Find Target Indices After Sorting Array: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Find Target Indices After Sorting Array with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Find Target Indices After Sorting Array",
+        "sourceUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Find Target Indices After Sorting Array with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Find Target Indices After Sorting Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Find Target Indices After Sorting Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Find Target Indices After Sorting Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2883",
+      "post": {
+        "slug": "partition-string-into-minimum-beautiful-substrings-solution-notes",
+        "title": "Partition String Into Minimum Beautiful Substrings: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Partition String Into Minimum Beautiful Substrings with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Partition String Into Minimum Beautiful Substrings",
+        "sourceUrl": "https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Partition String Into Minimum Beautiful Substrings with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Partition String Into Minimum Beautiful Substrings\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Partition String Into Minimum Beautiful Substrings\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Partition String Into Minimum Beautiful Substrings\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1610",
+      "post": {
+        "slug": "xor-operation-in-an-array-solution-notes",
+        "title": "XOR Operation in an Array: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for XOR Operation in an Array with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "XOR Operation in an Array",
+        "sourceUrl": "https://leetcode.com/problems/xor-operation-in-an-array/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve XOR Operation in an Array with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for XOR Operation in an Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for XOR Operation in an Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for XOR Operation in an Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
