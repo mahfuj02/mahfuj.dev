@@ -730,7 +730,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-06-17T18:33:31.397Z",
       "publishedSlug": "poor-pigs-solution-notes"
+    },
+    "2026-06-18": {
+      "problemKey": "leetcode:55",
+      "slug": "jump-game-solution-notes",
+      "sourceTitle": "Jump Game",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-06-18T05:00:55.506Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-06-18",
+    "problemKey": "leetcode:55",
+    "post": {
+      "slug": "jump-game-solution-notes",
+      "title": "Jump Game: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Jump Game with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Jump Game",
+      "sourceUrl": "https://leetcode.com/problems/jump-game/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Jump Game with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Jump Game\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Jump Game\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Jump Game\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
