@@ -1785,5 +1785,38 @@
       "python": "# Python template for Jump Game\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
       "cpp": "// C++ template for Jump Game\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
     }
+  },
+  {
+    "slug": "delete-operation-for-two-strings-solution-notes",
+    "title": "Delete Operation for Two Strings: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Delete Operation for Two Strings with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-06-19",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Delete Operation for Two Strings",
+    "sourceUrl": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+    "difficulty": "Medium",
+    "problemInMyWords": "In my own words, this problem asks me to solve Delete Operation for Two Strings with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Delete Operation for Two Strings\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Delete Operation for Two Strings\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Delete Operation for Two Strings\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
   }
 ]

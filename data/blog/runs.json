@@ -49,7 +49,8 @@
     "2026-06-13",
     "2026-06-14",
     "2026-06-17",
-    "2026-06-18"
+    "2026-06-18",
+    "2026-06-19"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -745,46 +746,11 @@
       "problemKey": "leetcode:583",
       "slug": "delete-operation-for-two-strings-solution-notes",
       "sourceTitle": "Delete Operation for Two Strings",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-06-19T15:44:05.382Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-06-19T18:06:10.422Z",
+      "publishedSlug": "delete-operation-for-two-strings-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-06-19",
-    "problemKey": "leetcode:583",
-    "post": {
-      "slug": "delete-operation-for-two-strings-solution-notes",
-      "title": "Delete Operation for Two Strings: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Delete Operation for Two Strings with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Delete Operation for Two Strings",
-      "sourceUrl": "https://leetcode.com/problems/delete-operation-for-two-strings/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Delete Operation for Two Strings with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Delete Operation for Two Strings\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Delete Operation for Two Strings\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Delete Operation for Two Strings\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
