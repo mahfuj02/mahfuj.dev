@@ -2838,6 +2838,246 @@
           "cpp": "// C++ template for XOR Operation in an Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:2406",
+      "post": {
+        "slug": "decode-the-message-solution-notes",
+        "title": "Decode the Message: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Decode the Message with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Decode the Message",
+        "sourceUrl": "https://leetcode.com/problems/decode-the-message/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Decode the Message with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Decode the Message\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Decode the Message\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Decode the Message\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:833",
+      "post": {
+        "slug": "bus-routes-solution-notes",
+        "title": "Bus Routes: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Bus Routes with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Bus Routes",
+        "sourceUrl": "https://leetcode.com/problems/bus-routes/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Bus Routes with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Bus Routes\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Bus Routes\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Bus Routes\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3314",
+      "post": {
+        "slug": "most-frequent-prime-solution-notes",
+        "title": "Most Frequent Prime: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Most Frequent Prime with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Most Frequent Prime",
+        "sourceUrl": "https://leetcode.com/problems/most-frequent-prime/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Most Frequent Prime with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Most Frequent Prime\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Most Frequent Prime\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Most Frequent Prime\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:720",
+      "post": {
+        "slug": "longest-word-in-dictionary-solution-notes",
+        "title": "Longest Word in Dictionary: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Longest Word in Dictionary with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Longest Word in Dictionary",
+        "sourceUrl": "https://leetcode.com/problems/longest-word-in-dictionary/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Longest Word in Dictionary with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Longest Word in Dictionary\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Longest Word in Dictionary\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Longest Word in Dictionary\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:237",
+      "post": {
+        "slug": "delete-node-in-a-linked-list-solution-notes",
+        "title": "Delete Node in a Linked List: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Delete Node in a Linked List with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Delete Node in a Linked List",
+        "sourceUrl": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Delete Node in a Linked List with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Delete Node in a Linked List\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Delete Node in a Linked List\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Delete Node in a Linked List\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:554",
+      "post": {
+        "slug": "brick-wall-solution-notes",
+        "title": "Brick Wall: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Brick Wall with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Brick Wall",
+        "sourceUrl": "https://leetcode.com/problems/brick-wall/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Brick Wall with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Brick Wall\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Brick Wall\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Brick Wall\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:189",
+      "post": {
+        "slug": "rotate-array-solution-notes",
+        "title": "Rotate Array: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Rotate Array with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Rotate Array",
+        "sourceUrl": "https://leetcode.com/problems/rotate-array/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Rotate Array with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Rotate Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Rotate Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Rotate Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
