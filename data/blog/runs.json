@@ -53,7 +53,8 @@
     "2026-06-19",
     "2026-06-20",
     "2026-06-21",
-    "2026-06-22"
+    "2026-06-22",
+    "2026-06-23"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -785,46 +786,11 @@
       "problemKey": "leetcode:1659",
       "slug": "get-the-maximum-score-solution-notes",
       "sourceTitle": "Get the Maximum Score",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-06-23T18:13:57.807Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-06-23T21:51:03.394Z",
+      "publishedSlug": "get-the-maximum-score-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-06-23",
-    "problemKey": "leetcode:1659",
-    "post": {
-      "slug": "get-the-maximum-score-solution-notes",
-      "title": "Get the Maximum Score: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Get the Maximum Score with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Get the Maximum Score",
-      "sourceUrl": "https://leetcode.com/problems/get-the-maximum-score/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Get the Maximum Score with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Get the Maximum Score\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Get the Maximum Score\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Get the Maximum Score\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
