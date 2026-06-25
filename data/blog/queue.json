@@ -2806,40 +2806,6 @@
       }
     },
     {
-      "problemKey": "leetcode:3314",
-      "post": {
-        "slug": "most-frequent-prime-solution-notes",
-        "title": "Most Frequent Prime: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Most Frequent Prime with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Most Frequent Prime",
-        "sourceUrl": "https://leetcode.com/problems/most-frequent-prime/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Most Frequent Prime with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Most Frequent Prime\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Most Frequent Prime\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Most Frequent Prime\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:720",
       "post": {
         "slug": "longest-word-in-dictionary-solution-notes",
