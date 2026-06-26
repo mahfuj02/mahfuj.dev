@@ -806,15 +806,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-06-25T21:52:26.465Z"
+    },
+    "2026-06-26": {
+      "problemKey": "leetcode:953",
+      "slug": "reverse-only-letters-solution-notes",
+      "sourceTitle": "Reverse Only Letters",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-06-26T04:38:52.846Z"
     }
   },
   "activeDraft": {
-    "date": "2026-06-25",
-    "problemKey": "leetcode:3314",
+    "date": "2026-06-26",
+    "problemKey": "leetcode:953",
     "post": {
-      "slug": "most-frequent-prime-solution-notes",
-      "title": "Most Frequent Prime: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Most Frequent Prime with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "reverse-only-letters-solution-notes",
+      "title": "Reverse Only Letters: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Reverse Only Letters with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -822,10 +830,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Most Frequent Prime",
-      "sourceUrl": "https://leetcode.com/problems/most-frequent-prime/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Most Frequent Prime with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Reverse Only Letters",
+      "sourceUrl": "https://leetcode.com/problems/reverse-only-letters/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Reverse Only Letters with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -838,9 +846,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Most Frequent Prime\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Most Frequent Prime\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Most Frequent Prime\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Reverse Only Letters\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Reverse Only Letters\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Reverse Only Letters\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
