@@ -821,9 +821,9 @@
       "problemKey": "leetcode:3700",
       "slug": "subsequences-with-a-unique-middle-mode-i-solution-notes",
       "sourceTitle": "Subsequences with a Unique Middle Mode I",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-06-27T04:15:23.786Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-06-27T07:27:55.865Z"
     }
   },
   "activeDraft": {
@@ -843,17 +843,18 @@
       "sourceTitle": "Subsequences with a Unique Middle Mode I",
       "sourceUrl": "https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-i/",
       "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Subsequences with a Unique Middle Mode I with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Subsequences with a Unique Middle Mode I with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Subsequences with a Unique Middle Mode I\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
