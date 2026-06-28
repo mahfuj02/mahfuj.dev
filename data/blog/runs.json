@@ -826,7 +826,51 @@
       "commitsToday": 3,
       "updatedAt": "2026-06-27T10:22:48.670Z",
       "publishedSlug": "subsequences-with-a-unique-middle-mode-i-solution-notes"
+    },
+    "2026-06-28": {
+      "problemKey": "leetcode:189",
+      "slug": "rotate-array-solution-notes",
+      "sourceTitle": "Rotate Array",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-06-28T10:33:58.841Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-06-28",
+    "problemKey": "leetcode:189",
+    "post": {
+      "slug": "rotate-array-solution-notes",
+      "title": "Rotate Array: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Rotate Array with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode",
+        "data-structures"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Rotate Array",
+      "sourceUrl": "https://leetcode.com/problems/rotate-array/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Rotate Array with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Rotate Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Rotate Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Rotate Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
