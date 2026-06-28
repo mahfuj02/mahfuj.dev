@@ -56,7 +56,8 @@
     "2026-06-22",
     "2026-06-23",
     "2026-06-26",
-    "2026-06-27"
+    "2026-06-27",
+    "2026-06-28"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -831,47 +832,11 @@
       "problemKey": "leetcode:189",
       "slug": "rotate-array-solution-notes",
       "sourceTitle": "Rotate Array",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-06-28T14:14:30.414Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-06-28T17:35:02.004Z",
+      "publishedSlug": "rotate-array-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-06-28",
-    "problemKey": "leetcode:189",
-    "post": {
-      "slug": "rotate-array-solution-notes",
-      "title": "Rotate Array: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Rotate Array with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode",
-        "data-structures"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Rotate Array",
-      "sourceUrl": "https://leetcode.com/problems/rotate-array/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Rotate Array with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Rotate Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Rotate Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Rotate Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
