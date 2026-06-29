@@ -3078,6 +3078,245 @@
           "cpp": "// C++ template for Count Dominant Indices\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:3469",
+      "post": {
+        "slug": "maximum-height-of-a-triangle-solution-notes",
+        "title": "Maximum Height of a Triangle: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Maximum Height of a Triangle with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Maximum Height of a Triangle",
+        "sourceUrl": "https://leetcode.com/problems/maximum-height-of-a-triangle/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Maximum Height of a Triangle with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Maximum Height of a Triangle\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Maximum Height of a Triangle\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Maximum Height of a Triangle\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:352",
+      "post": {
+        "slug": "data-stream-as-disjoint-intervals-solution-notes",
+        "title": "Data Stream as Disjoint Intervals: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Data Stream as Disjoint Intervals with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Data Stream as Disjoint Intervals",
+        "sourceUrl": "https://leetcode.com/problems/data-stream-as-disjoint-intervals/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Data Stream as Disjoint Intervals with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Data Stream as Disjoint Intervals\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Data Stream as Disjoint Intervals\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Data Stream as Disjoint Intervals\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1927",
+      "post": {
+        "slug": "maximum-ascending-subarray-sum-solution-notes",
+        "title": "Maximum Ascending Subarray Sum: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Maximum Ascending Subarray Sum with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Maximum Ascending Subarray Sum",
+        "sourceUrl": "https://leetcode.com/problems/maximum-ascending-subarray-sum/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Maximum Ascending Subarray Sum with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Maximum Ascending Subarray Sum\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Maximum Ascending Subarray Sum\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Maximum Ascending Subarray Sum\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:864",
+      "post": {
+        "slug": "image-overlap-solution-notes",
+        "title": "Image Overlap: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Image Overlap with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Image Overlap",
+        "sourceUrl": "https://leetcode.com/problems/image-overlap/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Image Overlap with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Image Overlap\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Image Overlap\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Image Overlap\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2663",
+      "post": {
+        "slug": "distribute-money-to-maximum-children-solution-notes",
+        "title": "Distribute Money to Maximum Children: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Distribute Money to Maximum Children with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Distribute Money to Maximum Children",
+        "sourceUrl": "https://leetcode.com/problems/distribute-money-to-maximum-children/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Distribute Money to Maximum Children with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Distribute Money to Maximum Children\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Distribute Money to Maximum Children\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Distribute Money to Maximum Children\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3066",
+      "post": {
+        "slug": "create-a-new-column-solution-notes",
+        "title": "Create a New Column: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Create a New Column with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Create a New Column",
+        "sourceUrl": "https://leetcode.com/problems/create-a-new-column/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Create a New Column with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Create a New Column\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Create a New Column\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Create a New Column\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3681",
+      "post": {
+        "slug": "maximum-area-rectangle-with-point-constraints-i-solution-notes",
+        "title": "Maximum Area Rectangle With Point Constraints I: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Maximum Area Rectangle With Point Constraints I with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Maximum Area Rectangle With Point Constraints I",
+        "sourceUrl": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Maximum Area Rectangle With Point Constraints I with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Maximum Area Rectangle With Point Constraints I\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Maximum Area Rectangle With Point Constraints I\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Maximum Area Rectangle With Point Constraints I\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
