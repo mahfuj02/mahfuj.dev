@@ -2325,40 +2325,6 @@
       }
     },
     {
-      "problemKey": "leetcode:2269",
-      "post": {
-        "slug": "count-elements-with-strictly-smaller-and-greater-elements-solution-notes",
-        "title": "Count Elements With Strictly Smaller and Greater Elements : Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Count Elements With Strictly Smaller and Greater Elements  with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Count Elements With Strictly Smaller and Greater Elements ",
-        "sourceUrl": "https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/",
-        "difficulty": "Easy",
-        "problemInMyWords": "In my own words, this problem asks me to solve Count Elements With Strictly Smaller and Greater Elements  with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Count Elements With Strictly Smaller and Greater Elements \nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Count Elements With Strictly Smaller and Greater Elements \ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Count Elements With Strictly Smaller and Greater Elements \n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:300",
       "post": {
         "slug": "longest-increasing-subsequence-solution-notes",
