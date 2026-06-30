@@ -58,7 +58,8 @@
     "2026-06-26",
     "2026-06-27",
     "2026-06-28",
-    "2026-06-29"
+    "2026-06-29",
+    "2026-06-30"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -851,46 +852,11 @@
       "problemKey": "leetcode:2269",
       "slug": "count-elements-with-strictly-smaller-and-greater-elements-solution-notes",
       "sourceTitle": "Count Elements With Strictly Smaller and Greater Elements ",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-06-30T11:21:08.193Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-06-30T14:42:32.808Z",
+      "publishedSlug": "count-elements-with-strictly-smaller-and-greater-elements-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-06-30",
-    "problemKey": "leetcode:2269",
-    "post": {
-      "slug": "count-elements-with-strictly-smaller-and-greater-elements-solution-notes",
-      "title": "Count Elements With Strictly Smaller and Greater Elements : Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Count Elements With Strictly Smaller and Greater Elements  with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Count Elements With Strictly Smaller and Greater Elements ",
-      "sourceUrl": "https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/",
-      "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Count Elements With Strictly Smaller and Greater Elements  with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Count Elements With Strictly Smaller and Greater Elements \nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Count Elements With Strictly Smaller and Greater Elements \ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Count Elements With Strictly Smaller and Greater Elements \n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
