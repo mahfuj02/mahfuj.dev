@@ -861,9 +861,9 @@
       "problemKey": "leetcode:3948",
       "slug": "maximum-number-of-subsequences-after-one-inserting-solution-notes",
       "sourceTitle": "Maximum Number of Subsequences After One Inserting",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-07-01T04:53:15.546Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-07-01T11:32:50.788Z"
     }
   },
   "activeDraft": {
@@ -883,17 +883,18 @@
       "sourceTitle": "Maximum Number of Subsequences After One Inserting",
       "sourceUrl": "https://leetcode.com/problems/maximum-number-of-subsequences-after-one-inserting/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Number of Subsequences After One Inserting with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Number of Subsequences After One Inserting with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Maximum Number of Subsequences After One Inserting\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
