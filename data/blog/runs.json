@@ -856,7 +856,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-06-30T14:42:32.808Z",
       "publishedSlug": "count-elements-with-strictly-smaller-and-greater-elements-solution-notes"
+    },
+    "2026-07-01": {
+      "problemKey": "leetcode:3948",
+      "slug": "maximum-number-of-subsequences-after-one-inserting-solution-notes",
+      "sourceTitle": "Maximum Number of Subsequences After One Inserting",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-07-01T04:53:15.546Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-07-01",
+    "problemKey": "leetcode:3948",
+    "post": {
+      "slug": "maximum-number-of-subsequences-after-one-inserting-solution-notes",
+      "title": "Maximum Number of Subsequences After One Inserting: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Maximum Number of Subsequences After One Inserting with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Maximum Number of Subsequences After One Inserting",
+      "sourceUrl": "https://leetcode.com/problems/maximum-number-of-subsequences-after-one-inserting/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Number of Subsequences After One Inserting with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Maximum Number of Subsequences After One Inserting\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Maximum Number of Subsequences After One Inserting\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Maximum Number of Subsequences After One Inserting\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
