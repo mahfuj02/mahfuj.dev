@@ -59,7 +59,8 @@
     "2026-06-27",
     "2026-06-28",
     "2026-06-29",
-    "2026-06-30"
+    "2026-06-30",
+    "2026-07-01"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -861,46 +862,11 @@
       "problemKey": "leetcode:3948",
       "slug": "maximum-number-of-subsequences-after-one-inserting-solution-notes",
       "sourceTitle": "Maximum Number of Subsequences After One Inserting",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-07-01T11:32:50.788Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-07-01T15:11:05.124Z",
+      "publishedSlug": "maximum-number-of-subsequences-after-one-inserting-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-07-01",
-    "problemKey": "leetcode:3948",
-    "post": {
-      "slug": "maximum-number-of-subsequences-after-one-inserting-solution-notes",
-      "title": "Maximum Number of Subsequences After One Inserting: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Maximum Number of Subsequences After One Inserting with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Maximum Number of Subsequences After One Inserting",
-      "sourceUrl": "https://leetcode.com/problems/maximum-number-of-subsequences-after-one-inserting/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Number of Subsequences After One Inserting with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Maximum Number of Subsequences After One Inserting\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Maximum Number of Subsequences After One Inserting\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Maximum Number of Subsequences After One Inserting\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
