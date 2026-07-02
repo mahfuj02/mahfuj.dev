@@ -866,7 +866,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-07-01T15:11:05.124Z",
       "publishedSlug": "maximum-number-of-subsequences-after-one-inserting-solution-notes"
+    },
+    "2026-07-02": {
+      "problemKey": "leetcode:2605",
+      "slug": "count-anagrams-solution-notes",
+      "sourceTitle": "Count Anagrams",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-07-02T04:20:27.231Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-07-02",
+    "problemKey": "leetcode:2605",
+    "post": {
+      "slug": "count-anagrams-solution-notes",
+      "title": "Count Anagrams: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Count Anagrams with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Count Anagrams",
+      "sourceUrl": "https://leetcode.com/problems/count-anagrams/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Count Anagrams with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Count Anagrams\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Count Anagrams\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Count Anagrams\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
