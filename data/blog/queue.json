@@ -3181,6 +3181,247 @@
           "cpp": "// C++ template for Maximum Area Rectangle With Point Constraints I\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:4227",
+      "post": {
+        "slug": "find-users-with-persistent-behavior-patterns-solution-notes",
+        "title": "Find Users with Persistent Behavior Patterns: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Find Users with Persistent Behavior Patterns with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Find Users with Persistent Behavior Patterns",
+        "sourceUrl": "https://leetcode.com/problems/find-users-with-persistent-behavior-patterns/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Find Users with Persistent Behavior Patterns with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Find Users with Persistent Behavior Patterns\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Find Users with Persistent Behavior Patterns\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Find Users with Persistent Behavior Patterns\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:538",
+      "post": {
+        "slug": "convert-bst-to-greater-tree-solution-notes",
+        "title": "Convert BST to Greater Tree: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Convert BST to Greater Tree with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Convert BST to Greater Tree",
+        "sourceUrl": "https://leetcode.com/problems/convert-bst-to-greater-tree/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Convert BST to Greater Tree with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Convert BST to Greater Tree\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Convert BST to Greater Tree\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Convert BST to Greater Tree\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1429",
+      "post": {
+        "slug": "verbal-arithmetic-puzzle-solution-notes",
+        "title": "Verbal Arithmetic Puzzle: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Verbal Arithmetic Puzzle with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Verbal Arithmetic Puzzle",
+        "sourceUrl": "https://leetcode.com/problems/verbal-arithmetic-puzzle/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Verbal Arithmetic Puzzle with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Verbal Arithmetic Puzzle\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Verbal Arithmetic Puzzle\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Verbal Arithmetic Puzzle\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1113",
+      "post": {
+        "slug": "moving-stones-until-consecutive-ii-solution-notes",
+        "title": "Moving Stones Until Consecutive II: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Moving Stones Until Consecutive II with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Moving Stones Until Consecutive II",
+        "sourceUrl": "https://leetcode.com/problems/moving-stones-until-consecutive-ii/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Moving Stones Until Consecutive II with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Moving Stones Until Consecutive II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Moving Stones Until Consecutive II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Moving Stones Until Consecutive II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3808",
+      "post": {
+        "slug": "longest-palindrome-after-substring-concatenation-ii-solution-notes",
+        "title": "Longest Palindrome After Substring Concatenation II: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Longest Palindrome After Substring Concatenation II with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Longest Palindrome After Substring Concatenation II",
+        "sourceUrl": "https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Longest Palindrome After Substring Concatenation II with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Longest Palindrome After Substring Concatenation II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Longest Palindrome After Substring Concatenation II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Longest Palindrome After Substring Concatenation II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:4198",
+      "post": {
+        "slug": "longest-alternating-subarray-after-removing-at-most-one-element-solution-notes",
+        "title": "Longest Alternating Subarray After Removing At Most One Element: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Longest Alternating Subarray After Removing At Most One Element with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Longest Alternating Subarray After Removing At Most One Element",
+        "sourceUrl": "https://leetcode.com/problems/longest-alternating-subarray-after-removing-at-most-one-element/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Longest Alternating Subarray After Removing At Most One Element with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Longest Alternating Subarray After Removing At Most One Element\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Longest Alternating Subarray After Removing At Most One Element\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Longest Alternating Subarray After Removing At Most One Element\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3845",
+      "post": {
+        "slug": "maximum-sum-of-edge-values-in-a-graph-solution-notes",
+        "title": "Maximum Sum of Edge Values in a Graph: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Maximum Sum of Edge Values in a Graph with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Maximum Sum of Edge Values in a Graph",
+        "sourceUrl": "https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Maximum Sum of Edge Values in a Graph with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Maximum Sum of Edge Values in a Graph\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Maximum Sum of Edge Values in a Graph\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Maximum Sum of Edge Values in a Graph\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
