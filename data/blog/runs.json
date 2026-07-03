@@ -61,7 +61,8 @@
     "2026-06-29",
     "2026-06-30",
     "2026-07-01",
-    "2026-07-02"
+    "2026-07-02",
+    "2026-07-03"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -881,46 +882,11 @@
       "problemKey": "leetcode:831",
       "slug": "largest-sum-of-averages-solution-notes",
       "sourceTitle": "Largest Sum of Averages",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-07-03T14:31:31.402Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-07-03T17:47:00.026Z",
+      "publishedSlug": "largest-sum-of-averages-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-07-03",
-    "problemKey": "leetcode:831",
-    "post": {
-      "slug": "largest-sum-of-averages-solution-notes",
-      "title": "Largest Sum of Averages: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Largest Sum of Averages with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Largest Sum of Averages",
-      "sourceUrl": "https://leetcode.com/problems/largest-sum-of-averages/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Largest Sum of Averages with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Largest Sum of Averages\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Largest Sum of Averages\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Largest Sum of Averages\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
