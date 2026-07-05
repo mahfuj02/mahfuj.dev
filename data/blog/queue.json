@@ -3319,41 +3319,6 @@
           "cpp": "// C++ template for Longest Alternating Subarray After Removing At Most One Element\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
-    },
-    {
-      "problemKey": "leetcode:3845",
-      "post": {
-        "slug": "maximum-sum-of-edge-values-in-a-graph-solution-notes",
-        "title": "Maximum Sum of Edge Values in a Graph: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Maximum Sum of Edge Values in a Graph with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode",
-          "data-structures"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Maximum Sum of Edge Values in a Graph",
-        "sourceUrl": "https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Maximum Sum of Edge Values in a Graph with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Maximum Sum of Edge Values in a Graph\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Maximum Sum of Edge Values in a Graph\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Maximum Sum of Edge Values in a Graph\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
     }
   ]
 }
