@@ -3319,6 +3319,248 @@
           "cpp": "// C++ template for Longest Alternating Subarray After Removing At Most One Element\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:2006",
+      "post": {
+        "slug": "find-the-student-that-will-replace-the-chalk-solution-notes",
+        "title": "Find the Student that Will Replace the Chalk: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Find the Student that Will Replace the Chalk with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Find the Student that Will Replace the Chalk",
+        "sourceUrl": "https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Find the Student that Will Replace the Chalk with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Find the Student that Will Replace the Chalk\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Find the Student that Will Replace the Chalk\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Find the Student that Will Replace the Chalk\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2813",
+      "post": {
+        "slug": "to-be-or-not-to-be-solution-notes",
+        "title": "To Be Or Not To Be: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for To Be Or Not To Be with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "To Be Or Not To Be",
+        "sourceUrl": "https://leetcode.com/problems/to-be-or-not-to-be/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve To Be Or Not To Be with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for To Be Or Not To Be\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for To Be Or Not To Be\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for To Be Or Not To Be\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:991",
+      "post": {
+        "slug": "array-of-doubled-pairs-solution-notes",
+        "title": "Array of Doubled Pairs: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Array of Doubled Pairs with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Array of Doubled Pairs",
+        "sourceUrl": "https://leetcode.com/problems/array-of-doubled-pairs/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Array of Doubled Pairs with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Array of Doubled Pairs\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Array of Doubled Pairs\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Array of Doubled Pairs\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2121",
+      "post": {
+        "slug": "find-if-path-exists-in-graph-solution-notes",
+        "title": "Find if Path Exists in Graph: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Find if Path Exists in Graph with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Find if Path Exists in Graph",
+        "sourceUrl": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Find if Path Exists in Graph with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Find if Path Exists in Graph\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Find if Path Exists in Graph\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Find if Path Exists in Graph\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2849",
+      "post": {
+        "slug": "sum-of-imbalance-numbers-of-all-subarrays-solution-notes",
+        "title": "Sum of Imbalance Numbers of All Subarrays: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Sum of Imbalance Numbers of All Subarrays with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Sum of Imbalance Numbers of All Subarrays",
+        "sourceUrl": "https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Sum of Imbalance Numbers of All Subarrays with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Sum of Imbalance Numbers of All Subarrays\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Sum of Imbalance Numbers of All Subarrays\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Sum of Imbalance Numbers of All Subarrays\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3492",
+      "post": {
+        "slug": "count-submatrices-with-equal-frequency-of-x-and-y-solution-notes",
+        "title": "Count Submatrices With Equal Frequency of X and Y: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Count Submatrices With Equal Frequency of X and Y with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Count Submatrices With Equal Frequency of X and Y",
+        "sourceUrl": "https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Count Submatrices With Equal Frequency of X and Y with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Count Submatrices With Equal Frequency of X and Y\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Count Submatrices With Equal Frequency of X and Y\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Count Submatrices With Equal Frequency of X and Y\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1011",
+      "post": {
+        "slug": "flip-binary-tree-to-match-preorder-traversal-solution-notes",
+        "title": "Flip Binary Tree To Match Preorder Traversal: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Flip Binary Tree To Match Preorder Traversal with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Flip Binary Tree To Match Preorder Traversal",
+        "sourceUrl": "https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Flip Binary Tree To Match Preorder Traversal with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Flip Binary Tree To Match Preorder Traversal\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Flip Binary Tree To Match Preorder Traversal\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Flip Binary Tree To Match Preorder Traversal\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
