@@ -1813,40 +1813,6 @@
       }
     },
     {
-      "problemKey": "leetcode:417",
-      "post": {
-        "slug": "pacific-atlantic-water-flow-solution-notes",
-        "title": "Pacific Atlantic Water Flow: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Pacific Atlantic Water Flow with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Pacific Atlantic Water Flow",
-        "sourceUrl": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Pacific Atlantic Water Flow with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Pacific Atlantic Water Flow\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Pacific Atlantic Water Flow\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Pacific Atlantic Water Flow\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:813",
       "post": {
         "slug": "all-paths-from-source-to-target-solution-notes",

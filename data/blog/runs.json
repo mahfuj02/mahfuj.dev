@@ -904,43 +904,49 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-07-05T21:19:05.612Z"
+    },
+    "2026-07-06": {
+      "problemKey": "leetcode:417",
+      "slug": "pacific-atlantic-water-flow-solution-notes",
+      "sourceTitle": "Pacific Atlantic Water Flow",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-07-06T21:46:32.737Z"
     }
   },
   "activeDraft": {
-    "date": "2026-07-05",
-    "problemKey": "leetcode:3845",
+    "date": "2026-07-06",
+    "problemKey": "leetcode:417",
     "post": {
-      "slug": "maximum-sum-of-edge-values-in-a-graph-solution-notes",
-      "title": "Maximum Sum of Edge Values in a Graph: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Maximum Sum of Edge Values in a Graph with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "pacific-atlantic-water-flow-solution-notes",
+      "title": "Pacific Atlantic Water Flow: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Pacific Atlantic Water Flow with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode",
-        "data-structures"
+        "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Maximum Sum of Edge Values in a Graph",
-      "sourceUrl": "https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Sum of Edge Values in a Graph with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "sourceTitle": "Pacific Atlantic Water Flow",
+      "sourceUrl": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Pacific Atlantic Water Flow with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Maximum Sum of Edge Values in a Graph\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Maximum Sum of Edge Values in a Graph\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Maximum Sum of Edge Values in a Graph\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Pacific Atlantic Water Flow\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Pacific Atlantic Water Flow\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Pacific Atlantic Water Flow\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
