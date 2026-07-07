@@ -912,15 +912,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-07-06T21:46:32.737Z"
+    },
+    "2026-07-07": {
+      "problemKey": "leetcode:300",
+      "slug": "longest-increasing-subsequence-solution-notes",
+      "sourceTitle": "Longest Increasing Subsequence",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-07-07T04:15:50.914Z"
     }
   },
   "activeDraft": {
-    "date": "2026-07-06",
-    "problemKey": "leetcode:417",
+    "date": "2026-07-07",
+    "problemKey": "leetcode:300",
     "post": {
-      "slug": "pacific-atlantic-water-flow-solution-notes",
-      "title": "Pacific Atlantic Water Flow: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Pacific Atlantic Water Flow with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "longest-increasing-subsequence-solution-notes",
+      "title": "Longest Increasing Subsequence: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Longest Increasing Subsequence with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -928,10 +936,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Pacific Atlantic Water Flow",
-      "sourceUrl": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+      "sourceTitle": "Longest Increasing Subsequence",
+      "sourceUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Pacific Atlantic Water Flow with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Longest Increasing Subsequence with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -944,9 +952,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Pacific Atlantic Water Flow\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Pacific Atlantic Water Flow\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Pacific Atlantic Water Flow\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Longest Increasing Subsequence\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Longest Increasing Subsequence\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Longest Increasing Subsequence\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
