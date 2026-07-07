@@ -63,7 +63,8 @@
     "2026-07-01",
     "2026-07-02",
     "2026-07-03",
-    "2026-07-04"
+    "2026-07-04",
+    "2026-07-07"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -917,46 +918,11 @@
       "problemKey": "leetcode:300",
       "slug": "longest-increasing-subsequence-solution-notes",
       "sourceTitle": "Longest Increasing Subsequence",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-07-07T07:53:34.958Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-07-07T11:18:45.867Z",
+      "publishedSlug": "longest-increasing-subsequence-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-07-07",
-    "problemKey": "leetcode:300",
-    "post": {
-      "slug": "longest-increasing-subsequence-solution-notes",
-      "title": "Longest Increasing Subsequence: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Longest Increasing Subsequence with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Longest Increasing Subsequence",
-      "sourceUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Longest Increasing Subsequence with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Longest Increasing Subsequence\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Longest Increasing Subsequence\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Longest Increasing Subsequence\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
