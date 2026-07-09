@@ -932,7 +932,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-07-08T14:39:58.407Z",
       "publishedSlug": "maximum-height-of-a-triangle-solution-notes"
+    },
+    "2026-07-09": {
+      "problemKey": "leetcode:1684",
+      "slug": "find-latest-group-of-size-m-solution-notes",
+      "sourceTitle": "Find Latest Group of Size M",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-07-09T15:32:06.035Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-07-09",
+    "problemKey": "leetcode:1684",
+    "post": {
+      "slug": "find-latest-group-of-size-m-solution-notes",
+      "title": "Find Latest Group of Size M: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Find Latest Group of Size M with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Find Latest Group of Size M",
+      "sourceUrl": "https://leetcode.com/problems/find-latest-group-of-size-m/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Find Latest Group of Size M with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Find Latest Group of Size M\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Find Latest Group of Size M\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Find Latest Group of Size M\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
