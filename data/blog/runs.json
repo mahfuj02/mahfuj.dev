@@ -942,7 +942,51 @@
       "commitsToday": 3,
       "updatedAt": "2026-07-09T21:42:56.889Z",
       "publishedSlug": "find-latest-group-of-size-m-solution-notes"
+    },
+    "2026-07-10": {
+      "problemKey": "leetcode:237",
+      "slug": "delete-node-in-a-linked-list-solution-notes",
+      "sourceTitle": "Delete Node in a Linked List",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-07-10T04:13:13.263Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-07-10",
+    "problemKey": "leetcode:237",
+    "post": {
+      "slug": "delete-node-in-a-linked-list-solution-notes",
+      "title": "Delete Node in a Linked List: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Delete Node in a Linked List with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode",
+        "data-structures"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Delete Node in a Linked List",
+      "sourceUrl": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Delete Node in a Linked List with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Delete Node in a Linked List\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Delete Node in a Linked List\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Delete Node in a Linked List\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
