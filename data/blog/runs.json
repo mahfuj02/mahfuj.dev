@@ -66,7 +66,8 @@
     "2026-07-04",
     "2026-07-07",
     "2026-07-08",
-    "2026-07-09"
+    "2026-07-09",
+    "2026-07-10"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -947,47 +948,11 @@
       "problemKey": "leetcode:237",
       "slug": "delete-node-in-a-linked-list-solution-notes",
       "sourceTitle": "Delete Node in a Linked List",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-07-10T07:51:27.987Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-07-10T11:18:24.007Z",
+      "publishedSlug": "delete-node-in-a-linked-list-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-07-10",
-    "problemKey": "leetcode:237",
-    "post": {
-      "slug": "delete-node-in-a-linked-list-solution-notes",
-      "title": "Delete Node in a Linked List: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Delete Node in a Linked List with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode",
-        "data-structures"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Delete Node in a Linked List",
-      "sourceUrl": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Delete Node in a Linked List with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Delete Node in a Linked List\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Delete Node in a Linked List\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Delete Node in a Linked List\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }

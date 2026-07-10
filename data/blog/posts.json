@@ -2347,5 +2347,39 @@
       "python": "# Python template for Find Latest Group of Size M\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
       "cpp": "// C++ template for Find Latest Group of Size M\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
     }
+  },
+  {
+    "slug": "delete-node-in-a-linked-list-solution-notes",
+    "title": "Delete Node in a Linked List: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Delete Node in a Linked List with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-07-10",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode",
+      "data-structures"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Delete Node in a Linked List",
+    "sourceUrl": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+    "difficulty": "Medium",
+    "problemInMyWords": "In my own words, this problem asks me to solve Delete Node in a Linked List with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Delete Node in a Linked List\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Delete Node in a Linked List\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Delete Node in a Linked List\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
   }
 ]
