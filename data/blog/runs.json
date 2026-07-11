@@ -952,7 +952,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-07-10T11:18:24.007Z",
       "publishedSlug": "delete-node-in-a-linked-list-solution-notes"
+    },
+    "2026-07-11": {
+      "problemKey": "leetcode:813",
+      "slug": "all-paths-from-source-to-target-solution-notes",
+      "sourceTitle": "All Paths From Source to Target",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-07-11T06:25:27.061Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-07-11",
+    "problemKey": "leetcode:813",
+    "post": {
+      "slug": "all-paths-from-source-to-target-solution-notes",
+      "title": "All Paths From Source to Target: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for All Paths From Source to Target with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "All Paths From Source to Target",
+      "sourceUrl": "https://leetcode.com/problems/all-paths-from-source-to-target/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve All Paths From Source to Target with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for All Paths From Source to Target\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for All Paths From Source to Target\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for All Paths From Source to Target\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
