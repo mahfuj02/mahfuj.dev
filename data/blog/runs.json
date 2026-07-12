@@ -68,7 +68,8 @@
     "2026-07-08",
     "2026-07-09",
     "2026-07-10",
-    "2026-07-11"
+    "2026-07-11",
+    "2026-07-12"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -967,46 +968,11 @@
       "problemKey": "leetcode:1452",
       "slug": "restaurant-growth-solution-notes",
       "sourceTitle": "Restaurant Growth",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-07-12T13:55:01.482Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-07-12T17:16:16.357Z",
+      "publishedSlug": "restaurant-growth-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-07-12",
-    "problemKey": "leetcode:1452",
-    "post": {
-      "slug": "restaurant-growth-solution-notes",
-      "title": "Restaurant Growth: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Restaurant Growth with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Restaurant Growth",
-      "sourceUrl": "https://leetcode.com/problems/restaurant-growth/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Restaurant Growth with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Restaurant Growth\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Restaurant Growth\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Restaurant Growth\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
