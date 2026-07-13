@@ -69,7 +69,8 @@
     "2026-07-09",
     "2026-07-10",
     "2026-07-11",
-    "2026-07-12"
+    "2026-07-12",
+    "2026-07-13"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -977,46 +978,11 @@
       "problemKey": "leetcode:4065",
       "slug": "count-sequences-to-k-solution-notes",
       "sourceTitle": "Count Sequences to K",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-07-13T18:06:01.663Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-07-13T21:12:11.822Z",
+      "publishedSlug": "count-sequences-to-k-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-07-13",
-    "problemKey": "leetcode:4065",
-    "post": {
-      "slug": "count-sequences-to-k-solution-notes",
-      "title": "Count Sequences to K: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Count Sequences to K with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Count Sequences to K",
-      "sourceUrl": "https://leetcode.com/problems/count-sequences-to-k/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Count Sequences to K with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Count Sequences to K\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Count Sequences to K\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Count Sequences to K\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
