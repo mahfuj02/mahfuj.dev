@@ -987,9 +987,9 @@
       "problemKey": "leetcode:3208",
       "slug": "count-beautiful-substrings-ii-solution-notes",
       "sourceTitle": "Count Beautiful Substrings II",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-07-14T17:33:30.355Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-07-14T21:13:45.828Z"
     }
   },
   "activeDraft": {
@@ -1009,17 +1009,18 @@
       "sourceTitle": "Count Beautiful Substrings II",
       "sourceUrl": "https://leetcode.com/problems/count-beautiful-substrings-ii/",
       "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Count Beautiful Substrings II with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Count Beautiful Substrings II with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Count Beautiful Substrings II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
