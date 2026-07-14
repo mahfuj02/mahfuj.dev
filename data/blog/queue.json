@@ -617,40 +617,6 @@
       }
     },
     {
-      "problemKey": "leetcode:3208",
-      "post": {
-        "slug": "count-beautiful-substrings-ii-solution-notes",
-        "title": "Count Beautiful Substrings II: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Count Beautiful Substrings II with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Count Beautiful Substrings II",
-        "sourceUrl": "https://leetcode.com/problems/count-beautiful-substrings-ii/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Count Beautiful Substrings II with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Count Beautiful Substrings II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Count Beautiful Substrings II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Count Beautiful Substrings II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:906",
       "post": {
         "slug": "walking-robot-simulation-solution-notes",
