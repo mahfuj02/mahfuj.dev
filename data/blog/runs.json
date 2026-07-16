@@ -998,15 +998,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-07-15T21:14:19.599Z"
+    },
+    "2026-07-16": {
+      "problemKey": "leetcode:1851",
+      "slug": "maximum-number-of-events-that-can-be-attended-ii-solution-notes",
+      "sourceTitle": "Maximum Number of Events That Can Be Attended II",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-07-16T03:35:26.471Z"
     }
   },
   "activeDraft": {
-    "date": "2026-07-15",
-    "problemKey": "leetcode:4227",
+    "date": "2026-07-16",
+    "problemKey": "leetcode:1851",
     "post": {
-      "slug": "find-users-with-persistent-behavior-patterns-solution-notes",
-      "title": "Find Users with Persistent Behavior Patterns: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Find Users with Persistent Behavior Patterns with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "maximum-number-of-events-that-can-be-attended-ii-solution-notes",
+      "title": "Maximum Number of Events That Can Be Attended II: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Maximum Number of Events That Can Be Attended II with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -1014,10 +1022,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Find Users with Persistent Behavior Patterns",
-      "sourceUrl": "https://leetcode.com/problems/find-users-with-persistent-behavior-patterns/",
+      "sourceTitle": "Maximum Number of Events That Can Be Attended II",
+      "sourceUrl": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/",
       "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Find Users with Persistent Behavior Patterns with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Number of Events That Can Be Attended II with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -1030,9 +1038,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Find Users with Persistent Behavior Patterns\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Find Users with Persistent Behavior Patterns\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Find Users with Persistent Behavior Patterns\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Maximum Number of Events That Can Be Attended II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Maximum Number of Events That Can Be Attended II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Maximum Number of Events That Can Be Attended II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }

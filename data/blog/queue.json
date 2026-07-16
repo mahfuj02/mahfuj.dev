@@ -480,40 +480,6 @@
       }
     },
     {
-      "problemKey": "leetcode:1851",
-      "post": {
-        "slug": "maximum-number-of-events-that-can-be-attended-ii-solution-notes",
-        "title": "Maximum Number of Events That Can Be Attended II: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Maximum Number of Events That Can Be Attended II with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Maximum Number of Events That Can Be Attended II",
-        "sourceUrl": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Maximum Number of Events That Can Be Attended II with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Maximum Number of Events That Can Be Attended II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Maximum Number of Events That Can Be Attended II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Maximum Number of Events That Can Be Attended II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:2119",
       "post": {
         "slug": "minimum-number-of-operations-to-make-array-continuous-solution-notes",
