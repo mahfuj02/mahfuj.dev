@@ -3662,6 +3662,246 @@
           "cpp": "// C++ template for Count The Number of Winning Sequences\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:943",
+      "post": {
+        "slug": "sum-of-subarray-minimums-solution-notes",
+        "title": "Sum of Subarray Minimums: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Sum of Subarray Minimums with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Sum of Subarray Minimums",
+        "sourceUrl": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Sum of Subarray Minimums with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Sum of Subarray Minimums\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Sum of Subarray Minimums\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Sum of Subarray Minimums\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:330",
+      "post": {
+        "slug": "patching-array-solution-notes",
+        "title": "Patching Array: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Patching Array with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Patching Array",
+        "sourceUrl": "https://leetcode.com/problems/patching-array/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Patching Array with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Patching Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Patching Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Patching Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:417",
+      "post": {
+        "slug": "pacific-atlantic-water-flow-solution-notes",
+        "title": "Pacific Atlantic Water Flow: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Pacific Atlantic Water Flow with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Pacific Atlantic Water Flow",
+        "sourceUrl": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Pacific Atlantic Water Flow with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Pacific Atlantic Water Flow\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Pacific Atlantic Water Flow\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Pacific Atlantic Water Flow\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2641",
+      "post": {
+        "slug": "disconnect-path-in-a-binary-matrix-by-at-most-one-flip-solution-notes",
+        "title": "Disconnect Path in a Binary Matrix by at Most One Flip: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Disconnect Path in a Binary Matrix by at Most One Flip with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Disconnect Path in a Binary Matrix by at Most One Flip",
+        "sourceUrl": "https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Disconnect Path in a Binary Matrix by at Most One Flip with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Disconnect Path in a Binary Matrix by at Most One Flip\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Disconnect Path in a Binary Matrix by at Most One Flip\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Disconnect Path in a Binary Matrix by at Most One Flip\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3835",
+      "post": {
+        "slug": "count-partitions-with-max-min-difference-at-most-k-solution-notes",
+        "title": "Count Partitions With Max-Min Difference at Most K: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Count Partitions With Max-Min Difference at Most K with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Count Partitions With Max-Min Difference at Most K",
+        "sourceUrl": "https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Count Partitions With Max-Min Difference at Most K with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Count Partitions With Max-Min Difference at Most K\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Count Partitions With Max-Min Difference at Most K\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Count Partitions With Max-Min Difference at Most K\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1287",
+      "post": {
+        "slug": "distance-between-bus-stops-solution-notes",
+        "title": "Distance Between Bus Stops: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Distance Between Bus Stops with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Distance Between Bus Stops",
+        "sourceUrl": "https://leetcode.com/problems/distance-between-bus-stops/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Distance Between Bus Stops with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Distance Between Bus Stops\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Distance Between Bus Stops\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Distance Between Bus Stops\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2038",
+      "post": {
+        "slug": "nearest-exit-from-entrance-in-maze-solution-notes",
+        "title": "Nearest Exit from Entrance in Maze: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Nearest Exit from Entrance in Maze with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Nearest Exit from Entrance in Maze",
+        "sourceUrl": "https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Nearest Exit from Entrance in Maze with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Nearest Exit from Entrance in Maze\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Nearest Exit from Entrance in Maze\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Nearest Exit from Entrance in Maze\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
