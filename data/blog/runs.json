@@ -72,7 +72,8 @@
     "2026-07-12",
     "2026-07-13",
     "2026-07-16",
-    "2026-07-17"
+    "2026-07-17",
+    "2026-07-18"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -1023,47 +1024,11 @@
       "problemKey": "leetcode:2849",
       "slug": "sum-of-imbalance-numbers-of-all-subarrays-solution-notes",
       "sourceTitle": "Sum of Imbalance Numbers of All Subarrays",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-07-18T13:47:28.641Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-07-18T17:13:35.328Z",
+      "publishedSlug": "sum-of-imbalance-numbers-of-all-subarrays-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-07-18",
-    "problemKey": "leetcode:2849",
-    "post": {
-      "slug": "sum-of-imbalance-numbers-of-all-subarrays-solution-notes",
-      "title": "Sum of Imbalance Numbers of All Subarrays: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Sum of Imbalance Numbers of All Subarrays with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode",
-        "data-structures"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Sum of Imbalance Numbers of All Subarrays",
-      "sourceUrl": "https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Sum of Imbalance Numbers of All Subarrays with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Sum of Imbalance Numbers of All Subarrays\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Sum of Imbalance Numbers of All Subarrays\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Sum of Imbalance Numbers of All Subarrays\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
