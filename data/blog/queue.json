@@ -3049,41 +3049,6 @@
       }
     },
     {
-      "problemKey": "leetcode:2849",
-      "post": {
-        "slug": "sum-of-imbalance-numbers-of-all-subarrays-solution-notes",
-        "title": "Sum of Imbalance Numbers of All Subarrays: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Sum of Imbalance Numbers of All Subarrays with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode",
-          "data-structures"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Sum of Imbalance Numbers of All Subarrays",
-        "sourceUrl": "https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Sum of Imbalance Numbers of All Subarrays with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Sum of Imbalance Numbers of All Subarrays\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Sum of Imbalance Numbers of All Subarrays\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Sum of Imbalance Numbers of All Subarrays\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:3492",
       "post": {
         "slug": "count-submatrices-with-equal-frequency-of-x-and-y-solution-notes",
