@@ -1058,7 +1058,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-07-21T17:44:12.731Z",
       "publishedSlug": "longest-alternating-subarray-after-removing-at-most-one-element-solution-notes"
+    },
+    "2026-07-22": {
+      "problemKey": "leetcode:3062",
+      "slug": "create-a-dataframe-from-list-solution-notes",
+      "sourceTitle": "Create a DataFrame from List",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-07-22T14:20:46.976Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-07-22",
+    "problemKey": "leetcode:3062",
+    "post": {
+      "slug": "create-a-dataframe-from-list-solution-notes",
+      "title": "Create a DataFrame from List: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Create a DataFrame from List with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Create a DataFrame from List",
+      "sourceUrl": "https://leetcode.com/problems/create-a-dataframe-from-list/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Create a DataFrame from List with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Create a DataFrame from List\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Create a DataFrame from List\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Create a DataFrame from List\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
