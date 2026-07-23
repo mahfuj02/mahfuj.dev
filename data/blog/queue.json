@@ -3936,6 +3936,247 @@
           "cpp": "// C++ template for Count Stable Subarrays\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:24",
+      "post": {
+        "slug": "swap-nodes-in-pairs-solution-notes",
+        "title": "Swap Nodes in Pairs: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Swap Nodes in Pairs with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Swap Nodes in Pairs",
+        "sourceUrl": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Swap Nodes in Pairs with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Swap Nodes in Pairs\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Swap Nodes in Pairs\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Swap Nodes in Pairs\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2054",
+      "post": {
+        "slug": "the-number-of-the-smallest-unoccupied-chair-solution-notes",
+        "title": "The Number of the Smallest Unoccupied Chair: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for The Number of the Smallest Unoccupied Chair with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "The Number of the Smallest Unoccupied Chair",
+        "sourceUrl": "https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve The Number of the Smallest Unoccupied Chair with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for The Number of the Smallest Unoccupied Chair\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for The Number of the Smallest Unoccupied Chair\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for The Number of the Smallest Unoccupied Chair\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:8",
+      "post": {
+        "slug": "string-to-integer-atoi-solution-notes",
+        "title": "String to Integer (atoi): Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for String to Integer (atoi) with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "String to Integer (atoi)",
+        "sourceUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve String to Integer (atoi) with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for String to Integer (atoi)\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for String to Integer (atoi)\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for String to Integer (atoi)\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2312",
+      "post": {
+        "slug": "most-frequent-number-following-key-in-an-array-solution-notes",
+        "title": "Most Frequent Number Following Key In an Array: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Most Frequent Number Following Key In an Array with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Most Frequent Number Following Key In an Array",
+        "sourceUrl": "https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Most Frequent Number Following Key In an Array with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Most Frequent Number Following Key In an Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Most Frequent Number Following Key In an Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Most Frequent Number Following Key In an Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2790",
+      "post": {
+        "slug": "call-function-with-custom-context-solution-notes",
+        "title": "Call Function with Custom Context: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Call Function with Custom Context with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Call Function with Custom Context",
+        "sourceUrl": "https://leetcode.com/problems/call-function-with-custom-context/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Call Function with Custom Context with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Call Function with Custom Context\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Call Function with Custom Context\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Call Function with Custom Context\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:560",
+      "post": {
+        "slug": "subarray-sum-equals-k-solution-notes",
+        "title": "Subarray Sum Equals K: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Subarray Sum Equals K with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Subarray Sum Equals K",
+        "sourceUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Subarray Sum Equals K with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Subarray Sum Equals K\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Subarray Sum Equals K\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Subarray Sum Equals K\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2358",
+      "post": {
+        "slug": "number-of-ways-to-split-array-solution-notes",
+        "title": "Number of Ways to Split Array: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Number of Ways to Split Array with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Number of Ways to Split Array",
+        "sourceUrl": "https://leetcode.com/problems/number-of-ways-to-split-array/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Number of Ways to Split Array with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Number of Ways to Split Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Number of Ways to Split Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Number of Ways to Split Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
