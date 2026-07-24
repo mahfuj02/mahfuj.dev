@@ -651,41 +651,6 @@
       }
     },
     {
-      "problemKey": "leetcode:766",
-      "post": {
-        "slug": "flatten-a-multilevel-doubly-linked-list-solution-notes",
-        "title": "Flatten a Multilevel Doubly Linked List: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Flatten a Multilevel Doubly Linked List with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode",
-          "data-structures"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Flatten a Multilevel Doubly Linked List",
-        "sourceUrl": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Flatten a Multilevel Doubly Linked List with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Flatten a Multilevel Doubly Linked List\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Flatten a Multilevel Doubly Linked List\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Flatten a Multilevel Doubly Linked List\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:196",
       "post": {
         "slug": "delete-duplicate-emails-solution-notes",
