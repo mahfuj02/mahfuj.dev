@@ -1084,27 +1084,34 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-07-24T21:19:57.735Z"
+    },
+    "2026-07-25": {
+      "problemKey": "leetcode:2883",
+      "slug": "partition-string-into-minimum-beautiful-substrings-solution-notes",
+      "sourceTitle": "Partition String Into Minimum Beautiful Substrings",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-07-25T03:35:29.553Z"
     }
   },
   "activeDraft": {
-    "date": "2026-07-24",
-    "problemKey": "leetcode:766",
+    "date": "2026-07-25",
+    "problemKey": "leetcode:2883",
     "post": {
-      "slug": "flatten-a-multilevel-doubly-linked-list-solution-notes",
-      "title": "Flatten a Multilevel Doubly Linked List: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Flatten a Multilevel Doubly Linked List with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "partition-string-into-minimum-beautiful-substrings-solution-notes",
+      "title": "Partition String Into Minimum Beautiful Substrings: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Partition String Into Minimum Beautiful Substrings with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode",
-        "data-structures"
+        "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Flatten a Multilevel Doubly Linked List",
-      "sourceUrl": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+      "sourceTitle": "Partition String Into Minimum Beautiful Substrings",
+      "sourceUrl": "https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Flatten a Multilevel Doubly Linked List with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Partition String Into Minimum Beautiful Substrings with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -1117,9 +1124,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Flatten a Multilevel Doubly Linked List\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Flatten a Multilevel Doubly Linked List\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Flatten a Multilevel Doubly Linked List\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Partition String Into Minimum Beautiful Substrings\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Partition String Into Minimum Beautiful Substrings\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Partition String Into Minimum Beautiful Substrings\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
