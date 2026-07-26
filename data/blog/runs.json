@@ -1099,9 +1099,9 @@
       "problemKey": "leetcode:1534",
       "slug": "minimum-number-of-frogs-croaking-solution-notes",
       "sourceTitle": "Minimum Number of Frogs Croaking",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-07-26T06:47:59.663Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-07-26T10:12:39.480Z"
     }
   },
   "activeDraft": {
@@ -1121,17 +1121,18 @@
       "sourceTitle": "Minimum Number of Frogs Croaking",
       "sourceUrl": "https://leetcode.com/problems/minimum-number-of-frogs-croaking/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Number of Frogs Croaking with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Number of Frogs Croaking with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Minimum Number of Frogs Croaking\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
