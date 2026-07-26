@@ -1094,7 +1094,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-07-25T09:59:21.702Z",
       "publishedSlug": "partition-string-into-minimum-beautiful-substrings-solution-notes"
+    },
+    "2026-07-26": {
+      "problemKey": "leetcode:1534",
+      "slug": "minimum-number-of-frogs-croaking-solution-notes",
+      "sourceTitle": "Minimum Number of Frogs Croaking",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-07-26T06:47:59.663Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-07-26",
+    "problemKey": "leetcode:1534",
+    "post": {
+      "slug": "minimum-number-of-frogs-croaking-solution-notes",
+      "title": "Minimum Number of Frogs Croaking: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Minimum Number of Frogs Croaking with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Minimum Number of Frogs Croaking",
+      "sourceUrl": "https://leetcode.com/problems/minimum-number-of-frogs-croaking/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Number of Frogs Croaking with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Minimum Number of Frogs Croaking\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Minimum Number of Frogs Croaking\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Minimum Number of Frogs Croaking\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
