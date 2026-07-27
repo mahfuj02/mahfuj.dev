@@ -1109,9 +1109,9 @@
       "problemKey": "leetcode:2894",
       "slug": "maximum-elegance-of-a-k-length-subsequence-solution-notes",
       "sourceTitle": "Maximum Elegance of a K-Length Subsequence",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-07-27T11:37:08.593Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-07-27T15:11:46.849Z"
     }
   },
   "activeDraft": {
@@ -1131,17 +1131,18 @@
       "sourceTitle": "Maximum Elegance of a K-Length Subsequence",
       "sourceUrl": "https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/",
       "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Elegance of a K-Length Subsequence with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Elegance of a K-Length Subsequence with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Maximum Elegance of a K-Length Subsequence\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
