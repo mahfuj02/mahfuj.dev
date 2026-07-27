@@ -1104,7 +1104,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-07-26T13:54:54.238Z",
       "publishedSlug": "minimum-number-of-frogs-croaking-solution-notes"
+    },
+    "2026-07-27": {
+      "problemKey": "leetcode:2894",
+      "slug": "maximum-elegance-of-a-k-length-subsequence-solution-notes",
+      "sourceTitle": "Maximum Elegance of a K-Length Subsequence",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-07-27T11:37:08.593Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-07-27",
+    "problemKey": "leetcode:2894",
+    "post": {
+      "slug": "maximum-elegance-of-a-k-length-subsequence-solution-notes",
+      "title": "Maximum Elegance of a K-Length Subsequence: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Maximum Elegance of a K-Length Subsequence with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Maximum Elegance of a K-Length Subsequence",
+      "sourceUrl": "https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Elegance of a K-Length Subsequence with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Maximum Elegance of a K-Length Subsequence\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Maximum Elegance of a K-Length Subsequence\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Maximum Elegance of a K-Length Subsequence\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
