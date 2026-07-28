@@ -1119,9 +1119,9 @@
       "problemKey": "leetcode:273",
       "slug": "integer-to-english-words-solution-notes",
       "sourceTitle": "Integer to English Words",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-07-28T14:35:21.378Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-07-28T17:44:26.345Z"
     }
   },
   "activeDraft": {
@@ -1141,17 +1141,18 @@
       "sourceTitle": "Integer to English Words",
       "sourceUrl": "https://leetcode.com/problems/integer-to-english-words/",
       "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Integer to English Words with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Integer to English Words with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Integer to English Words\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
