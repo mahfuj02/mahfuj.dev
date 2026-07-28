@@ -80,7 +80,8 @@
     "2026-07-22",
     "2026-07-25",
     "2026-07-26",
-    "2026-07-27"
+    "2026-07-27",
+    "2026-07-28"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -1119,46 +1120,11 @@
       "problemKey": "leetcode:273",
       "slug": "integer-to-english-words-solution-notes",
       "sourceTitle": "Integer to English Words",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-07-28T17:44:26.345Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-07-28T21:31:06.140Z",
+      "publishedSlug": "integer-to-english-words-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-07-28",
-    "problemKey": "leetcode:273",
-    "post": {
-      "slug": "integer-to-english-words-solution-notes",
-      "title": "Integer to English Words: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Integer to English Words with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Integer to English Words",
-      "sourceUrl": "https://leetcode.com/problems/integer-to-english-words/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Integer to English Words with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Integer to English Words\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Integer to English Words\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Integer to English Words\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
