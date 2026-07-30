@@ -1132,15 +1132,23 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-07-29T21:11:32.824Z"
+    },
+    "2026-07-30": {
+      "problemKey": "leetcode:1457",
+      "slug": "minimum-difficulty-of-a-job-schedule-solution-notes",
+      "sourceTitle": "Minimum Difficulty of a Job Schedule",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-07-30T10:33:30.384Z"
     }
   },
   "activeDraft": {
-    "date": "2026-07-29",
-    "problemKey": "leetcode:2476",
+    "date": "2026-07-30",
+    "problemKey": "leetcode:1457",
     "post": {
-      "slug": "check-distances-between-same-letters-solution-notes",
-      "title": "Check Distances Between Same Letters: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Check Distances Between Same Letters with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "minimum-difficulty-of-a-job-schedule-solution-notes",
+      "title": "Minimum Difficulty of a Job Schedule: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Minimum Difficulty of a Job Schedule with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -1148,26 +1156,25 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Check Distances Between Same Letters",
-      "sourceUrl": "https://leetcode.com/problems/check-distances-between-same-letters/",
-      "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Check Distances Between Same Letters with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "sourceTitle": "Minimum Difficulty of a Job Schedule",
+      "sourceUrl": "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Difficulty of a Job Schedule with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Check Distances Between Same Letters\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Check Distances Between Same Letters\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Check Distances Between Same Letters\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Minimum Difficulty of a Job Schedule\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Minimum Difficulty of a Job Schedule\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Minimum Difficulty of a Job Schedule\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
