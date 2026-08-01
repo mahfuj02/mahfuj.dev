@@ -1152,7 +1152,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-07-31T21:20:47.453Z",
       "publishedSlug": "smallest-substring-with-identical-characters-i-solution-notes"
+    },
+    "2026-08-01": {
+      "problemKey": "leetcode:1533",
+      "slug": "display-table-of-food-orders-in-a-restaurant-solution-notes",
+      "sourceTitle": "Display Table of Food Orders in a Restaurant",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-08-01T06:40:02.746Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-08-01",
+    "problemKey": "leetcode:1533",
+    "post": {
+      "slug": "display-table-of-food-orders-in-a-restaurant-solution-notes",
+      "title": "Display Table of Food Orders in a Restaurant: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Display Table of Food Orders in a Restaurant with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Display Table of Food Orders in a Restaurant",
+      "sourceUrl": "https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Display Table of Food Orders in a Restaurant with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Display Table of Food Orders in a Restaurant\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Display Table of Food Orders in a Restaurant\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Display Table of Food Orders in a Restaurant\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
