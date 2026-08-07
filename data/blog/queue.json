@@ -2844,40 +2844,6 @@
       }
     },
     {
-      "problemKey": "leetcode:736",
-      "post": {
-        "slug": "parse-lisp-expression-solution-notes",
-        "title": "Parse Lisp Expression: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Parse Lisp Expression with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Parse Lisp Expression",
-        "sourceUrl": "https://leetcode.com/problems/parse-lisp-expression/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Parse Lisp Expression with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Parse Lisp Expression\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Parse Lisp Expression\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Parse Lisp Expression\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:2919",
       "post": {
         "slug": "maximum-number-of-groups-with-increasing-length-solution-notes",
