@@ -1238,7 +1238,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-08-09T20:50:20.676Z",
       "publishedSlug": "number-of-ways-to-split-array-solution-notes"
+    },
+    "2026-08-10": {
+      "problemKey": "leetcode:796",
+      "slug": "reaching-points-solution-notes",
+      "sourceTitle": "Reaching Points",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-08-10T05:42:42.763Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-08-10",
+    "problemKey": "leetcode:796",
+    "post": {
+      "slug": "reaching-points-solution-notes",
+      "title": "Reaching Points: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Reaching Points with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Reaching Points",
+      "sourceUrl": "https://leetcode.com/problems/reaching-points/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Reaching Points with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Reaching Points\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Reaching Points\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Reaching Points\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }

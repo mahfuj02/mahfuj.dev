@@ -821,40 +821,6 @@
       }
     },
     {
-      "problemKey": "leetcode:796",
-      "post": {
-        "slug": "reaching-points-solution-notes",
-        "title": "Reaching Points: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Reaching Points with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Reaching Points",
-        "sourceUrl": "https://leetcode.com/problems/reaching-points/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Reaching Points with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Reaching Points\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Reaching Points\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Reaching Points\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:517",
       "post": {
         "slug": "super-washing-machines-solution-notes",
