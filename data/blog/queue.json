@@ -4522,6 +4522,247 @@
           "cpp": "// C++ template for Integer Replacement\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:1443",
+      "post": {
+        "slug": "minimum-distance-to-type-a-word-using-two-fingers-solution-notes",
+        "title": "Minimum Distance to Type a Word Using Two Fingers: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Minimum Distance to Type a Word Using Two Fingers with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Minimum Distance to Type a Word Using Two Fingers",
+        "sourceUrl": "https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Minimum Distance to Type a Word Using Two Fingers with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Minimum Distance to Type a Word Using Two Fingers\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Minimum Distance to Type a Word Using Two Fingers\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Minimum Distance to Type a Word Using Two Fingers\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3196",
+      "post": {
+        "slug": "apply-operations-to-maximize-frequency-score-solution-notes",
+        "title": "Apply Operations to Maximize Frequency Score: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Apply Operations to Maximize Frequency Score with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Apply Operations to Maximize Frequency Score",
+        "sourceUrl": "https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Apply Operations to Maximize Frequency Score with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Apply Operations to Maximize Frequency Score\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Apply Operations to Maximize Frequency Score\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Apply Operations to Maximize Frequency Score\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:238",
+      "post": {
+        "slug": "product-of-array-except-self-solution-notes",
+        "title": "Product of Array Except Self: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Product of Array Except Self with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Product of Array Except Self",
+        "sourceUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Product of Array Except Self with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Product of Array Except Self\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Product of Array Except Self\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Product of Array Except Self\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3791",
+      "post": {
+        "slug": "fruits-into-baskets-iii-solution-notes",
+        "title": "Fruits Into Baskets III: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Fruits Into Baskets III with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Fruits Into Baskets III",
+        "sourceUrl": "https://leetcode.com/problems/fruits-into-baskets-iii/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Fruits Into Baskets III with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Fruits Into Baskets III\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Fruits Into Baskets III\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Fruits Into Baskets III\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:513",
+      "post": {
+        "slug": "find-bottom-left-tree-value-solution-notes",
+        "title": "Find Bottom Left Tree Value: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Find Bottom Left Tree Value with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Find Bottom Left Tree Value",
+        "sourceUrl": "https://leetcode.com/problems/find-bottom-left-tree-value/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Find Bottom Left Tree Value with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Find Bottom Left Tree Value\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Find Bottom Left Tree Value\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Find Bottom Left Tree Value\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2955",
+      "post": {
+        "slug": "account-balance-after-rounded-purchase-solution-notes",
+        "title": "Account Balance After Rounded Purchase: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Account Balance After Rounded Purchase with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Account Balance After Rounded Purchase",
+        "sourceUrl": "https://leetcode.com/problems/account-balance-after-rounded-purchase/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Account Balance After Rounded Purchase with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Account Balance After Rounded Purchase\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Account Balance After Rounded Purchase\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Account Balance After Rounded Purchase\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1422",
+      "post": {
+        "slug": "divide-array-in-sets-of-k-consecutive-numbers-solution-notes",
+        "title": "Divide Array in Sets of K Consecutive Numbers: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Divide Array in Sets of K Consecutive Numbers with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Divide Array in Sets of K Consecutive Numbers",
+        "sourceUrl": "https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Divide Array in Sets of K Consecutive Numbers with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Divide Array in Sets of K Consecutive Numbers\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Divide Array in Sets of K Consecutive Numbers\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Divide Array in Sets of K Consecutive Numbers\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
