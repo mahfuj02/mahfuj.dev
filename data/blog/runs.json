@@ -1248,7 +1248,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-08-10T13:42:34.063Z",
       "publishedSlug": "reaching-points-solution-notes"
+    },
+    "2026-08-11": {
+      "problemKey": "leetcode:4214",
+      "slug": "count-dominant-indices-solution-notes",
+      "sourceTitle": "Count Dominant Indices",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-08-11T09:12:17.981Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-08-11",
+    "problemKey": "leetcode:4214",
+    "post": {
+      "slug": "count-dominant-indices-solution-notes",
+      "title": "Count Dominant Indices: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Count Dominant Indices with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Count Dominant Indices",
+      "sourceUrl": "https://leetcode.com/problems/count-dominant-indices/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Count Dominant Indices with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Count Dominant Indices\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Count Dominant Indices\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Count Dominant Indices\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
