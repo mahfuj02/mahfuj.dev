@@ -3667,41 +3667,6 @@
       }
     },
     {
-      "problemKey": "leetcode:3888",
-      "post": {
-        "slug": "maximize-subarray-gcd-score-solution-notes",
-        "title": "Maximize Subarray GCD Score: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Maximize Subarray GCD Score with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode",
-          "data-structures"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Maximize Subarray GCD Score",
-        "sourceUrl": "https://leetcode.com/problems/maximize-subarray-gcd-score/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Maximize Subarray GCD Score with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Maximize Subarray GCD Score\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Maximize Subarray GCD Score\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Maximize Subarray GCD Score\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:2352",
       "post": {
         "slug": "design-an-atm-machine-solution-notes",
