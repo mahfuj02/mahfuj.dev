@@ -4660,6 +4660,245 @@
           "cpp": "// C++ template for Divide Array in Sets of K Consecutive Numbers\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:188",
+      "post": {
+        "slug": "best-time-to-buy-and-sell-stock-iv-solution-notes",
+        "title": "Best Time to Buy and Sell Stock IV: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Best Time to Buy and Sell Stock IV with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Best Time to Buy and Sell Stock IV",
+        "sourceUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Best Time to Buy and Sell Stock IV with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Best Time to Buy and Sell Stock IV\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Best Time to Buy and Sell Stock IV\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Best Time to Buy and Sell Stock IV\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3416",
+      "post": {
+        "slug": "sum-of-digit-differences-of-all-pairs-solution-notes",
+        "title": "Sum of Digit Differences of All Pairs: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Sum of Digit Differences of All Pairs with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Sum of Digit Differences of All Pairs",
+        "sourceUrl": "https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Sum of Digit Differences of All Pairs with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Sum of Digit Differences of All Pairs\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Sum of Digit Differences of All Pairs\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Sum of Digit Differences of All Pairs\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:929",
+      "post": {
+        "slug": "groups-of-special-equivalent-strings-solution-notes",
+        "title": "Groups of Special-Equivalent Strings: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Groups of Special-Equivalent Strings with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Groups of Special-Equivalent Strings",
+        "sourceUrl": "https://leetcode.com/problems/groups-of-special-equivalent-strings/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Groups of Special-Equivalent Strings with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Groups of Special-Equivalent Strings\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Groups of Special-Equivalent Strings\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Groups of Special-Equivalent Strings\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3627",
+      "post": {
+        "slug": "find-minimum-time-to-reach-last-room-i-solution-notes",
+        "title": "Find Minimum Time to Reach Last Room I: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Find Minimum Time to Reach Last Room I with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Find Minimum Time to Reach Last Room I",
+        "sourceUrl": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Find Minimum Time to Reach Last Room I with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Find Minimum Time to Reach Last Room I\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Find Minimum Time to Reach Last Room I\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Find Minimum Time to Reach Last Room I\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1063",
+      "post": {
+        "slug": "best-sightseeing-pair-solution-notes",
+        "title": "Best Sightseeing Pair: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Best Sightseeing Pair with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Best Sightseeing Pair",
+        "sourceUrl": "https://leetcode.com/problems/best-sightseeing-pair/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Best Sightseeing Pair with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Best Sightseeing Pair\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Best Sightseeing Pair\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Best Sightseeing Pair\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2157",
+      "post": {
+        "slug": "smallest-k-length-subsequence-with-occurrences-of-a-letter-solution-notes",
+        "title": "Smallest K-Length Subsequence With Occurrences of a Letter: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Smallest K-Length Subsequence With Occurrences of a Letter with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Smallest K-Length Subsequence With Occurrences of a Letter",
+        "sourceUrl": "https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Smallest K-Length Subsequence With Occurrences of a Letter with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Smallest K-Length Subsequence With Occurrences of a Letter\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Smallest K-Length Subsequence With Occurrences of a Letter\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Smallest K-Length Subsequence With Occurrences of a Letter\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:4123",
+      "post": {
+        "slug": "maximum-sum-of-m-non-overlapping-subarrays-i-solution-notes",
+        "title": "Maximum Sum of M Non-Overlapping Subarrays I: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Maximum Sum of M Non-Overlapping Subarrays I with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Maximum Sum of M Non-Overlapping Subarrays I",
+        "sourceUrl": "https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-i/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Maximum Sum of M Non-Overlapping Subarrays I with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Maximum Sum of M Non-Overlapping Subarrays I\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Maximum Sum of M Non-Overlapping Subarrays I\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Maximum Sum of M Non-Overlapping Subarrays I\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
