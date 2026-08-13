@@ -1164,40 +1164,6 @@
       }
     },
     {
-      "problemKey": "leetcode:413",
-      "post": {
-        "slug": "arithmetic-slices-solution-notes",
-        "title": "Arithmetic Slices: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Arithmetic Slices with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Arithmetic Slices",
-        "sourceUrl": "https://leetcode.com/problems/arithmetic-slices/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Arithmetic Slices with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Arithmetic Slices\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Arithmetic Slices\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Arithmetic Slices\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:236",
       "post": {
         "slug": "lowest-common-ancestor-of-a-binary-tree-solution-notes",
