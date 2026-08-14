@@ -1276,42 +1276,50 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-08-13T21:01:54.823Z"
+    },
+    "2026-08-14": {
+      "problemKey": "leetcode:934",
+      "slug": "bitwise-ors-of-subarrays-solution-notes",
+      "sourceTitle": "Bitwise ORs of Subarrays",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-08-14T20:44:17.182Z"
     }
   },
   "activeDraft": {
-    "date": "2026-08-13",
-    "problemKey": "leetcode:413",
+    "date": "2026-08-14",
+    "problemKey": "leetcode:934",
     "post": {
-      "slug": "arithmetic-slices-solution-notes",
-      "title": "Arithmetic Slices: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Arithmetic Slices with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "bitwise-ors-of-subarrays-solution-notes",
+      "title": "Bitwise ORs of Subarrays: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Bitwise ORs of Subarrays with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode"
+        "leetcode",
+        "data-structures"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Arithmetic Slices",
-      "sourceUrl": "https://leetcode.com/problems/arithmetic-slices/",
+      "sourceTitle": "Bitwise ORs of Subarrays",
+      "sourceUrl": "https://leetcode.com/problems/bitwise-ors-of-subarrays/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Arithmetic Slices with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Bitwise ORs of Subarrays with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Arithmetic Slices\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Arithmetic Slices\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Arithmetic Slices\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Bitwise ORs of Subarrays\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Bitwise ORs of Subarrays\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Bitwise ORs of Subarrays\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
