@@ -1284,27 +1284,34 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-08-14T20:44:17.182Z"
+    },
+    "2026-08-15": {
+      "problemKey": "leetcode:352",
+      "slug": "data-stream-as-disjoint-intervals-solution-notes",
+      "sourceTitle": "Data Stream as Disjoint Intervals",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-08-15T01:48:42.003Z"
     }
   },
   "activeDraft": {
-    "date": "2026-08-14",
-    "problemKey": "leetcode:934",
+    "date": "2026-08-15",
+    "problemKey": "leetcode:352",
     "post": {
-      "slug": "bitwise-ors-of-subarrays-solution-notes",
-      "title": "Bitwise ORs of Subarrays: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Bitwise ORs of Subarrays with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "data-stream-as-disjoint-intervals-solution-notes",
+      "title": "Data Stream as Disjoint Intervals: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Data Stream as Disjoint Intervals with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode",
-        "data-structures"
+        "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Bitwise ORs of Subarrays",
-      "sourceUrl": "https://leetcode.com/problems/bitwise-ors-of-subarrays/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Bitwise ORs of Subarrays with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Data Stream as Disjoint Intervals",
+      "sourceUrl": "https://leetcode.com/problems/data-stream-as-disjoint-intervals/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Data Stream as Disjoint Intervals with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -1317,9 +1324,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Bitwise ORs of Subarrays\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Bitwise ORs of Subarrays\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Bitwise ORs of Subarrays\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Data Stream as Disjoint Intervals\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Data Stream as Disjoint Intervals\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Data Stream as Disjoint Intervals\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }

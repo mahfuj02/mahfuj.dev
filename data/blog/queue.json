@@ -2057,40 +2057,6 @@
       }
     },
     {
-      "problemKey": "leetcode:352",
-      "post": {
-        "slug": "data-stream-as-disjoint-intervals-solution-notes",
-        "title": "Data Stream as Disjoint Intervals: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Data Stream as Disjoint Intervals with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Data Stream as Disjoint Intervals",
-        "sourceUrl": "https://leetcode.com/problems/data-stream-as-disjoint-intervals/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Data Stream as Disjoint Intervals with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Data Stream as Disjoint Intervals\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Data Stream as Disjoint Intervals\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Data Stream as Disjoint Intervals\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:1927",
       "post": {
         "slug": "maximum-ascending-subarray-sum-solution-notes",
