@@ -1294,7 +1294,51 @@
       "commitsToday": 3,
       "updatedAt": "2026-08-15T08:43:59.330Z",
       "publishedSlug": "data-stream-as-disjoint-intervals-solution-notes"
+    },
+    "2026-08-16": {
+      "problemKey": "leetcode:991",
+      "slug": "array-of-doubled-pairs-solution-notes",
+      "sourceTitle": "Array of Doubled Pairs",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-08-16T04:49:22.759Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-08-16",
+    "problemKey": "leetcode:991",
+    "post": {
+      "slug": "array-of-doubled-pairs-solution-notes",
+      "title": "Array of Doubled Pairs: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Array of Doubled Pairs with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode",
+        "data-structures"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Array of Doubled Pairs",
+      "sourceUrl": "https://leetcode.com/problems/array-of-doubled-pairs/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Array of Doubled Pairs with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Array of Doubled Pairs\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Array of Doubled Pairs\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Array of Doubled Pairs\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
