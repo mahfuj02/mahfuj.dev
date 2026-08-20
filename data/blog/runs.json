@@ -97,7 +97,8 @@
     "2026-08-15",
     "2026-08-16",
     "2026-08-17",
-    "2026-08-18"
+    "2026-08-18",
+    "2026-08-20"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -1337,46 +1338,11 @@
       "problemKey": "leetcode:720",
       "slug": "longest-word-in-dictionary-solution-notes",
       "sourceTitle": "Longest Word in Dictionary",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-08-20T13:09:48.102Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-08-20T16:49:34.358Z",
+      "publishedSlug": "longest-word-in-dictionary-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-08-20",
-    "problemKey": "leetcode:720",
-    "post": {
-      "slug": "longest-word-in-dictionary-solution-notes",
-      "title": "Longest Word in Dictionary: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Longest Word in Dictionary with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Longest Word in Dictionary",
-      "sourceUrl": "https://leetcode.com/problems/longest-word-in-dictionary/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Longest Word in Dictionary with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Longest Word in Dictionary\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Longest Word in Dictionary\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Longest Word in Dictionary\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
