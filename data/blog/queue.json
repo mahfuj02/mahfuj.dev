@@ -1062,40 +1062,6 @@
       }
     },
     {
-      "problemKey": "leetcode:2361",
-      "post": {
-        "slug": "calculate-digit-sum-of-a-string-solution-notes",
-        "title": "Calculate Digit Sum of a String: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Calculate Digit Sum of a String with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Calculate Digit Sum of a String",
-        "sourceUrl": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
-        "difficulty": "Easy",
-        "problemInMyWords": "In my own words, this problem asks me to solve Calculate Digit Sum of a String with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Calculate Digit Sum of a String\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Calculate Digit Sum of a String\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Calculate Digit Sum of a String\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:3932",
       "post": {
         "slug": "find-covid-recovery-patients-solution-notes",
