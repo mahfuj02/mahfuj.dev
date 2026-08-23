@@ -1474,40 +1474,6 @@
       }
     },
     {
-      "problemKey": "leetcode:1277",
-      "post": {
-        "slug": "largest-multiple-of-three-solution-notes",
-        "title": "Largest Multiple of Three: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Largest Multiple of Three with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Largest Multiple of Three",
-        "sourceUrl": "https://leetcode.com/problems/largest-multiple-of-three/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Largest Multiple of Three with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Largest Multiple of Three\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Largest Multiple of Three\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Largest Multiple of Three\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:3657",
       "post": {
         "slug": "check-if-grid-can-be-cut-into-sections-solution-notes",

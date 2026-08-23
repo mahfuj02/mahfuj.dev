@@ -1360,15 +1360,23 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-08-22T20:38:27.797Z"
+    },
+    "2026-08-23": {
+      "problemKey": "leetcode:1277",
+      "slug": "largest-multiple-of-three-solution-notes",
+      "sourceTitle": "Largest Multiple of Three",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-08-23T20:37:36.538Z"
     }
   },
   "activeDraft": {
-    "date": "2026-08-22",
-    "problemKey": "leetcode:2361",
+    "date": "2026-08-23",
+    "problemKey": "leetcode:1277",
     "post": {
-      "slug": "calculate-digit-sum-of-a-string-solution-notes",
-      "title": "Calculate Digit Sum of a String: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Calculate Digit Sum of a String with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "largest-multiple-of-three-solution-notes",
+      "title": "Largest Multiple of Three: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Largest Multiple of Three with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -1376,26 +1384,25 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Calculate Digit Sum of a String",
-      "sourceUrl": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
-      "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Calculate Digit Sum of a String with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "sourceTitle": "Largest Multiple of Three",
+      "sourceUrl": "https://leetcode.com/problems/largest-multiple-of-three/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Largest Multiple of Three with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Calculate Digit Sum of a String\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Calculate Digit Sum of a String\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Calculate Digit Sum of a String\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Largest Multiple of Three\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Largest Multiple of Three\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Largest Multiple of Three\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
