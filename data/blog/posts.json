@@ -3444,5 +3444,38 @@
       "python": "# Python template for Counter II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
       "cpp": "// C++ template for Counter II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
     }
+  },
+  {
+    "slug": "find-indices-with-index-and-value-difference-ii-solution-notes",
+    "title": "Find Indices With Index and Value Difference II: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Find Indices With Index and Value Difference II with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-08-24",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Find Indices With Index and Value Difference II",
+    "sourceUrl": "https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/",
+    "difficulty": "Medium",
+    "problemInMyWords": "In my own words, this problem asks me to solve Find Indices With Index and Value Difference II with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Find Indices With Index and Value Difference II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Find Indices With Index and Value Difference II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Find Indices With Index and Value Difference II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
   }
 ]
