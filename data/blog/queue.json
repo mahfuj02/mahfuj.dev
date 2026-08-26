@@ -2469,40 +2469,6 @@
       }
     },
     {
-      "problemKey": "leetcode:1526",
-      "post": {
-        "slug": "html-entity-parser-solution-notes",
-        "title": "HTML Entity Parser: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for HTML Entity Parser with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "HTML Entity Parser",
-        "sourceUrl": "https://leetcode.com/problems/html-entity-parser/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve HTML Entity Parser with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for HTML Entity Parser\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for HTML Entity Parser\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for HTML Entity Parser\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:2919",
       "post": {
         "slug": "maximum-number-of-groups-with-increasing-length-solution-notes",
