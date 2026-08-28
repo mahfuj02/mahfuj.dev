@@ -1406,27 +1406,34 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-08-27T22:15:09.178Z"
+    },
+    "2026-08-28": {
+      "problemKey": "leetcode:3224",
+      "slug": "count-the-number-of-infection-sequences-solution-notes",
+      "sourceTitle": "Count the Number of Infection Sequences",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-08-28T22:18:05.027Z"
     }
   },
   "activeDraft": {
-    "date": "2026-08-27",
-    "problemKey": "leetcode:349",
+    "date": "2026-08-28",
+    "problemKey": "leetcode:3224",
     "post": {
-      "slug": "intersection-of-two-arrays-solution-notes",
-      "title": "Intersection of Two Arrays: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Intersection of Two Arrays with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "count-the-number-of-infection-sequences-solution-notes",
+      "title": "Count the Number of Infection Sequences: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Count the Number of Infection Sequences with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode",
-        "data-structures"
+        "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Intersection of Two Arrays",
-      "sourceUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
-      "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Intersection of Two Arrays with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Count the Number of Infection Sequences",
+      "sourceUrl": "https://leetcode.com/problems/count-the-number-of-infection-sequences/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Count the Number of Infection Sequences with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -1439,9 +1446,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Intersection of Two Arrays\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Intersection of Two Arrays\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Intersection of Two Arrays\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Count the Number of Infection Sequences\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Count the Number of Infection Sequences\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Count the Number of Infection Sequences\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
