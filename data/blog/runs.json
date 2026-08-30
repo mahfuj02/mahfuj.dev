@@ -102,7 +102,8 @@
     "2026-08-21",
     "2026-08-24",
     "2026-08-25",
-    "2026-08-26"
+    "2026-08-26",
+    "2026-08-30"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -1427,47 +1428,11 @@
       "problemKey": "leetcode:560",
       "slug": "subarray-sum-equals-k-solution-notes",
       "sourceTitle": "Subarray Sum Equals K",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-08-30T19:18:49.637Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-08-30T22:43:40.931Z",
+      "publishedSlug": "subarray-sum-equals-k-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-08-30",
-    "problemKey": "leetcode:560",
-    "post": {
-      "slug": "subarray-sum-equals-k-solution-notes",
-      "title": "Subarray Sum Equals K: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Subarray Sum Equals K with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode",
-        "data-structures"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Subarray Sum Equals K",
-      "sourceUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Subarray Sum Equals K with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Subarray Sum Equals K\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Subarray Sum Equals K\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Subarray Sum Equals K\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
