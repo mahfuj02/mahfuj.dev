@@ -3120,41 +3120,6 @@
       }
     },
     {
-      "problemKey": "leetcode:560",
-      "post": {
-        "slug": "subarray-sum-equals-k-solution-notes",
-        "title": "Subarray Sum Equals K: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Subarray Sum Equals K with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode",
-          "data-structures"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Subarray Sum Equals K",
-        "sourceUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Subarray Sum Equals K with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Subarray Sum Equals K\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Subarray Sum Equals K\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Subarray Sum Equals K\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:1159",
       "post": {
         "slug": "smallest-subsequence-of-distinct-characters-solution-notes",
