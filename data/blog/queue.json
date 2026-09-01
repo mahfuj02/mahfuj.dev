@@ -4080,40 +4080,6 @@
       }
     },
     {
-      "problemKey": "leetcode:188",
-      "post": {
-        "slug": "best-time-to-buy-and-sell-stock-iv-solution-notes",
-        "title": "Best Time to Buy and Sell Stock IV: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Best Time to Buy and Sell Stock IV with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Best Time to Buy and Sell Stock IV",
-        "sourceUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Best Time to Buy and Sell Stock IV with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Best Time to Buy and Sell Stock IV\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Best Time to Buy and Sell Stock IV\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Best Time to Buy and Sell Stock IV\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:3416",
       "post": {
         "slug": "sum-of-digit-differences-of-all-pairs-solution-notes",

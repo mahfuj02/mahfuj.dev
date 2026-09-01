@@ -1440,15 +1440,23 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-08-31T21:28:11.366Z"
+    },
+    "2026-09-01": {
+      "problemKey": "leetcode:188",
+      "slug": "best-time-to-buy-and-sell-stock-iv-solution-notes",
+      "sourceTitle": "Best Time to Buy and Sell Stock IV",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-09-01T13:29:27.015Z"
     }
   },
   "activeDraft": {
-    "date": "2026-08-31",
-    "problemKey": "leetcode:3748",
+    "date": "2026-09-01",
+    "problemKey": "leetcode:188",
     "post": {
-      "slug": "sort-matrix-by-diagonals-solution-notes",
-      "title": "Sort Matrix by Diagonals: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Sort Matrix by Diagonals with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "best-time-to-buy-and-sell-stock-iv-solution-notes",
+      "title": "Best Time to Buy and Sell Stock IV: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Best Time to Buy and Sell Stock IV with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -1456,26 +1464,25 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Sort Matrix by Diagonals",
-      "sourceUrl": "https://leetcode.com/problems/sort-matrix-by-diagonals/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Sort Matrix by Diagonals with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "sourceTitle": "Best Time to Buy and Sell Stock IV",
+      "sourceUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Best Time to Buy and Sell Stock IV with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Sort Matrix by Diagonals\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Sort Matrix by Diagonals\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Sort Matrix by Diagonals\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Best Time to Buy and Sell Stock IV\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Best Time to Buy and Sell Stock IV\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Best Time to Buy and Sell Stock IV\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
