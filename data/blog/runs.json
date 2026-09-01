@@ -103,7 +103,8 @@
     "2026-08-24",
     "2026-08-25",
     "2026-08-26",
-    "2026-08-30"
+    "2026-08-30",
+    "2026-09-01"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -1445,46 +1446,11 @@
       "problemKey": "leetcode:188",
       "slug": "best-time-to-buy-and-sell-stock-iv-solution-notes",
       "sourceTitle": "Best Time to Buy and Sell Stock IV",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-09-01T19:23:02.318Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-09-01T22:36:12.166Z",
+      "publishedSlug": "best-time-to-buy-and-sell-stock-iv-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-09-01",
-    "problemKey": "leetcode:188",
-    "post": {
-      "slug": "best-time-to-buy-and-sell-stock-iv-solution-notes",
-      "title": "Best Time to Buy and Sell Stock IV: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Best Time to Buy and Sell Stock IV with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Best Time to Buy and Sell Stock IV",
-      "sourceUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Best Time to Buy and Sell Stock IV with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Best Time to Buy and Sell Stock IV\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Best Time to Buy and Sell Stock IV\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Best Time to Buy and Sell Stock IV\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
