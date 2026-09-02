@@ -1450,7 +1450,51 @@
       "commitsToday": 3,
       "updatedAt": "2026-09-01T22:36:12.166Z",
       "publishedSlug": "best-time-to-buy-and-sell-stock-iv-solution-notes"
+    },
+    "2026-09-02": {
+      "problemKey": "leetcode:3858",
+      "slug": "subtree-inversion-sum-solution-notes",
+      "sourceTitle": "Subtree Inversion Sum",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-09-02T12:46:02.644Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-09-02",
+    "problemKey": "leetcode:3858",
+    "post": {
+      "slug": "subtree-inversion-sum-solution-notes",
+      "title": "Subtree Inversion Sum: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Subtree Inversion Sum with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode",
+        "data-structures"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Subtree Inversion Sum",
+      "sourceUrl": "https://leetcode.com/problems/subtree-inversion-sum/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Subtree Inversion Sum with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Subtree Inversion Sum\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Subtree Inversion Sum\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Subtree Inversion Sum\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
