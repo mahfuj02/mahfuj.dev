@@ -3941,41 +3941,6 @@
       }
     },
     {
-      "problemKey": "leetcode:513",
-      "post": {
-        "slug": "find-bottom-left-tree-value-solution-notes",
-        "title": "Find Bottom Left Tree Value: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Find Bottom Left Tree Value with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode",
-          "data-structures"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Find Bottom Left Tree Value",
-        "sourceUrl": "https://leetcode.com/problems/find-bottom-left-tree-value/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Find Bottom Left Tree Value with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Find Bottom Left Tree Value\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Find Bottom Left Tree Value\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Find Bottom Left Tree Value\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:2955",
       "post": {
         "slug": "account-balance-after-rounded-purchase-solution-notes",
