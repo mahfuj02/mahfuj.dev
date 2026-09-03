@@ -1465,9 +1465,9 @@
       "problemKey": "leetcode:513",
       "slug": "find-bottom-left-tree-value-solution-notes",
       "sourceTitle": "Find Bottom Left Tree Value",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-09-03T19:17:30.954Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-09-03T22:41:01.221Z"
     }
   },
   "activeDraft": {
@@ -1488,17 +1488,18 @@
       "sourceTitle": "Find Bottom Left Tree Value",
       "sourceUrl": "https://leetcode.com/problems/find-bottom-left-tree-value/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Find Bottom Left Tree Value with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Find Bottom Left Tree Value with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Find Bottom Left Tree Value\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
