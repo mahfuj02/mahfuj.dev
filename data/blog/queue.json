@@ -3017,40 +3017,6 @@
       }
     },
     {
-      "problemKey": "leetcode:2054",
-      "post": {
-        "slug": "the-number-of-the-smallest-unoccupied-chair-solution-notes",
-        "title": "The Number of the Smallest Unoccupied Chair: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for The Number of the Smallest Unoccupied Chair with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "The Number of the Smallest Unoccupied Chair",
-        "sourceUrl": "https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve The Number of the Smallest Unoccupied Chair with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for The Number of the Smallest Unoccupied Chair\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for The Number of the Smallest Unoccupied Chair\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for The Number of the Smallest Unoccupied Chair\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:2312",
       "post": {
         "slug": "most-frequent-number-following-key-in-an-array-solution-notes",
