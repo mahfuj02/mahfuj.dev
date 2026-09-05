@@ -1476,15 +1476,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-09-04T22:20:44.523Z"
+    },
+    "2026-09-05": {
+      "problemKey": "leetcode:2600",
+      "slug": "maximum-tastiness-of-candy-basket-solution-notes",
+      "sourceTitle": "Maximum Tastiness of Candy Basket",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-09-05T04:26:16.498Z"
     }
   },
   "activeDraft": {
-    "date": "2026-09-04",
-    "problemKey": "leetcode:2054",
+    "date": "2026-09-05",
+    "problemKey": "leetcode:2600",
     "post": {
-      "slug": "the-number-of-the-smallest-unoccupied-chair-solution-notes",
-      "title": "The Number of the Smallest Unoccupied Chair: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for The Number of the Smallest Unoccupied Chair with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "maximum-tastiness-of-candy-basket-solution-notes",
+      "title": "Maximum Tastiness of Candy Basket: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Maximum Tastiness of Candy Basket with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -1492,10 +1500,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "The Number of the Smallest Unoccupied Chair",
-      "sourceUrl": "https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/",
+      "sourceTitle": "Maximum Tastiness of Candy Basket",
+      "sourceUrl": "https://leetcode.com/problems/maximum-tastiness-of-candy-basket/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve The Number of the Smallest Unoccupied Chair with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Tastiness of Candy Basket with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -1508,9 +1516,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for The Number of the Smallest Unoccupied Chair\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for The Number of the Smallest Unoccupied Chair\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for The Number of the Smallest Unoccupied Chair\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Maximum Tastiness of Candy Basket\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Maximum Tastiness of Candy Basket\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Maximum Tastiness of Candy Basket\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }

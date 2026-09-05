@@ -5001,40 +5001,6 @@
       }
     },
     {
-      "problemKey": "leetcode:2600",
-      "post": {
-        "slug": "maximum-tastiness-of-candy-basket-solution-notes",
-        "title": "Maximum Tastiness of Candy Basket: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Maximum Tastiness of Candy Basket with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Maximum Tastiness of Candy Basket",
-        "sourceUrl": "https://leetcode.com/problems/maximum-tastiness-of-candy-basket/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Maximum Tastiness of Candy Basket with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Maximum Tastiness of Candy Basket\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Maximum Tastiness of Candy Basket\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Maximum Tastiness of Candy Basket\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:982",
       "post": {
         "slug": "minimum-increment-to-make-array-unique-solution-notes",
