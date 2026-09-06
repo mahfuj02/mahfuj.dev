@@ -106,7 +106,8 @@
     "2026-08-30",
     "2026-09-01",
     "2026-09-02",
-    "2026-09-05"
+    "2026-09-05",
+    "2026-09-06"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -1491,46 +1492,11 @@
       "problemKey": "leetcode:1443",
       "slug": "minimum-distance-to-type-a-word-using-two-fingers-solution-notes",
       "sourceTitle": "Minimum Distance to Type a Word Using Two Fingers",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-09-06T12:08:12.442Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-09-06T15:27:11.645Z",
+      "publishedSlug": "minimum-distance-to-type-a-word-using-two-fingers-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-09-06",
-    "problemKey": "leetcode:1443",
-    "post": {
-      "slug": "minimum-distance-to-type-a-word-using-two-fingers-solution-notes",
-      "title": "Minimum Distance to Type a Word Using Two Fingers: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Minimum Distance to Type a Word Using Two Fingers with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Minimum Distance to Type a Word Using Two Fingers",
-      "sourceUrl": "https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Distance to Type a Word Using Two Fingers with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Minimum Distance to Type a Word Using Two Fingers\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Minimum Distance to Type a Word Using Two Fingers\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Minimum Distance to Type a Word Using Two Fingers\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
