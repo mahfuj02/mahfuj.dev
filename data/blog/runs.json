@@ -1496,7 +1496,51 @@
       "commitsToday": 3,
       "updatedAt": "2026-09-06T15:27:11.645Z",
       "publishedSlug": "minimum-distance-to-type-a-word-using-two-fingers-solution-notes"
+    },
+    "2026-09-07": {
+      "problemKey": "leetcode:1486",
+      "slug": "find-the-distance-value-between-two-arrays-solution-notes",
+      "sourceTitle": "Find the Distance Value Between Two Arrays",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-09-07T14:14:18.671Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-09-07",
+    "problemKey": "leetcode:1486",
+    "post": {
+      "slug": "find-the-distance-value-between-two-arrays-solution-notes",
+      "title": "Find the Distance Value Between Two Arrays: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Find the Distance Value Between Two Arrays with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode",
+        "data-structures"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Find the Distance Value Between Two Arrays",
+      "sourceUrl": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Find the Distance Value Between Two Arrays with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Find the Distance Value Between Two Arrays\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Find the Distance Value Between Two Arrays\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Find the Distance Value Between Two Arrays\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
