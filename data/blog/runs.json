@@ -1516,7 +1516,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-09-08T22:39:08.813Z",
       "publishedSlug": "reformat-department-table-solution-notes"
+    },
+    "2026-09-09": {
+      "problemKey": "leetcode:4188",
+      "slug": "divisible-game-solution-notes",
+      "sourceTitle": "Divisible Game",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-09-09T19:16:17.964Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-09-09",
+    "problemKey": "leetcode:4188",
+    "post": {
+      "slug": "divisible-game-solution-notes",
+      "title": "Divisible Game: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Divisible Game with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Divisible Game",
+      "sourceUrl": "https://leetcode.com/problems/divisible-game/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Divisible Game with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Divisible Game\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Divisible Game\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Divisible Game\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
