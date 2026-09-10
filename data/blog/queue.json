@@ -5614,6 +5614,246 @@
           "cpp": "// C++ template for Maximum Building Height\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:4299",
+      "post": {
+        "slug": "concatenate-array-with-reverse-solution-notes",
+        "title": "Concatenate Array With Reverse: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Concatenate Array With Reverse with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Concatenate Array With Reverse",
+        "sourceUrl": "https://leetcode.com/problems/concatenate-array-with-reverse/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Concatenate Array With Reverse with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Concatenate Array With Reverse\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Concatenate Array With Reverse\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Concatenate Array With Reverse\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1900",
+      "post": {
+        "slug": "closest-dessert-cost-solution-notes",
+        "title": "Closest Dessert Cost: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Closest Dessert Cost with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Closest Dessert Cost",
+        "sourceUrl": "https://leetcode.com/problems/closest-dessert-cost/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Closest Dessert Cost with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Closest Dessert Cost\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Closest Dessert Cost\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Closest Dessert Cost\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2332",
+      "post": {
+        "slug": "count-lattice-points-inside-a-circle-solution-notes",
+        "title": "Count Lattice Points Inside a Circle: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Count Lattice Points Inside a Circle with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Count Lattice Points Inside a Circle",
+        "sourceUrl": "https://leetcode.com/problems/count-lattice-points-inside-a-circle/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Count Lattice Points Inside a Circle with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Count Lattice Points Inside a Circle\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Count Lattice Points Inside a Circle\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Count Lattice Points Inside a Circle\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3999",
+      "post": {
+        "slug": "minimum-operations-to-transform-string-solution-notes",
+        "title": "Minimum Operations to Transform String: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Minimum Operations to Transform String with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Minimum Operations to Transform String",
+        "sourceUrl": "https://leetcode.com/problems/minimum-operations-to-transform-string/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Minimum Operations to Transform String with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Minimum Operations to Transform String\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Minimum Operations to Transform String\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Minimum Operations to Transform String\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3139",
+      "post": {
+        "slug": "subarrays-distinct-element-sum-of-squares-ii-solution-notes",
+        "title": "Subarrays Distinct Element Sum of Squares II: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Subarrays Distinct Element Sum of Squares II with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Subarrays Distinct Element Sum of Squares II",
+        "sourceUrl": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Subarrays Distinct Element Sum of Squares II with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Subarrays Distinct Element Sum of Squares II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Subarrays Distinct Element Sum of Squares II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Subarrays Distinct Element Sum of Squares II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:4160",
+      "post": {
+        "slug": "maximum-sum-of-three-numbers-divisible-by-three-solution-notes",
+        "title": "Maximum Sum of Three Numbers Divisible by Three: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Maximum Sum of Three Numbers Divisible by Three with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Maximum Sum of Three Numbers Divisible by Three",
+        "sourceUrl": "https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Maximum Sum of Three Numbers Divisible by Three with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Maximum Sum of Three Numbers Divisible by Three\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Maximum Sum of Three Numbers Divisible by Three\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Maximum Sum of Three Numbers Divisible by Three\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1664",
+      "post": {
+        "slug": "find-users-with-valid-e-mails-solution-notes",
+        "title": "Find Users With Valid E-Mails: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Find Users With Valid E-Mails with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Find Users With Valid E-Mails",
+        "sourceUrl": "https://leetcode.com/problems/find-users-with-valid-e-mails/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Find Users With Valid E-Mails with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Find Users With Valid E-Mails\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Find Users With Valid E-Mails\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Find Users With Valid E-Mails\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
