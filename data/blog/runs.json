@@ -1539,9 +1539,9 @@
       "problemKey": "leetcode:1891",
       "slug": "count-pairs-of-nodes-solution-notes",
       "sourceTitle": "Count Pairs Of Nodes",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-09-11T12:48:48.922Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-09-11T19:09:10.330Z"
     }
   },
   "activeDraft": {
@@ -1561,17 +1561,18 @@
       "sourceTitle": "Count Pairs Of Nodes",
       "sourceUrl": "https://leetcode.com/problems/count-pairs-of-nodes/",
       "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Count Pairs Of Nodes with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Count Pairs Of Nodes with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Count Pairs Of Nodes\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
