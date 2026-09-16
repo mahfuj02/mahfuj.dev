@@ -113,7 +113,8 @@
     "2026-09-10",
     "2026-09-11",
     "2026-09-14",
-    "2026-09-15"
+    "2026-09-15",
+    "2026-09-16"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -1585,46 +1586,11 @@
       "problemKey": "leetcode:1300",
       "slug": "critical-connections-in-a-network-solution-notes",
       "sourceTitle": "Critical Connections in a Network",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-09-16T19:32:59.729Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-09-16T22:55:34.596Z",
+      "publishedSlug": "critical-connections-in-a-network-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-09-16",
-    "problemKey": "leetcode:1300",
-    "post": {
-      "slug": "critical-connections-in-a-network-solution-notes",
-      "title": "Critical Connections in a Network: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Critical Connections in a Network with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Critical Connections in a Network",
-      "sourceUrl": "https://leetcode.com/problems/critical-connections-in-a-network/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Critical Connections in a Network with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Critical Connections in a Network\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Critical Connections in a Network\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Critical Connections in a Network\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
