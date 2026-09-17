@@ -1590,7 +1590,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-09-16T22:55:34.596Z",
       "publishedSlug": "critical-connections-in-a-network-solution-notes"
+    },
+    "2026-09-17": {
+      "problemKey": "leetcode:4208",
+      "slug": "find-emotionally-consistent-users-solution-notes",
+      "sourceTitle": "Find Emotionally Consistent Users",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-09-17T13:26:01.939Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-09-17",
+    "problemKey": "leetcode:4208",
+    "post": {
+      "slug": "find-emotionally-consistent-users-solution-notes",
+      "title": "Find Emotionally Consistent Users: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Find Emotionally Consistent Users with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Find Emotionally Consistent Users",
+      "sourceUrl": "https://leetcode.com/problems/find-emotionally-consistent-users/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Find Emotionally Consistent Users with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Find Emotionally Consistent Users\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Find Emotionally Consistent Users\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Find Emotionally Consistent Users\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
