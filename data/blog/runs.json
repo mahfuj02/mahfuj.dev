@@ -1616,26 +1616,35 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-09-19T22:19:34.325Z"
+    },
+    "2026-09-20": {
+      "problemKey": "leetcode:2916",
+      "slug": "check-if-it-is-possible-to-split-array-solution-notes",
+      "sourceTitle": "Check if it is Possible to Split Array",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-09-20T13:02:31.112Z"
     }
   },
   "activeDraft": {
-    "date": "2026-09-19",
-    "problemKey": "leetcode:4160",
+    "date": "2026-09-20",
+    "problemKey": "leetcode:2916",
     "post": {
-      "slug": "maximum-sum-of-three-numbers-divisible-by-three-solution-notes",
-      "title": "Maximum Sum of Three Numbers Divisible by Three: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Maximum Sum of Three Numbers Divisible by Three with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "check-if-it-is-possible-to-split-array-solution-notes",
+      "title": "Check if it is Possible to Split Array: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Check if it is Possible to Split Array with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode"
+        "leetcode",
+        "data-structures"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Maximum Sum of Three Numbers Divisible by Three",
-      "sourceUrl": "https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three/",
+      "sourceTitle": "Check if it is Possible to Split Array",
+      "sourceUrl": "https://leetcode.com/problems/check-if-it-is-possible-to-split-array/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Sum of Three Numbers Divisible by Three with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Check if it is Possible to Split Array with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -1648,9 +1657,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Maximum Sum of Three Numbers Divisible by Three\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Maximum Sum of Three Numbers Divisible by Three\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Maximum Sum of Three Numbers Divisible by Three\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Check if it is Possible to Split Array\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Check if it is Possible to Split Array\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Check if it is Possible to Split Array\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
