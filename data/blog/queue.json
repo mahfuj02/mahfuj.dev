@@ -5959,6 +5959,245 @@
           "cpp": "// C++ template for Incremental Memory Leak\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:1279",
+      "post": {
+        "slug": "prime-arrangements-solution-notes",
+        "title": "Prime Arrangements: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Prime Arrangements with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Prime Arrangements",
+        "sourceUrl": "https://leetcode.com/problems/prime-arrangements/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Prime Arrangements with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Prime Arrangements\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Prime Arrangements\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Prime Arrangements\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:4358",
+      "post": {
+        "slug": "count-dominant-nodes-in-a-binary-tree-solution-notes",
+        "title": "Count Dominant Nodes in a Binary Tree: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Count Dominant Nodes in a Binary Tree with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Count Dominant Nodes in a Binary Tree",
+        "sourceUrl": "https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Count Dominant Nodes in a Binary Tree with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Count Dominant Nodes in a Binary Tree\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Count Dominant Nodes in a Binary Tree\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Count Dominant Nodes in a Binary Tree\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1055",
+      "post": {
+        "slug": "pairs-of-songs-with-total-durations-divisible-by-60-solution-notes",
+        "title": "Pairs of Songs With Total Durations Divisible by 60: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Pairs of Songs With Total Durations Divisible by 60 with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Pairs of Songs With Total Durations Divisible by 60",
+        "sourceUrl": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Pairs of Songs With Total Durations Divisible by 60 with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Pairs of Songs With Total Durations Divisible by 60\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Pairs of Songs With Total Durations Divisible by 60\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Pairs of Songs With Total Durations Divisible by 60\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2171",
+      "post": {
+        "slug": "second-minimum-time-to-reach-destination-solution-notes",
+        "title": "Second Minimum Time to Reach Destination: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Second Minimum Time to Reach Destination with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Second Minimum Time to Reach Destination",
+        "sourceUrl": "https://leetcode.com/problems/second-minimum-time-to-reach-destination/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Second Minimum Time to Reach Destination with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Second Minimum Time to Reach Destination\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Second Minimum Time to Reach Destination\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Second Minimum Time to Reach Destination\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3996",
+      "post": {
+        "slug": "find-books-with-polarized-opinions-solution-notes",
+        "title": "Find Books with Polarized Opinions: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Find Books with Polarized Opinions with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Find Books with Polarized Opinions",
+        "sourceUrl": "https://leetcode.com/problems/find-books-with-polarized-opinions/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Find Books with Polarized Opinions with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Find Books with Polarized Opinions\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Find Books with Polarized Opinions\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Find Books with Polarized Opinions\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:228",
+      "post": {
+        "slug": "summary-ranges-solution-notes",
+        "title": "Summary Ranges: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Summary Ranges with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Summary Ranges",
+        "sourceUrl": "https://leetcode.com/problems/summary-ranges/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Summary Ranges with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Summary Ranges\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Summary Ranges\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Summary Ranges\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3854",
+      "post": {
+        "slug": "maximum-profit-from-trading-stocks-with-discounts-solution-notes",
+        "title": "Maximum Profit from Trading Stocks with Discounts: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Maximum Profit from Trading Stocks with Discounts with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Maximum Profit from Trading Stocks with Discounts",
+        "sourceUrl": "https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Maximum Profit from Trading Stocks with Discounts with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Maximum Profit from Trading Stocks with Discounts\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Maximum Profit from Trading Stocks with Discounts\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Maximum Profit from Trading Stocks with Discounts\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
