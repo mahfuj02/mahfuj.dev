@@ -1634,26 +1634,35 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-09-21T20:25:03.426Z"
+    },
+    "2026-09-22": {
+      "problemKey": "leetcode:155",
+      "slug": "min-stack-solution-notes",
+      "sourceTitle": "Min Stack",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-09-22T22:56:27.194Z"
     }
   },
   "activeDraft": {
-    "date": "2026-09-21",
-    "problemKey": "leetcode:3793",
+    "date": "2026-09-22",
+    "problemKey": "leetcode:155",
     "post": {
-      "slug": "longest-palindrome-after-substring-concatenation-i-solution-notes",
-      "title": "Longest Palindrome After Substring Concatenation I: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Longest Palindrome After Substring Concatenation I with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "min-stack-solution-notes",
+      "title": "Min Stack: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Min Stack with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode"
+        "leetcode",
+        "data-structures"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Longest Palindrome After Substring Concatenation I",
-      "sourceUrl": "https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-i/",
+      "sourceTitle": "Min Stack",
+      "sourceUrl": "https://leetcode.com/problems/min-stack/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Longest Palindrome After Substring Concatenation I with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Min Stack with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -1666,9 +1675,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Longest Palindrome After Substring Concatenation I\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Longest Palindrome After Substring Concatenation I\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Longest Palindrome After Substring Concatenation I\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Min Stack\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Min Stack\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Min Stack\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
