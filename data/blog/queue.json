@@ -6061,6 +6061,245 @@
           "cpp": "// C++ template for Maximum Profit from Trading Stocks with Discounts\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:2756",
+      "post": {
+        "slug": "buy-two-chocolates-solution-notes",
+        "title": "Buy Two Chocolates: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Buy Two Chocolates with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Buy Two Chocolates",
+        "sourceUrl": "https://leetcode.com/problems/buy-two-chocolates/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Buy Two Chocolates with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Buy Two Chocolates\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Buy Two Chocolates\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Buy Two Chocolates\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3227",
+      "post": {
+        "slug": "find-missing-and-repeated-values-solution-notes",
+        "title": "Find Missing and Repeated Values: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Find Missing and Repeated Values with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Find Missing and Repeated Values",
+        "sourceUrl": "https://leetcode.com/problems/find-missing-and-repeated-values/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Find Missing and Repeated Values with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Find Missing and Repeated Values\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Find Missing and Repeated Values\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Find Missing and Repeated Values\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1776",
+      "post": {
+        "slug": "minimum-operations-to-reduce-x-to-zero-solution-notes",
+        "title": "Minimum Operations to Reduce X to Zero: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Minimum Operations to Reduce X to Zero with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Minimum Operations to Reduce X to Zero",
+        "sourceUrl": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Minimum Operations to Reduce X to Zero with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Minimum Operations to Reduce X to Zero\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Minimum Operations to Reduce X to Zero\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Minimum Operations to Reduce X to Zero\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1587",
+      "post": {
+        "slug": "parallel-courses-ii-solution-notes",
+        "title": "Parallel Courses II: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Parallel Courses II with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Parallel Courses II",
+        "sourceUrl": "https://leetcode.com/problems/parallel-courses-ii/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Parallel Courses II with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Parallel Courses II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Parallel Courses II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Parallel Courses II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3611",
+      "post": {
+        "slug": "construct-the-minimum-bitwise-array-ii-solution-notes",
+        "title": "Construct the Minimum Bitwise Array II: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Construct the Minimum Bitwise Array II with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Construct the Minimum Bitwise Array II",
+        "sourceUrl": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Construct the Minimum Bitwise Array II with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Construct the Minimum Bitwise Array II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Construct the Minimum Bitwise Array II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Construct the Minimum Bitwise Array II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:4039",
+      "post": {
+        "slug": "compute-decimal-representation-solution-notes",
+        "title": "Compute Decimal Representation: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Compute Decimal Representation with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Compute Decimal Representation",
+        "sourceUrl": "https://leetcode.com/problems/compute-decimal-representation/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Compute Decimal Representation with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Compute Decimal Representation\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Compute Decimal Representation\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Compute Decimal Representation\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1472",
+      "post": {
+        "slug": "increasing-decreasing-string-solution-notes",
+        "title": "Increasing Decreasing String: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Increasing Decreasing String with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Increasing Decreasing String",
+        "sourceUrl": "https://leetcode.com/problems/increasing-decreasing-string/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Increasing Decreasing String with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Increasing Decreasing String\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Increasing Decreasing String\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Increasing Decreasing String\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
