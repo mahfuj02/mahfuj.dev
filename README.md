@@ -105,10 +105,10 @@ Projects live in `data/projects.json`. **Array order is display order** — inde
 ### Add a project
 
 1. GitHub -> **Actions** -> **Add Project** -> **Run workflow**.
-2. Fill in `repo_url` (e.g. `https://github.com/mahfuj02/some-project`) and optionally `position` (default `1` = top/featured; a number past the end of the list appends). Everything at or after that position shifts down by one; nothing is removed.
+2. Fill in `repo_url` (e.g. `https://github.com/mahfuj02/some-project`) and optionally `position` (default `1` = top/featured; a number past the end of the list appends), `live_url` (live site; screenshotted for the banner and shown as the Live site link) and `image_url` (link to a banner image, used instead of a screenshot; drag an image into any GitHub issue comment to get a link). Everything at or after that position shifts down by one; nothing is removed.
 3. A pull request opens with the generated text, the position and the banner image. Review it (phone-friendly), edit `data/projects.json` in the PR if needed, and merge.
 
-The workflow reads the repo (metadata, languages, `package.json`, README), writes the copy with Groq (`llama-3.3-70b-versatile`) using only those facts, builds the `stack`, and creates `public/projects/<slug>.jpg` (a 1600x900 screenshot of the live site, or a generated card if there is no live URL or the screenshot fails). If the project already exists it fails and tells you to use **Move Project**.
+The workflow reads the repo (metadata, languages, `package.json`, README), writes the copy with Groq (`llama-3.3-70b-versatile`) using only those facts, builds the `stack`, and creates `public/projects/<slug>.jpg` (from `image_url` if given, else a 1600x900 screenshot of the live site, else a generated card). If the project already exists it fails and tells you to use **Move Project**.
 
 ### Move a project
 
