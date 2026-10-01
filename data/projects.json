@@ -1,5 +1,37 @@
 [
   {
+    "id": "eventflow",
+    "slug": "eventflow",
+    "title": "EventFlow",
+    "category": "Full Stack Web Application",
+    "bannerImage": "/projects/eventflow.jpg",
+    "bannerAlt": "EventFlow event ticketing web app banner",
+    "year": "2026",
+    "role": "Full Stack Developer",
+    "summary": "EventFlow is a full‑stack, serverless event‑ticketing platform where users can browse events, purchase tickets via Stripe, and hosts can manage events through a dashboard, all built with Vue 3, Netlify Functions, MongoDB, Firebase Auth, Cloudinary, and Resend.",
+    "details": [
+      "Built a Vue 3 single‑page application with TypeScript and Tailwind CSS, structuring the UI with the Composition API to enable event browsing, search, and detailed ticket selection.",
+      "Implemented Netlify Functions in TypeScript as a serverless backend, connecting to MongoDB for persistent storage of events, tickets, orders, guests, and host applications.",
+      "Integrated Firebase Authentication to support email/password, Google sign‑in, and anonymous guest checkout, allowing users to purchase tickets without creating an account and later upgrade seamlessly.",
+      "Connected Stripe Checkout in test mode via serverless endpoints, handling multi‑ticket, multi‑quantity purchases in a single session and generating purchase‑confirmation emails with ticket codes through Resend.",
+      "Added Cloudinary image handling for host‑uploaded event banners, processing uploads in Netlify Functions and storing URLs for display in public event pages and host dashboards.",
+      "Created a host dashboard featuring revenue summary cards, a six‑month revenue chart, event management tables, and a recent‑activity feed, all powered by aggregated data from MongoDB.",
+      "Wrote a comprehensive Playwright end‑to‑end test suite covering authentication flows, guest and host checkout, host onboarding, event management, and past‑event behavior, ensuring reliability across deployments."
+    ],
+    "stack": [
+      "MongoDB",
+      "Stripe",
+      "TypeScript",
+      "Vue 3"
+    ],
+    "liveUrl": "https://eventflow-mahfuj.netlify.app",
+    "challenge": "Building a complete event‑ticketing solution required orchestrating multiple third‑party services—authentication, payment processing, image storage, and email delivery—while delivering a seamless guest checkout experience and a robust host management interface within a serverless architecture.",
+    "solution": "Developed an end‑to‑end serverless application using Vue 3 for the frontend and Netlify Functions for the backend, integrating Firebase Auth, Stripe Checkout, MongoDB, Cloudinary, and Resend to provide public event browsing, secure ticket purchases, host onboarding, and comprehensive dashboard analytics.",
+    "impact": "Delivered a production‑ready portfolio project that demonstrates the ability to combine modern frontend frameworks with serverless backends and third‑party APIs, showcasing full‑stack expertise and a ready‑to‑deploy event‑ticketing SaaS foundation.",
+    "githubUrl": "https://github.com/mahfuj02/eventflow",
+    "highlight": "Vue 3 · Netlify Functions · Stripe Checkout · Firebase Auth"
+  },
+  {
     "id": "role-ready",
     "slug": "role-ready",
     "title": "RoleReady",
