@@ -27,6 +27,8 @@ const README_LIMIT = 12_000;
 const args = parseArgs(process.argv.slice(2));
 const dryRun = Boolean(args["dry-run"]);
 const repoInput = args["repo-url"] ?? process.env.REPO_URL;
+const liveUrlInput = args["live-url"] ?? process.env.LIVE_URL;
+const imageUrlInput = args["image-url"] ?? process.env.IMAGE_URL;
 const prBodyFile = args["pr-body-file"] ?? process.env.PR_BODY_FILE ?? path.join(os.tmpdir(), "add-project-pr-body.md");
 
 // ---------- GitHub ----------
@@ -209,7 +211,9 @@ function normalizeLiveUrl(homepage) {
   if (!value) return undefined;
   const withScheme = /^https?:\/\//i.test(value) ? value : `https://${value}`;
   try {
-    return new URL(withScheme).href.replace(/\/$/, "");
+    const url = new URL(withScheme);
+    if (!url.hostname.includes(".")) return undefined;
+    return url.href.replace(/\/$/, "");
   } catch {
     return undefined;
   }
@@ -225,7 +229,7 @@ function buildPrBody({ entry, position, count, before, banner, imageUrl }) {
     "",
     `**Position:** ${position} of ${count} ${position === 1 ? "(featured card)" : ""}`.trim(),
     `**Source:** ${entry.githubUrl}${entry.liveUrl ? ` · Live: ${entry.liveUrl}` : ""}`,
-    `**Banner:** ${banner.source === "screenshot" ? "screenshot of the live site" : "generated card"}${banner.note ? `\n> ${banner.note}` : ""}`,
+    `**Banner:** ${{ image: "image from the provided link", screenshot: "screenshot of the live site", card: "generated card" }[banner.source]}${banner.note ? `\n> ${banner.note}` : ""}`,
     "",
     `![${entry.bannerAlt}](${imageUrl})`,
     "",
@@ -280,7 +284,8 @@ async function main() {
   const stack = buildStack(facts.packageJson, facts.languages);
   if (stack.length === 0) console.warn("! Could not detect a stack from dependencies or languages.");
 
-  const liveUrl = normalizeLiveUrl(facts.meta.homepage);
+  const liveUrl = normalizeLiveUrl(liveUrlInput) ?? normalizeLiveUrl(facts.meta.homepage);
+  if (liveUrlInput && !normalizeLiveUrl(liveUrlInput)) console.warn(`! live_url "${liveUrlInput}" is not a valid URL; ignoring it.`);
   const candidate = {
     id: slug,
     slug,
@@ -294,10 +299,14 @@ async function main() {
   const text = await generateText(projects, facts, candidate.stack, candidate);
 
   const outDir = dryRun ? fs.mkdtempSync(path.join(os.tmpdir(), "add-project-")) : bannerDir;
-  console.log(liveUrl ? `Capturing banner from ${liveUrl} ...` : "No live URL; generating banner card ...");
+  const bannerLink = String(imageUrlInput ?? "").trim() || undefined;
+  console.log(
+    bannerLink ? `Using image link ${bannerLink} ...` : liveUrl ? `Capturing banner from ${liveUrl} ...` : "No image or live URL; generating banner card ...",
+  );
   const banner = await createBanner({
     slug,
     liveUrl,
+    imageUrl: bannerLink,
     outDir,
     card: { title: text.title, category: text.category, stack: candidate.stack, githubUrl: repo.url },
   });

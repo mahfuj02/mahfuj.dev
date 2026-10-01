@@ -10,6 +10,12 @@ on:
         description: "Where it goes in the project list (1 = top / featured card). Too large = end of list."
         required: false
         default: "1"
+      live_url:
+        description: "Optional: live site URL. Used for the banner screenshot and the Live site link."
+        required: false
+      image_url:
+        description: "Optional: link to a banner image (wins over live_url). Tip: drag an image into any GitHub issue comment to get a link."
+        required: false
 
 permissions:
   contents: write
@@ -40,6 +46,8 @@ jobs:
         env:
           REPO_URL: ${{ inputs.repo_url }}
           POSITION: ${{ inputs.position }}
+          LIVE_URL: ${{ inputs.live_url }}
+          IMAGE_URL: ${{ inputs.image_url }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GROQ_MODEL: ${{ vars.GROQ_MODEL }}
           GH_PAT: ${{ secrets.GH_PAT }}

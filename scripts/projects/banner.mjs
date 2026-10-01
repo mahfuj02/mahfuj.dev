@@ -8,8 +8,8 @@ const require = createRequire(import.meta.url);
 const WIDTH = 1600;
 const HEIGHT = 900;
 
-function toJpg(input) {
-  return sharp(input).resize(WIDTH, HEIGHT, { fit: "cover", position: "top" }).jpeg({ quality: 80, mozjpeg: true }).toBuffer();
+function toJpg(input, position = "top") {
+  return sharp(input).resize(WIDTH, HEIGHT, { fit: "cover", position }).jpeg({ quality: 80, mozjpeg: true }).toBuffer();
 }
 
 /** Screenshots the live site at 1600x900 after network idle. Throws on any failure. */
@@ -28,6 +28,22 @@ export async function screenshotBanner(url) {
   } finally {
     await browser.close();
   }
+}
+
+const MAX_IMAGE_BYTES = 15 * 1024 * 1024;
+
+/** Downloads an image from a direct link and converts it to a 1600x900 JPG. Throws on any failure. */
+export async function downloadBanner(imageUrl) {
+  if (!/^https:\/\//i.test(imageUrl)) throw new Error("image_url must be an https:// link");
+  const response = await fetch(imageUrl, { redirect: "follow" });
+  if (!response.ok) throw new Error(`image link responded with HTTP ${response.status}`);
+  const type = response.headers.get("content-type") ?? "";
+  if (!type.startsWith("image/")) {
+    throw new Error(`image link is not a direct image (content-type "${type}"); use a link that ends in .png/.jpg or a GitHub attachment link`);
+  }
+  const buffer = Buffer.from(await response.arrayBuffer());
+  if (buffer.length > MAX_IMAGE_BYTES) throw new Error("image is larger than 15 MB");
+  return toJpg(buffer, "centre");
 }
 
 function loadFonts() {
@@ -93,20 +109,30 @@ export async function generateBannerCard({ title, category, stack, githubUrl }) 
 }
 
 /**
- * Produces the banner for a project: live-site screenshot when possible, generated card otherwise.
- * @returns {{ file: string, source: "screenshot" | "card", note?: string }}
+ * Produces the banner for a project: image link first, then live-site screenshot, then a generated card.
+ * @returns {{ file: string, source: "image" | "screenshot" | "card", note?: string }}
  */
-export async function createBanner({ slug, liveUrl, card, outDir }) {
+export async function createBanner({ slug, liveUrl, imageUrl, card, outDir }) {
   fs.mkdirSync(outDir, { recursive: true });
   const file = path.join(outDir, `${slug}.jpg`);
   let note;
+
+  if (imageUrl) {
+    try {
+      fs.writeFileSync(file, await downloadBanner(imageUrl));
+      return { file, source: "image" };
+    } catch (error) {
+      note = `Could not use image_url (${error.message.split("\n")[0]}); fell back to ${liveUrl ? "a live-site screenshot" : "a generated card"}.`;
+      console.warn(`! ${note}`);
+    }
+  }
 
   if (liveUrl) {
     try {
       fs.writeFileSync(file, await screenshotBanner(liveUrl));
       return { file, source: "screenshot" };
     } catch (error) {
-      note = `Screenshot of ${liveUrl} failed (${error.message.split("\n")[0]}); used generated card instead.`;
+      note = `${note ? `${note} ` : ""}Screenshot of ${liveUrl} failed (${error.message.split("\n")[0]}); used generated card instead.`;
       console.warn(`! ${note}`);
     }
   }
