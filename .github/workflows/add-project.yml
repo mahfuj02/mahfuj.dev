@@ -41,6 +41,7 @@ jobs:
           REPO_URL: ${{ inputs.repo_url }}
           POSITION: ${{ inputs.position }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: ${{ vars.GROQ_MODEL }}
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_BODY_FILE: ${{ runner.temp }}/pr-body.md

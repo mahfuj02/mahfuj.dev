@@ -21,7 +21,7 @@ import {
 import { buildStack } from "./stack.mjs";
 
 const GROQ_URL = "https://api.groq.com/openai/v1/chat/completions";
-const GROQ_MODEL = "llama-3.3-70b-versatile";
+const GROQ_MODEL = process.env.GROQ_MODEL || "llama-3.3-70b-versatile";
 const README_LIMIT = 12_000;
 
 const args = parseArgs(process.argv.slice(2));
@@ -138,6 +138,18 @@ function buildMessages(projects, facts, stack, previousProblems) {
   ];
 }
 
+async function listGroqModels(key) {
+  try {
+    const response = await fetch("https://api.groq.com/openai/v1/models", { headers: { Authorization: `Bearer ${key}` } });
+    const ids = (await response.json()).data.map((m) => m.id).sort();
+    return `
+Models available to this key: ${ids.join(", ")}
+Set the GROQ_MODEL repository variable (Settings -> Secrets and variables -> Actions -> Variables) to one of them.`;
+  } catch {
+    return "";
+  }
+}
+
 async function callGroq(messages) {
   const key = process.env.GROQ_API_KEY;
   if (!key) throw new Error("GROQ_API_KEY is not set. Add it as a repository secret (or export it locally).");
@@ -151,7 +163,10 @@ async function callGroq(messages) {
       messages,
     }),
   });
-  if (!response.ok) throw new Error(`Groq API failed: HTTP ${response.status} ${(await response.text()).slice(0, 300)}`);
+  if (!response.ok) {
+    const detail = (await response.text()).slice(0, 300);
+    throw new Error(`Groq API failed: HTTP ${response.status} ${detail}${response.status === 404 ? await listGroqModels(key) : ""}`);
+  }
   const body = await response.json();
   return body.choices?.[0]?.message?.content ?? "";
 }
