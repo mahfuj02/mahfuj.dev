@@ -4659,40 +4659,6 @@
       }
     },
     {
-      "problemKey": "leetcode:2094",
-      "post": {
-        "slug": "remove-stones-to-minimize-the-total-solution-notes",
-        "title": "Remove Stones to Minimize the Total: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Remove Stones to Minimize the Total with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Remove Stones to Minimize the Total",
-        "sourceUrl": "https://leetcode.com/problems/remove-stones-to-minimize-the-total/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Remove Stones to Minimize the Total with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Remove Stones to Minimize the Total\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Remove Stones to Minimize the Total\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Remove Stones to Minimize the Total\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:1509",
       "post": {
         "slug": "replace-employee-id-with-the-unique-identifier-solution-notes",

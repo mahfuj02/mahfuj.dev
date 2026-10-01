@@ -1708,27 +1708,34 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-09-30T20:48:15.180Z"
+    },
+    "2026-10-01": {
+      "problemKey": "leetcode:2094",
+      "slug": "remove-stones-to-minimize-the-total-solution-notes",
+      "sourceTitle": "Remove Stones to Minimize the Total",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-10-01T05:50:15.294Z"
     }
   },
   "activeDraft": {
-    "date": "2026-09-30",
-    "problemKey": "leetcode:4047",
+    "date": "2026-10-01",
+    "problemKey": "leetcode:2094",
     "post": {
-      "slug": "longest-balanced-subarray-ii-solution-notes",
-      "title": "Longest Balanced Subarray II: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Longest Balanced Subarray II with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "remove-stones-to-minimize-the-total-solution-notes",
+      "title": "Remove Stones to Minimize the Total: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Remove Stones to Minimize the Total with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode",
-        "data-structures"
+        "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Longest Balanced Subarray II",
-      "sourceUrl": "https://leetcode.com/problems/longest-balanced-subarray-ii/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Longest Balanced Subarray II with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Remove Stones to Minimize the Total",
+      "sourceUrl": "https://leetcode.com/problems/remove-stones-to-minimize-the-total/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Remove Stones to Minimize the Total with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -1741,9 +1748,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Longest Balanced Subarray II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Longest Balanced Subarray II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Longest Balanced Subarray II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Remove Stones to Minimize the Total\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Remove Stones to Minimize the Total\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Remove Stones to Minimize the Total\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
