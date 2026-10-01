@@ -9,7 +9,9 @@
     "lint": "eslint",
     "blog:queue": "node scripts/blog/build-queue.mjs",
     "blog:publish": "node scripts/blog/publish-from-queue.mjs",
-    "blog:publish:force": "node scripts/blog/publish-from-queue.mjs --force"
+    "blog:publish:force": "node scripts/blog/publish-from-queue.mjs --force",
+    "projects:add": "node scripts/projects/add-project.mjs",
+    "projects:move": "node scripts/projects/move-project.mjs"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.7",
@@ -21,12 +23,17 @@
     "three": "^0.183.2"
   },
   "devDependencies": {
+    "@fontsource/geist-mono": "^5.3.0",
+    "@fontsource/geist-sans": "^5.3.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.1",
+    "playwright": "^1.63.0",
+    "satori": "^0.33.5",
+    "sharp": "^0.35.5",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

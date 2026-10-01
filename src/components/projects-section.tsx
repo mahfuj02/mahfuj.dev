@@ -11,12 +11,7 @@ const IphoneModelViewer = dynamic(() => import("./iphone-model-viewer").then((mo
 });
 
 export function ProjectsSection() {
-  const orderedProjects = [
-    ...projects.filter((project) => project.id === "role-ready"),
-    ...projects.filter((project) => project.id !== "role-ready"),
-  ];
-
-  const [featuredProject, ...otherProjects] = orderedProjects;
+  const [featuredProject, ...otherProjects] = projects;
 
   return (
     <section id="work" className="relative py-16 sm:py-20 section-fade scroll-mt-20">
@@ -50,7 +45,7 @@ export function ProjectsSection() {
       {/* Section intro */}
       <div className="mt-16">
         <p className="font-mono text-sm font-semibold uppercase tracking-widest text-zinc-500">
-          0{orderedProjects.length} · Work
+          {String(projects.length).padStart(2, "0")} · Work
         </p>
         <div className="mt-2 h-px w-full bg-zinc-800" />
         <p className="mt-4 font-mono text-base text-zinc-400">
@@ -73,10 +68,12 @@ export function ProjectsSection() {
                   sizes="(min-width: 1024px) 66vw, 100vw"
                 />
                 <div className="absolute left-4 top-4 flex items-center gap-2">
-                  <span className="inline-flex items-center gap-1.5 rounded-full bg-zinc-900/80 px-3 py-1 text-xs font-semibold text-zinc-300 backdrop-blur-sm">
-                    <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-emerald-400" />
-                    Live
-                  </span>
+                  {featuredProject.liveUrl ? (
+                    <span className="inline-flex items-center gap-1.5 rounded-full bg-zinc-900/80 px-3 py-1 text-xs font-semibold text-zinc-300 backdrop-blur-sm">
+                      <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-emerald-400" />
+                      Live
+                    </span>
+                  ) : null}
                   <span className="rounded-full border border-teal-500/30 bg-teal-500/20 px-3 py-1 text-xs font-semibold text-teal-300 backdrop-blur-sm">
                     Featured Project
                   </span>
@@ -84,9 +81,9 @@ export function ProjectsSection() {
               </div>
               <div className="p-5 lg:p-6">
                 <h3 className="line-clamp-1 text-4xl font-bold text-zinc-100">{featuredProject.title}</h3>
-                <p className="mt-1.5 font-mono text-sm text-zinc-500">
-                  18 tailored questions · Real-time STAR scoring
-                </p>
+                {featuredProject.highlight ? (
+                  <p className="mt-1.5 font-mono text-sm text-zinc-500">{featuredProject.highlight}</p>
+                ) : null}
                 <div className="mt-3 flex flex-wrap gap-2">
                   {featuredProject.stack.map((tech) => (
                     <span key={tech} className="rounded-md bg-zinc-800 px-2.5 py-1 font-mono text-xs text-zinc-400">
