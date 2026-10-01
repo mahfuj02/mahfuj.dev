@@ -1713,9 +1713,9 @@
       "problemKey": "leetcode:2094",
       "slug": "remove-stones-to-minimize-the-total-solution-notes",
       "sourceTitle": "Remove Stones to Minimize the Total",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-10-01T05:50:15.294Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-10-01T15:26:13.974Z"
     }
   },
   "activeDraft": {
@@ -1735,17 +1735,18 @@
       "sourceTitle": "Remove Stones to Minimize the Total",
       "sourceUrl": "https://leetcode.com/problems/remove-stones-to-minimize-the-total/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Remove Stones to Minimize the Total with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Remove Stones to Minimize the Total with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Remove Stones to Minimize the Total\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
