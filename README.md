@@ -98,6 +98,37 @@ Repository -> Settings -> Secrets and variables -> Actions -> New repository sec
 - `blog-queue.yml`: fills the queue on schedule or manual run
 - `blog-daily-publish.yml`: publishes exactly one queued post per day at a randomized UTC slot
 
+## Adding projects
+
+Projects live in `data/projects.json`. **Array order is display order** — index 0 is the large featured card, and every project in the file is shown on the homepage.
+
+### Add a project
+
+1. GitHub -> **Actions** -> **Add Project** -> **Run workflow**.
+2. Fill in `repo_url` (e.g. `https://github.com/mahfuj02/some-project`) and optionally `position` (default `1` = top/featured; a number past the end of the list appends). Everything at or after that position shifts down by one; nothing is removed.
+3. A pull request opens with the generated text, the position and the banner image. Review it (phone-friendly), edit `data/projects.json` in the PR if needed, and merge.
+
+The workflow reads the repo (metadata, languages, `package.json`, README), writes the copy with Groq (`llama-3.3-70b-versatile`) using only those facts, builds the `stack`, and creates `public/projects/<slug>.jpg` (a 1600x900 screenshot of the live site, or a generated card if there is no live URL or the screenshot fails). If the project already exists it fails and tells you to use **Move Project**.
+
+### Move a project
+
+**Actions** -> **Move Project** -> **Run workflow** with `repo_url` (or the project slug) and `position`. Only the order changes, and a PR opens.
+
+### Setup
+
+- Secrets (Settings -> Secrets and variables -> Actions): `GROQ_API_KEY` (required), `GH_PAT` (optional; a token with read access, only needed for private repos).
+- Settings -> Actions -> General -> Workflow permissions: enable **Allow GitHub Actions to create and approve pull requests**.
+- Images in the PR description load from this repo, so they only render for people who can read it.
+
+### Local dry run
+
+```bash
+GROQ_API_KEY=... npm run projects:add -- --repo-url https://github.com/<owner>/<repo> --position 2 --dry-run
+npm run projects:move -- --project <slug> --position 1 --dry-run
+```
+
+Dry runs print the result and write nothing to `data/` or `public/`.
+
 ## Project Structure
 
 ```

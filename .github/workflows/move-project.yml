@@ -1,0 +1,54 @@
+name: Move Project
+
+on:
+  workflow_dispatch:
+    inputs:
+      repo_url:
+        description: "GitHub repo URL or project slug of an existing project"
+        required: true
+      position:
+        description: "New position in the project list (1 = top / featured card)"
+        required: true
+        default: "1"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Reorder projects
+        id: move
+        env:
+          PROJECT_REF: ${{ inputs.repo_url }}
+          POSITION: ${{ inputs.position }}
+          PR_BODY_FILE: ${{ runner.temp }}/pr-body.md
+        run: node scripts/projects/move-project.mjs
+
+      - name: Build site
+        run: npm run build
+
+      - name: Open pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: project/move-${{ steps.move.outputs.slug }}
+          add-paths: data/projects.json
+          commit-message: "feat(projects): move ${{ steps.move.outputs.title }} to position ${{ steps.move.outputs.position }}"
+          title: "Move project: ${{ steps.move.outputs.title }} to position ${{ steps.move.outputs.position }}"
+          body-path: ${{ steps.move.outputs.pr_body_file }}
+          delete-branch: true
