@@ -25,8 +25,8 @@ export function ContactSection() {
               <p className="text-xs font-semibold uppercase tracking-[0.14em] text-zinc-500">Preferred Roles</p>
               <ul className="mt-3 space-y-2 text-sm text-zinc-300">
                 <li>Full Stack Developer</li>
-                <li>Frontend Engineer</li>
-                <li>React Native Developer</li>
+                <li>Application Developer</li>
+                <li>Embedded Software Engineer</li>
               </ul>
             </article>
 
@@ -94,7 +94,7 @@ export function ContactSection() {
                 <span>Email</span>
               </a>
               <a
-                href="/resume/Mahfuj_Ahmed_Resume.pdf"
+                href="/resume/MahfujAhmed_Resume.pdf"
                 className="inline-flex items-center gap-2 rounded-xl border border-zinc-700 bg-zinc-900/65 px-5 py-3 text-sm font-semibold text-zinc-200 transition-colors hover:border-zinc-500"
               >
                 <span className="inline-flex h-5 w-5 items-center justify-center rounded-md bg-zinc-800 text-xs">CV</span>
@@ -113,7 +113,7 @@ export function ContactSection() {
                 Email Me
               </a>
               <a
-                href="/resume/Mahfuj_Ahmed_Resume.pdf"
+                href="/resume/MahfujAhmed_Resume.pdf"
                 download
                 className="inline-flex items-center rounded-lg border border-zinc-700 px-4 py-2 text-sm font-semibold text-zinc-200 transition-colors hover:border-zinc-500"
               >
