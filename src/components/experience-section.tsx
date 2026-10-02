@@ -19,9 +19,9 @@ const experiences = [
   {
     id: "liilab",
     type: "Experience",
-    title: "Backend Developer",
+    title: "Full Stack Developer",
     org: "Liilab",
-    timeline: "2021 May - 2022 Feb",
+    timeline: "2021 Feb - 2023 May",
     focus: "Django, WordPress Themes & Plugins",
     details: [
       "Built and maintained backend endpoints using Django for internal and client-facing features.",
