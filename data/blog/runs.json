@@ -1728,7 +1728,51 @@
       "commitsToday": 3,
       "updatedAt": "2026-10-02T20:43:28.820Z",
       "publishedSlug": "defanging-an-ip-address-solution-notes"
+    },
+    "2026-10-03": {
+      "problemKey": "leetcode:4098",
+      "slug": "longest-non-decreasing-subarray-after-replacing-at-most-one-element-solution-notes",
+      "sourceTitle": "Longest Non-Decreasing Subarray After Replacing at Most One Element",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-10-03T13:22:26.883Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-10-03",
+    "problemKey": "leetcode:4098",
+    "post": {
+      "slug": "longest-non-decreasing-subarray-after-replacing-at-most-one-element-solution-notes",
+      "title": "Longest Non-Decreasing Subarray After Replacing at Most One Element: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Longest Non-Decreasing Subarray After Replacing at Most One Element with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode",
+        "data-structures"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Longest Non-Decreasing Subarray After Replacing at Most One Element",
+      "sourceUrl": "https://leetcode.com/problems/longest-non-decreasing-subarray-after-replacing-at-most-one-element/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Longest Non-Decreasing Subarray After Replacing at Most One Element with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Longest Non-Decreasing Subarray After Replacing at Most One Element\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Longest Non-Decreasing Subarray After Replacing at Most One Element\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Longest Non-Decreasing Subarray After Replacing at Most One Element\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
