@@ -1748,7 +1748,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-10-04T23:08:33.370Z",
       "publishedSlug": "pairs-of-songs-with-total-durations-divisible-by-60-solution-notes"
+    },
+    "2026-10-05": {
+      "problemKey": "leetcode:992",
+      "slug": "delete-columns-to-make-sorted-ii-solution-notes",
+      "sourceTitle": "Delete Columns to Make Sorted II",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-10-05T17:07:58.700Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-10-05",
+    "problemKey": "leetcode:992",
+    "post": {
+      "slug": "delete-columns-to-make-sorted-ii-solution-notes",
+      "title": "Delete Columns to Make Sorted II: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Delete Columns to Make Sorted II with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Delete Columns to Make Sorted II",
+      "sourceUrl": "https://leetcode.com/problems/delete-columns-to-make-sorted-ii/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Delete Columns to Make Sorted II with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Delete Columns to Make Sorted II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Delete Columns to Make Sorted II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Delete Columns to Make Sorted II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
