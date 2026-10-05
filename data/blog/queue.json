@@ -6467,6 +6467,245 @@
           "cpp": "// C++ template for Sort Colors\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:22",
+      "post": {
+        "slug": "generate-parentheses-solution-notes",
+        "title": "Generate Parentheses: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Generate Parentheses with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Generate Parentheses",
+        "sourceUrl": "https://leetcode.com/problems/generate-parentheses/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Generate Parentheses with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Generate Parentheses\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Generate Parentheses\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Generate Parentheses\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:808",
+      "post": {
+        "slug": "number-of-matching-subsequences-solution-notes",
+        "title": "Number of Matching Subsequences: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Number of Matching Subsequences with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Number of Matching Subsequences",
+        "sourceUrl": "https://leetcode.com/problems/number-of-matching-subsequences/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Number of Matching Subsequences with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Number of Matching Subsequences\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Number of Matching Subsequences\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Number of Matching Subsequences\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1450",
+      "post": {
+        "slug": "delete-leaves-with-a-given-value-solution-notes",
+        "title": "Delete Leaves With a Given Value: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Delete Leaves With a Given Value with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Delete Leaves With a Given Value",
+        "sourceUrl": "https://leetcode.com/problems/delete-leaves-with-a-given-value/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Delete Leaves With a Given Value with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Delete Leaves With a Given Value\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Delete Leaves With a Given Value\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Delete Leaves With a Given Value\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3142",
+      "post": {
+        "slug": "longest-unequal-adjacent-groups-subsequence-ii-solution-notes",
+        "title": "Longest Unequal Adjacent Groups Subsequence II: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Longest Unequal Adjacent Groups Subsequence II with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Longest Unequal Adjacent Groups Subsequence II",
+        "sourceUrl": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Longest Unequal Adjacent Groups Subsequence II with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Longest Unequal Adjacent Groups Subsequence II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Longest Unequal Adjacent Groups Subsequence II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Longest Unequal Adjacent Groups Subsequence II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1562",
+      "post": {
+        "slug": "people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list-solution-notes",
+        "title": "People Whose List of Favorite Companies Is Not a Subset of Another List: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for People Whose List of Favorite Companies Is Not a Subset of Another List with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "People Whose List of Favorite Companies Is Not a Subset of Another List",
+        "sourceUrl": "https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve People Whose List of Favorite Companies Is Not a Subset of Another List with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for People Whose List of Favorite Companies Is Not a Subset of Another List\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for People Whose List of Favorite Companies Is Not a Subset of Another List\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for People Whose List of Favorite Companies Is Not a Subset of Another List\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:4367",
+      "post": {
+        "slug": "minimum-cost-path-with-at-most-k-turns-solution-notes",
+        "title": "Minimum Cost Path With At Most K Turns: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Minimum Cost Path With At Most K Turns with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Minimum Cost Path With At Most K Turns",
+        "sourceUrl": "https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Minimum Cost Path With At Most K Turns with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Minimum Cost Path With At Most K Turns\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Minimum Cost Path With At Most K Turns\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Minimum Cost Path With At Most K Turns\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2422",
+      "post": {
+        "slug": "query-kth-smallest-trimmed-number-solution-notes",
+        "title": "Query Kth Smallest Trimmed Number: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Query Kth Smallest Trimmed Number with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Query Kth Smallest Trimmed Number",
+        "sourceUrl": "https://leetcode.com/problems/query-kth-smallest-trimmed-number/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Query Kth Smallest Trimmed Number with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Query Kth Smallest Trimmed Number\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Query Kth Smallest Trimmed Number\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Query Kth Smallest Trimmed Number\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
