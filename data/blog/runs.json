@@ -1756,15 +1756,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-10-05T17:07:58.700Z"
+    },
+    "2026-10-06": {
+      "problemKey": "leetcode:2038",
+      "slug": "nearest-exit-from-entrance-in-maze-solution-notes",
+      "sourceTitle": "Nearest Exit from Entrance in Maze",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-10-06T23:48:07.752Z"
     }
   },
   "activeDraft": {
-    "date": "2026-10-05",
-    "problemKey": "leetcode:992",
+    "date": "2026-10-06",
+    "problemKey": "leetcode:2038",
     "post": {
-      "slug": "delete-columns-to-make-sorted-ii-solution-notes",
-      "title": "Delete Columns to Make Sorted II: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Delete Columns to Make Sorted II with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "nearest-exit-from-entrance-in-maze-solution-notes",
+      "title": "Nearest Exit from Entrance in Maze: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Nearest Exit from Entrance in Maze with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -1772,10 +1780,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Delete Columns to Make Sorted II",
-      "sourceUrl": "https://leetcode.com/problems/delete-columns-to-make-sorted-ii/",
+      "sourceTitle": "Nearest Exit from Entrance in Maze",
+      "sourceUrl": "https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Delete Columns to Make Sorted II with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Nearest Exit from Entrance in Maze with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -1788,9 +1796,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Delete Columns to Make Sorted II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Delete Columns to Make Sorted II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Delete Columns to Make Sorted II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Nearest Exit from Entrance in Maze\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Nearest Exit from Entrance in Maze\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Nearest Exit from Entrance in Maze\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
