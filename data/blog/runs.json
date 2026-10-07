@@ -1769,9 +1769,9 @@
       "problemKey": "leetcode:1475",
       "slug": "maximum-sum-bst-in-binary-tree-solution-notes",
       "sourceTitle": "Maximum Sum BST in Binary Tree",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-10-07T05:57:07.085Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-10-07T15:32:47.153Z"
     }
   },
   "activeDraft": {
@@ -1792,17 +1792,18 @@
       "sourceTitle": "Maximum Sum BST in Binary Tree",
       "sourceUrl": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
       "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Sum BST in Binary Tree with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Sum BST in Binary Tree with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Maximum Sum BST in Binary Tree\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
