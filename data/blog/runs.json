@@ -126,7 +126,8 @@
     "2026-10-02",
     "2026-10-03",
     "2026-10-04",
-    "2026-10-07"
+    "2026-10-07",
+    "2026-10-08"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -1779,46 +1780,11 @@
       "problemKey": "leetcode:787",
       "slug": "sliding-puzzle-solution-notes",
       "sourceTitle": "Sliding Puzzle",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-10-08T15:35:18.041Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-10-08T21:18:37.716Z",
+      "publishedSlug": "sliding-puzzle-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-10-08",
-    "problemKey": "leetcode:787",
-    "post": {
-      "slug": "sliding-puzzle-solution-notes",
-      "title": "Sliding Puzzle: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Sliding Puzzle with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Sliding Puzzle",
-      "sourceUrl": "https://leetcode.com/problems/sliding-puzzle/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Sliding Puzzle with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Sliding Puzzle\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Sliding Puzzle\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Sliding Puzzle\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
