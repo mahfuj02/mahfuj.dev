@@ -1797,9 +1797,9 @@
       "problemKey": "leetcode:1509",
       "slug": "replace-employee-id-with-the-unique-identifier-solution-notes",
       "sourceTitle": "Replace Employee ID With The Unique Identifier",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-10-10T05:50:36.217Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-10-10T14:27:40.560Z"
     }
   },
   "activeDraft": {
@@ -1819,17 +1819,18 @@
       "sourceTitle": "Replace Employee ID With The Unique Identifier",
       "sourceUrl": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/",
       "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Replace Employee ID With The Unique Identifier with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Replace Employee ID With The Unique Identifier with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Replace Employee ID With The Unique Identifier\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
