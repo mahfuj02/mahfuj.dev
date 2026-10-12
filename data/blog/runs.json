@@ -1812,7 +1812,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-10-11T20:15:26.097Z",
       "publishedSlug": "disconnect-path-in-a-binary-matrix-by-at-most-one-flip-solution-notes"
+    },
+    "2026-10-12": {
+      "problemKey": "leetcode:3657",
+      "slug": "check-if-grid-can-be-cut-into-sections-solution-notes",
+      "sourceTitle": "Check if Grid can be Cut into Sections",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-10-12T17:53:09.437Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-10-12",
+    "problemKey": "leetcode:3657",
+    "post": {
+      "slug": "check-if-grid-can-be-cut-into-sections-solution-notes",
+      "title": "Check if Grid can be Cut into Sections: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Check if Grid can be Cut into Sections with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Check if Grid can be Cut into Sections",
+      "sourceUrl": "https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Check if Grid can be Cut into Sections with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Check if Grid can be Cut into Sections\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Check if Grid can be Cut into Sections\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Check if Grid can be Cut into Sections\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
