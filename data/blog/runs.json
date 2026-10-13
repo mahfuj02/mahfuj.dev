@@ -1820,15 +1820,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-10-12T17:53:09.437Z"
+    },
+    "2026-10-13": {
+      "problemKey": "leetcode:862",
+      "slug": "find-and-replace-in-string-solution-notes",
+      "sourceTitle": "Find And Replace in String",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-10-13T19:15:28.061Z"
     }
   },
   "activeDraft": {
-    "date": "2026-10-12",
-    "problemKey": "leetcode:3657",
+    "date": "2026-10-13",
+    "problemKey": "leetcode:862",
     "post": {
-      "slug": "check-if-grid-can-be-cut-into-sections-solution-notes",
-      "title": "Check if Grid can be Cut into Sections: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Check if Grid can be Cut into Sections with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "find-and-replace-in-string-solution-notes",
+      "title": "Find And Replace in String: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Find And Replace in String with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -1836,10 +1844,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Check if Grid can be Cut into Sections",
-      "sourceUrl": "https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/",
+      "sourceTitle": "Find And Replace in String",
+      "sourceUrl": "https://leetcode.com/problems/find-and-replace-in-string/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Check if Grid can be Cut into Sections with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Find And Replace in String with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -1852,9 +1860,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Check if Grid can be Cut into Sections\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Check if Grid can be Cut into Sections\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Check if Grid can be Cut into Sections\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Find And Replace in String\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Find And Replace in String\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Find And Replace in String\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
