@@ -1833,9 +1833,9 @@
       "problemKey": "leetcode:3142",
       "slug": "longest-unequal-adjacent-groups-subsequence-ii-solution-notes",
       "sourceTitle": "Longest Unequal Adjacent Groups Subsequence II",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-10-14T20:11:35.565Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-10-14T23:12:41.036Z"
     }
   },
   "activeDraft": {
@@ -1855,17 +1855,18 @@
       "sourceTitle": "Longest Unequal Adjacent Groups Subsequence II",
       "sourceUrl": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Longest Unequal Adjacent Groups Subsequence II with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Longest Unequal Adjacent Groups Subsequence II with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Longest Unequal Adjacent Groups Subsequence II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
