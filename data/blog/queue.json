@@ -6263,40 +6263,6 @@
       }
     },
     {
-      "problemKey": "leetcode:3142",
-      "post": {
-        "slug": "longest-unequal-adjacent-groups-subsequence-ii-solution-notes",
-        "title": "Longest Unequal Adjacent Groups Subsequence II: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Longest Unequal Adjacent Groups Subsequence II with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Longest Unequal Adjacent Groups Subsequence II",
-        "sourceUrl": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Longest Unequal Adjacent Groups Subsequence II with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Longest Unequal Adjacent Groups Subsequence II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Longest Unequal Adjacent Groups Subsequence II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Longest Unequal Adjacent Groups Subsequence II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:1562",
       "post": {
         "slug": "people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list-solution-notes",

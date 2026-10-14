@@ -1828,15 +1828,23 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-10-13T23:43:40.412Z"
+    },
+    "2026-10-14": {
+      "problemKey": "leetcode:3142",
+      "slug": "longest-unequal-adjacent-groups-subsequence-ii-solution-notes",
+      "sourceTitle": "Longest Unequal Adjacent Groups Subsequence II",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-10-14T20:11:35.565Z"
     }
   },
   "activeDraft": {
-    "date": "2026-10-13",
-    "problemKey": "leetcode:862",
+    "date": "2026-10-14",
+    "problemKey": "leetcode:3142",
     "post": {
-      "slug": "find-and-replace-in-string-solution-notes",
-      "title": "Find And Replace in String: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Find And Replace in String with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "longest-unequal-adjacent-groups-subsequence-ii-solution-notes",
+      "title": "Longest Unequal Adjacent Groups Subsequence II: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Longest Unequal Adjacent Groups Subsequence II with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -1844,26 +1852,25 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Find And Replace in String",
-      "sourceUrl": "https://leetcode.com/problems/find-and-replace-in-string/",
+      "sourceTitle": "Longest Unequal Adjacent Groups Subsequence II",
+      "sourceUrl": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Find And Replace in String with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Longest Unequal Adjacent Groups Subsequence II with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Find And Replace in String\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Find And Replace in String\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Find And Replace in String\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Longest Unequal Adjacent Groups Subsequence II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Longest Unequal Adjacent Groups Subsequence II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Longest Unequal Adjacent Groups Subsequence II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
