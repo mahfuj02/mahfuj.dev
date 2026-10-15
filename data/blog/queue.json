@@ -4898,40 +4898,6 @@
       }
     },
     {
-      "problemKey": "leetcode:2711",
-      "post": {
-        "slug": "minimum-time-to-visit-a-cell-in-a-grid-solution-notes",
-        "title": "Minimum Time to Visit a Cell In a Grid: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Minimum Time to Visit a Cell In a Grid with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Minimum Time to Visit a Cell In a Grid",
-        "sourceUrl": "https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Minimum Time to Visit a Cell In a Grid with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Minimum Time to Visit a Cell In a Grid\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Minimum Time to Visit a Cell In a Grid\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Minimum Time to Visit a Cell In a Grid\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:4121",
       "post": {
         "slug": "minimum-partition-score-solution-notes",

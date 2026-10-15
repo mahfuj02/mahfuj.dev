@@ -1836,15 +1836,23 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-10-14T23:12:41.036Z"
+    },
+    "2026-10-15": {
+      "problemKey": "leetcode:2711",
+      "slug": "minimum-time-to-visit-a-cell-in-a-grid-solution-notes",
+      "sourceTitle": "Minimum Time to Visit a Cell In a Grid",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-10-15T23:03:57.736Z"
     }
   },
   "activeDraft": {
-    "date": "2026-10-14",
-    "problemKey": "leetcode:3142",
+    "date": "2026-10-15",
+    "problemKey": "leetcode:2711",
     "post": {
-      "slug": "longest-unequal-adjacent-groups-subsequence-ii-solution-notes",
-      "title": "Longest Unequal Adjacent Groups Subsequence II: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Longest Unequal Adjacent Groups Subsequence II with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "minimum-time-to-visit-a-cell-in-a-grid-solution-notes",
+      "title": "Minimum Time to Visit a Cell In a Grid: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Minimum Time to Visit a Cell In a Grid with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -1852,26 +1860,25 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Longest Unequal Adjacent Groups Subsequence II",
-      "sourceUrl": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Longest Unequal Adjacent Groups Subsequence II with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "sourceTitle": "Minimum Time to Visit a Cell In a Grid",
+      "sourceUrl": "https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Time to Visit a Cell In a Grid with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Longest Unequal Adjacent Groups Subsequence II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Longest Unequal Adjacent Groups Subsequence II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Longest Unequal Adjacent Groups Subsequence II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Minimum Time to Visit a Cell In a Grid\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Minimum Time to Visit a Cell In a Grid\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Minimum Time to Visit a Cell In a Grid\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
