@@ -129,7 +129,8 @@
     "2026-10-07",
     "2026-10-08",
     "2026-10-10",
-    "2026-10-11"
+    "2026-10-11",
+    "2026-10-16"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -1849,46 +1850,11 @@
       "problemKey": "leetcode:2855",
       "slug": "maximum-number-of-jumps-to-reach-the-last-index-solution-notes",
       "sourceTitle": "Maximum Number of Jumps to Reach the Last Index",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-10-16T13:14:13.798Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-10-16T19:32:47.733Z",
+      "publishedSlug": "maximum-number-of-jumps-to-reach-the-last-index-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-10-16",
-    "problemKey": "leetcode:2855",
-    "post": {
-      "slug": "maximum-number-of-jumps-to-reach-the-last-index-solution-notes",
-      "title": "Maximum Number of Jumps to Reach the Last Index: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Maximum Number of Jumps to Reach the Last Index with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Maximum Number of Jumps to Reach the Last Index",
-      "sourceUrl": "https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Number of Jumps to Reach the Last Index with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Maximum Number of Jumps to Reach the Last Index\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Maximum Number of Jumps to Reach the Last Index\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Maximum Number of Jumps to Reach the Last Index\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
