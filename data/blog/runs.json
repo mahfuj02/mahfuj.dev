@@ -1844,15 +1844,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-10-15T23:03:57.736Z"
+    },
+    "2026-10-16": {
+      "problemKey": "leetcode:2855",
+      "slug": "maximum-number-of-jumps-to-reach-the-last-index-solution-notes",
+      "sourceTitle": "Maximum Number of Jumps to Reach the Last Index",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-10-16T04:29:56.569Z"
     }
   },
   "activeDraft": {
-    "date": "2026-10-15",
-    "problemKey": "leetcode:2711",
+    "date": "2026-10-16",
+    "problemKey": "leetcode:2855",
     "post": {
-      "slug": "minimum-time-to-visit-a-cell-in-a-grid-solution-notes",
-      "title": "Minimum Time to Visit a Cell In a Grid: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Minimum Time to Visit a Cell In a Grid with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "maximum-number-of-jumps-to-reach-the-last-index-solution-notes",
+      "title": "Maximum Number of Jumps to Reach the Last Index: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Maximum Number of Jumps to Reach the Last Index with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -1860,10 +1868,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Minimum Time to Visit a Cell In a Grid",
-      "sourceUrl": "https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Time to Visit a Cell In a Grid with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Maximum Number of Jumps to Reach the Last Index",
+      "sourceUrl": "https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Number of Jumps to Reach the Last Index with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -1876,9 +1884,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Minimum Time to Visit a Cell In a Grid\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Minimum Time to Visit a Cell In a Grid\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Minimum Time to Visit a Cell In a Grid\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Maximum Number of Jumps to Reach the Last Index\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Maximum Number of Jumps to Reach the Last Index\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Maximum Number of Jumps to Reach the Last Index\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
