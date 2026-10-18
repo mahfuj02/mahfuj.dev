@@ -1869,9 +1869,9 @@
       "problemKey": "leetcode:395",
       "slug": "longest-substring-with-at-least-k-repeating-characters-solution-notes",
       "sourceTitle": "Longest Substring with At Least K Repeating Characters",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-10-18T12:36:08.674Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-10-18T18:37:45.468Z"
     }
   },
   "activeDraft": {
@@ -1891,17 +1891,18 @@
       "sourceTitle": "Longest Substring with At Least K Repeating Characters",
       "sourceUrl": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Longest Substring with At Least K Repeating Characters with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Longest Substring with At Least K Repeating Characters with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Longest Substring with At Least K Repeating Characters\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
