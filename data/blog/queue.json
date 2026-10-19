@@ -6947,6 +6947,246 @@
           "cpp": "// C++ template for Largest Integer With Given Digit Sum\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:654",
+      "post": {
+        "slug": "maximum-binary-tree-solution-notes",
+        "title": "Maximum Binary Tree: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Maximum Binary Tree with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Maximum Binary Tree",
+        "sourceUrl": "https://leetcode.com/problems/maximum-binary-tree/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Maximum Binary Tree with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Maximum Binary Tree\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Maximum Binary Tree\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Maximum Binary Tree\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:4222",
+      "post": {
+        "slug": "count-good-subarrays-solution-notes",
+        "title": "Count Good Subarrays: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Count Good Subarrays with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Count Good Subarrays",
+        "sourceUrl": "https://leetcode.com/problems/count-good-subarrays/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Count Good Subarrays with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Count Good Subarrays\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Count Good Subarrays\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Count Good Subarrays\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1572",
+      "post": {
+        "slug": "subrectangle-queries-solution-notes",
+        "title": "Subrectangle Queries: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Subrectangle Queries with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Subrectangle Queries",
+        "sourceUrl": "https://leetcode.com/problems/subrectangle-queries/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Subrectangle Queries with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Subrectangle Queries\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Subrectangle Queries\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Subrectangle Queries\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2582",
+      "post": {
+        "slug": "minimum-score-of-a-path-between-two-cities-solution-notes",
+        "title": "Minimum Score of a Path Between Two Cities: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Minimum Score of a Path Between Two Cities with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Minimum Score of a Path Between Two Cities",
+        "sourceUrl": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Minimum Score of a Path Between Two Cities with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Minimum Score of a Path Between Two Cities\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Minimum Score of a Path Between Two Cities\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Minimum Score of a Path Between Two Cities\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:116",
+      "post": {
+        "slug": "populating-next-right-pointers-in-each-node-solution-notes",
+        "title": "Populating Next Right Pointers in Each Node: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Populating Next Right Pointers in Each Node with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Populating Next Right Pointers in Each Node",
+        "sourceUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Populating Next Right Pointers in Each Node with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Populating Next Right Pointers in Each Node\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Populating Next Right Pointers in Each Node\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Populating Next Right Pointers in Each Node\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1135",
+      "post": {
+        "slug": "customers-who-bought-all-products-solution-notes",
+        "title": "Customers Who Bought All Products: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Customers Who Bought All Products with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Customers Who Bought All Products",
+        "sourceUrl": "https://leetcode.com/problems/customers-who-bought-all-products/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Customers Who Bought All Products with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Customers Who Bought All Products\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Customers Who Bought All Products\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Customers Who Bought All Products\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:179",
+      "post": {
+        "slug": "largest-number-solution-notes",
+        "title": "Largest Number: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Largest Number with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Largest Number",
+        "sourceUrl": "https://leetcode.com/problems/largest-number/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Largest Number with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Largest Number\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Largest Number\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Largest Number\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
