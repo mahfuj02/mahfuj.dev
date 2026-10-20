@@ -4046,40 +4046,6 @@
       }
     },
     {
-      "problemKey": "leetcode:2818",
-      "post": {
-        "slug": "maximum-strictly-increasing-cells-in-a-matrix-solution-notes",
-        "title": "Maximum Strictly Increasing Cells in a Matrix: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Maximum Strictly Increasing Cells in a Matrix with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Maximum Strictly Increasing Cells in a Matrix",
-        "sourceUrl": "https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/",
-        "difficulty": "Hard",
-        "problemInMyWords": "In my own words, this problem asks me to solve Maximum Strictly Increasing Cells in a Matrix with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Maximum Strictly Increasing Cells in a Matrix\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Maximum Strictly Increasing Cells in a Matrix\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Maximum Strictly Increasing Cells in a Matrix\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:790",
       "post": {
         "slug": "global-and-local-inversions-solution-notes",

@@ -1882,43 +1882,49 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-10-19T21:02:20.473Z"
+    },
+    "2026-10-20": {
+      "problemKey": "leetcode:2818",
+      "slug": "maximum-strictly-increasing-cells-in-a-matrix-solution-notes",
+      "sourceTitle": "Maximum Strictly Increasing Cells in a Matrix",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-10-20T04:48:00.973Z"
     }
   },
   "activeDraft": {
-    "date": "2026-10-19",
-    "problemKey": "leetcode:943",
+    "date": "2026-10-20",
+    "problemKey": "leetcode:2818",
     "post": {
-      "slug": "sum-of-subarray-minimums-solution-notes",
-      "title": "Sum of Subarray Minimums: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Sum of Subarray Minimums with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "maximum-strictly-increasing-cells-in-a-matrix-solution-notes",
+      "title": "Maximum Strictly Increasing Cells in a Matrix: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Maximum Strictly Increasing Cells in a Matrix with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode",
-        "data-structures"
+        "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Sum of Subarray Minimums",
-      "sourceUrl": "https://leetcode.com/problems/sum-of-subarray-minimums/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Sum of Subarray Minimums with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "sourceTitle": "Maximum Strictly Increasing Cells in a Matrix",
+      "sourceUrl": "https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Strictly Increasing Cells in a Matrix with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Sum of Subarray Minimums\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Sum of Subarray Minimums\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Sum of Subarray Minimums\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Maximum Strictly Increasing Cells in a Matrix\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Maximum Strictly Increasing Cells in a Matrix\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Maximum Strictly Increasing Cells in a Matrix\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
