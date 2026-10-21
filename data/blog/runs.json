@@ -1892,7 +1892,51 @@
       "commitsToday": 3,
       "updatedAt": "2026-10-20T19:59:44.986Z",
       "publishedSlug": "maximum-strictly-increasing-cells-in-a-matrix-solution-notes"
+    },
+    "2026-10-21": {
+      "problemKey": "leetcode:3611",
+      "slug": "construct-the-minimum-bitwise-array-ii-solution-notes",
+      "sourceTitle": "Construct the Minimum Bitwise Array II",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-10-21T13:46:30.474Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-10-21",
+    "problemKey": "leetcode:3611",
+    "post": {
+      "slug": "construct-the-minimum-bitwise-array-ii-solution-notes",
+      "title": "Construct the Minimum Bitwise Array II: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Construct the Minimum Bitwise Array II with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode",
+        "data-structures"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Construct the Minimum Bitwise Array II",
+      "sourceUrl": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Construct the Minimum Bitwise Array II with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Construct the Minimum Bitwise Array II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Construct the Minimum Bitwise Array II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Construct the Minimum Bitwise Array II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
