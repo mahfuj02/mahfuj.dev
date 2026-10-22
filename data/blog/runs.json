@@ -1902,7 +1902,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-10-21T23:17:39.403Z",
       "publishedSlug": "construct-the-minimum-bitwise-array-ii-solution-notes"
+    },
+    "2026-10-22": {
+      "problemKey": "leetcode:2033",
+      "slug": "the-number-of-full-rounds-you-have-played-solution-notes",
+      "sourceTitle": "The Number of Full Rounds You Have Played",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-10-22T13:46:27.953Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-10-22",
+    "problemKey": "leetcode:2033",
+    "post": {
+      "slug": "the-number-of-full-rounds-you-have-played-solution-notes",
+      "title": "The Number of Full Rounds You Have Played: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for The Number of Full Rounds You Have Played with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "The Number of Full Rounds You Have Played",
+      "sourceUrl": "https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve The Number of Full Rounds You Have Played with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for The Number of Full Rounds You Have Played\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for The Number of Full Rounds You Have Played\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for The Number of Full Rounds You Have Played\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
