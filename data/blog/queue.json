@@ -7083,6 +7083,246 @@
           "cpp": "// C++ template for Largest Number\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
         }
       }
+    },
+    {
+      "problemKey": "leetcode:1333",
+      "post": {
+        "slug": "sort-the-jumbled-numbers-solution-notes",
+        "title": "Sort the Jumbled Numbers: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Sort the Jumbled Numbers with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Sort the Jumbled Numbers",
+        "sourceUrl": "https://leetcode.com/problems/sort-the-jumbled-numbers/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Sort the Jumbled Numbers with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Sort the Jumbled Numbers\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Sort the Jumbled Numbers\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Sort the Jumbled Numbers\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3956",
+      "post": {
+        "slug": "trionic-array-ii-solution-notes",
+        "title": "Trionic Array II: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Trionic Array II with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Trionic Array II",
+        "sourceUrl": "https://leetcode.com/problems/trionic-array-ii/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Trionic Array II with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Trionic Array II\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Trionic Array II\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Trionic Array II\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:3241",
+      "post": {
+        "slug": "divide-array-into-arrays-with-max-difference-solution-notes",
+        "title": "Divide Array Into Arrays With Max Difference: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Divide Array Into Arrays With Max Difference with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode",
+          "data-structures"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Divide Array Into Arrays With Max Difference",
+        "sourceUrl": "https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Divide Array Into Arrays With Max Difference with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Divide Array Into Arrays With Max Difference\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Divide Array Into Arrays With Max Difference\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Divide Array Into Arrays With Max Difference\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:398",
+      "post": {
+        "slug": "random-pick-index-solution-notes",
+        "title": "Random Pick Index: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Random Pick Index with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Random Pick Index",
+        "sourceUrl": "https://leetcode.com/problems/random-pick-index/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Random Pick Index with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Random Pick Index\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Random Pick Index\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Random Pick Index\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:217",
+      "post": {
+        "slug": "contains-duplicate-solution-notes",
+        "title": "Contains Duplicate: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Contains Duplicate with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Contains Duplicate",
+        "sourceUrl": "https://leetcode.com/problems/contains-duplicate/",
+        "difficulty": "Easy",
+        "problemInMyWords": "In my own words, this problem asks me to solve Contains Duplicate with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Contains Duplicate\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Contains Duplicate\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Contains Duplicate\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:2513",
+      "post": {
+        "slug": "number-of-pairs-satisfying-inequality-solution-notes",
+        "title": "Number of Pairs Satisfying Inequality: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Number of Pairs Satisfying Inequality with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Number of Pairs Satisfying Inequality",
+        "sourceUrl": "https://leetcode.com/problems/number-of-pairs-satisfying-inequality/",
+        "difficulty": "Hard",
+        "problemInMyWords": "In my own words, this problem asks me to solve Number of Pairs Satisfying Inequality with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Number of Pairs Satisfying Inequality\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Number of Pairs Satisfying Inequality\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Number of Pairs Satisfying Inequality\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
+    },
+    {
+      "problemKey": "leetcode:1362",
+      "post": {
+        "slug": "airplane-seat-assignment-probability-solution-notes",
+        "title": "Airplane Seat Assignment Probability: Pattern and Complexity Walkthrough",
+        "excerpt": "A concise walkthrough for Airplane Seat Assignment Probability with clear approach, complexity, and multi-language implementation templates.",
+        "publishedAt": "",
+        "readTimeMinutes": 3,
+        "categories": [
+          "algorithms",
+          "leetcode"
+        ],
+        "sourcePlatform": "leetcode",
+        "sourceTitle": "Airplane Seat Assignment Probability",
+        "sourceUrl": "https://leetcode.com/problems/airplane-seat-assignment-probability/",
+        "difficulty": "Medium",
+        "problemInMyWords": "In my own words, this problem asks me to solve Airplane Seat Assignment Probability with a correct and efficient strategy while handling edge cases cleanly.",
+        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
+        "complexity": {
+          "time": "O(n)",
+          "space": "O(n)"
+        },
+        "keyPoints": [
+          "Clarify constraints and expected output before coding.",
+          "Pick a data structure that minimizes repeated computation.",
+          "Validate with edge cases and explain complexity tradeoffs."
+        ],
+        "implementations": {
+          "typescript": "// TypeScript template for Airplane Seat Assignment Probability\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+          "python": "# Python template for Airplane Seat Assignment Probability\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+          "cpp": "// C++ template for Airplane Seat Assignment Probability\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        }
+      }
     }
   ]
 }
