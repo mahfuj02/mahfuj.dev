@@ -1912,7 +1912,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-10-22T23:21:50.454Z",
       "publishedSlug": "the-number-of-full-rounds-you-have-played-solution-notes"
+    },
+    "2026-10-23": {
+      "problemKey": "leetcode:1044",
+      "slug": "find-common-characters-solution-notes",
+      "sourceTitle": "Find Common Characters",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-10-23T19:57:00.865Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-10-23",
+    "problemKey": "leetcode:1044",
+    "post": {
+      "slug": "find-common-characters-solution-notes",
+      "title": "Find Common Characters: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Find Common Characters with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Find Common Characters",
+      "sourceUrl": "https://leetcode.com/problems/find-common-characters/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Find Common Characters with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Find Common Characters\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Find Common Characters\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Find Common Characters\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
