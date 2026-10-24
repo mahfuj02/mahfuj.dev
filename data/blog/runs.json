@@ -1920,15 +1920,23 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-10-23T23:07:40.949Z"
+    },
+    "2026-10-24": {
+      "problemKey": "leetcode:833",
+      "slug": "bus-routes-solution-notes",
+      "sourceTitle": "Bus Routes",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-10-24T22:28:00.450Z"
     }
   },
   "activeDraft": {
-    "date": "2026-10-23",
-    "problemKey": "leetcode:1044",
+    "date": "2026-10-24",
+    "problemKey": "leetcode:833",
     "post": {
-      "slug": "find-common-characters-solution-notes",
-      "title": "Find Common Characters: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Find Common Characters with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "bus-routes-solution-notes",
+      "title": "Bus Routes: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Bus Routes with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -1936,26 +1944,25 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Find Common Characters",
-      "sourceUrl": "https://leetcode.com/problems/find-common-characters/",
-      "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Find Common Characters with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "sourceTitle": "Bus Routes",
+      "sourceUrl": "https://leetcode.com/problems/bus-routes/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Bus Routes with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Find Common Characters\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Find Common Characters\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Find Common Characters\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Bus Routes\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Bus Routes\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Bus Routes\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
