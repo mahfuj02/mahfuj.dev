@@ -1928,15 +1928,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-10-24T22:28:00.450Z"
+    },
+    "2026-10-25": {
+      "problemKey": "leetcode:2169",
+      "slug": "simple-bank-system-solution-notes",
+      "sourceTitle": "Simple Bank System",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-10-25T04:38:37.865Z"
     }
   },
   "activeDraft": {
-    "date": "2026-10-24",
-    "problemKey": "leetcode:833",
+    "date": "2026-10-25",
+    "problemKey": "leetcode:2169",
     "post": {
-      "slug": "bus-routes-solution-notes",
-      "title": "Bus Routes: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Bus Routes with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "simple-bank-system-solution-notes",
+      "title": "Simple Bank System: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Simple Bank System with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -1944,10 +1952,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Bus Routes",
-      "sourceUrl": "https://leetcode.com/problems/bus-routes/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Bus Routes with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Simple Bank System",
+      "sourceUrl": "https://leetcode.com/problems/simple-bank-system/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Simple Bank System with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -1960,9 +1968,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Bus Routes\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Bus Routes\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Bus Routes\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Simple Bank System\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Simple Bank System\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Simple Bank System\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
