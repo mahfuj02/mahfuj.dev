@@ -1972,27 +1972,34 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-10-29T21:06:37.144Z"
+    },
+    "2026-10-30": {
+      "problemKey": "leetcode:3996",
+      "slug": "find-books-with-polarized-opinions-solution-notes",
+      "sourceTitle": "Find Books with Polarized Opinions",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-10-30T15:01:39.371Z"
     }
   },
   "activeDraft": {
-    "date": "2026-10-29",
-    "problemKey": "leetcode:2119",
+    "date": "2026-10-30",
+    "problemKey": "leetcode:3996",
     "post": {
-      "slug": "minimum-number-of-operations-to-make-array-continuous-solution-notes",
-      "title": "Minimum Number of Operations to Make Array Continuous: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Minimum Number of Operations to Make Array Continuous with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "find-books-with-polarized-opinions-solution-notes",
+      "title": "Find Books with Polarized Opinions: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Find Books with Polarized Opinions with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode",
-        "data-structures"
+        "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Minimum Number of Operations to Make Array Continuous",
-      "sourceUrl": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Number of Operations to Make Array Continuous with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Find Books with Polarized Opinions",
+      "sourceUrl": "https://leetcode.com/problems/find-books-with-polarized-opinions/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Find Books with Polarized Opinions with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -2005,9 +2012,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Minimum Number of Operations to Make Array Continuous\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Minimum Number of Operations to Make Array Continuous\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Minimum Number of Operations to Make Array Continuous\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Find Books with Polarized Opinions\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Find Books with Polarized Opinions\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Find Books with Polarized Opinions\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
