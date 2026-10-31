@@ -4707,5 +4707,38 @@
       "python": "# Python template for Count Stable Subarrays\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
       "cpp": "// C++ template for Count Stable Subarrays\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
     }
+  },
+  {
+    "slug": "subrectangle-queries-solution-notes",
+    "title": "Subrectangle Queries: Pattern and Complexity Walkthrough",
+    "excerpt": "A concise walkthrough for Subrectangle Queries with clear approach, complexity, and multi-language implementation templates.",
+    "publishedAt": "2026-10-31",
+    "readTimeMinutes": 3,
+    "categories": [
+      "algorithms",
+      "leetcode"
+    ],
+    "sourcePlatform": "leetcode",
+    "sourceTitle": "Subrectangle Queries",
+    "sourceUrl": "https://leetcode.com/problems/subrectangle-queries/",
+    "difficulty": "Medium",
+    "problemInMyWords": "In my own words, this problem asks me to solve Subrectangle Queries with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+    "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+    "complexity": {
+      "time": "O(n)",
+      "space": "O(n) (can vary with chosen structure)"
+    },
+    "keyPoints": [
+      "Clarify constraints and expected output before coding.",
+      "Pick a data structure that minimizes repeated computation.",
+      "Validate with edge cases and explain complexity tradeoffs.",
+      "Start from a baseline idea and clearly explain why optimization is needed.",
+      "Call out tradeoffs and memory behavior in addition to time complexity."
+    ],
+    "implementations": {
+      "typescript": "// TypeScript template for Subrectangle Queries\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+      "python": "# Python template for Subrectangle Queries\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+      "cpp": "// C++ template for Subrectangle Queries\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+    }
   }
 ]

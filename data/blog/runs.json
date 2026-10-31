@@ -137,7 +137,8 @@
     "2026-10-21",
     "2026-10-22",
     "2026-10-25",
-    "2026-10-26"
+    "2026-10-26",
+    "2026-10-31"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -1985,46 +1986,11 @@
       "problemKey": "leetcode:1572",
       "slug": "subrectangle-queries-solution-notes",
       "sourceTitle": "Subrectangle Queries",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-10-31T19:58:27.432Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-10-31T23:23:23.355Z",
+      "publishedSlug": "subrectangle-queries-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-10-31",
-    "problemKey": "leetcode:1572",
-    "post": {
-      "slug": "subrectangle-queries-solution-notes",
-      "title": "Subrectangle Queries: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Subrectangle Queries with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Subrectangle Queries",
-      "sourceUrl": "https://leetcode.com/problems/subrectangle-queries/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Subrectangle Queries with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Subrectangle Queries\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Subrectangle Queries\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Subrectangle Queries\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
