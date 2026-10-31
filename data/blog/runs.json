@@ -1980,15 +1980,23 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-10-30T20:47:06.366Z"
+    },
+    "2026-10-31": {
+      "problemKey": "leetcode:1572",
+      "slug": "subrectangle-queries-solution-notes",
+      "sourceTitle": "Subrectangle Queries",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-10-31T14:31:30.783Z"
     }
   },
   "activeDraft": {
-    "date": "2026-10-30",
-    "problemKey": "leetcode:3996",
+    "date": "2026-10-31",
+    "problemKey": "leetcode:1572",
     "post": {
-      "slug": "find-books-with-polarized-opinions-solution-notes",
-      "title": "Find Books with Polarized Opinions: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Find Books with Polarized Opinions with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "subrectangle-queries-solution-notes",
+      "title": "Subrectangle Queries: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Subrectangle Queries with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -1996,26 +2004,25 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Find Books with Polarized Opinions",
-      "sourceUrl": "https://leetcode.com/problems/find-books-with-polarized-opinions/",
+      "sourceTitle": "Subrectangle Queries",
+      "sourceUrl": "https://leetcode.com/problems/subrectangle-queries/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Find Books with Polarized Opinions with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Subrectangle Queries with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Find Books with Polarized Opinions\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Find Books with Polarized Opinions\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Find Books with Polarized Opinions\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Subrectangle Queries\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Subrectangle Queries\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Subrectangle Queries\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
