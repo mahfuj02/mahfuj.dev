@@ -5579,40 +5579,6 @@
       }
     },
     {
-      "problemKey": "leetcode:917",
-      "post": {
-        "slug": "boats-to-save-people-solution-notes",
-        "title": "Boats to Save People: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Boats to Save People with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Boats to Save People",
-        "sourceUrl": "https://leetcode.com/problems/boats-to-save-people/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Boats to Save People with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Boats to Save People\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Boats to Save People\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Boats to Save People\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:3395",
       "post": {
         "slug": "minimum-length-of-anagram-concatenation-solution-notes",
