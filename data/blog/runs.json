@@ -2000,7 +2000,51 @@
       "commitsToday": 3,
       "updatedAt": "2026-11-01T20:30:21.576Z",
       "publishedSlug": "boats-to-save-people-solution-notes"
+    },
+    "2026-11-02": {
+      "problemKey": "leetcode:2893",
+      "slug": "visit-array-positions-to-maximize-score-solution-notes",
+      "sourceTitle": "Visit Array Positions to Maximize Score",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-11-02T18:20:44.797Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-11-02",
+    "problemKey": "leetcode:2893",
+    "post": {
+      "slug": "visit-array-positions-to-maximize-score-solution-notes",
+      "title": "Visit Array Positions to Maximize Score: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Visit Array Positions to Maximize Score with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode",
+        "data-structures"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Visit Array Positions to Maximize Score",
+      "sourceUrl": "https://leetcode.com/problems/visit-array-positions-to-maximize-score/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Visit Array Positions to Maximize Score with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Visit Array Positions to Maximize Score\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Visit Array Positions to Maximize Score\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Visit Array Positions to Maximize Score\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }

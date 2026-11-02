@@ -2879,41 +2879,6 @@
       }
     },
     {
-      "problemKey": "leetcode:2893",
-      "post": {
-        "slug": "visit-array-positions-to-maximize-score-solution-notes",
-        "title": "Visit Array Positions to Maximize Score: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Visit Array Positions to Maximize Score with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode",
-          "data-structures"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Visit Array Positions to Maximize Score",
-        "sourceUrl": "https://leetcode.com/problems/visit-array-positions-to-maximize-score/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Visit Array Positions to Maximize Score with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Visit Array Positions to Maximize Score\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Visit Array Positions to Maximize Score\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Visit Array Positions to Maximize Score\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:3523",
       "post": {
         "slug": "find-the-power-of-k-size-subarrays-ii-solution-notes",
