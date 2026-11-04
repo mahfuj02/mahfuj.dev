@@ -2016,15 +2016,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-11-03T19:29:28.680Z"
+    },
+    "2026-11-04": {
+      "problemKey": "leetcode:4247",
+      "slug": "minimum-capacity-box-solution-notes",
+      "sourceTitle": "Minimum Capacity Box",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-11-04T19:44:00.696Z"
     }
   },
   "activeDraft": {
-    "date": "2026-11-03",
-    "problemKey": "leetcode:2406",
+    "date": "2026-11-04",
+    "problemKey": "leetcode:4247",
     "post": {
-      "slug": "decode-the-message-solution-notes",
-      "title": "Decode the Message: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Decode the Message with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "minimum-capacity-box-solution-notes",
+      "title": "Minimum Capacity Box: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Minimum Capacity Box with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -2032,10 +2040,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Decode the Message",
-      "sourceUrl": "https://leetcode.com/problems/decode-the-message/",
+      "sourceTitle": "Minimum Capacity Box",
+      "sourceUrl": "https://leetcode.com/problems/minimum-capacity-box/",
       "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Decode the Message with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Capacity Box with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -2048,9 +2056,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Decode the Message\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Decode the Message\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Decode the Message\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Minimum Capacity Box\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Minimum Capacity Box\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Minimum Capacity Box\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
