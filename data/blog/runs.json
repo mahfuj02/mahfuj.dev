@@ -2024,15 +2024,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-11-04T19:44:00.696Z"
+    },
+    "2026-11-05": {
+      "problemKey": "leetcode:1758",
+      "slug": "distribute-repeating-integers-solution-notes",
+      "sourceTitle": "Distribute Repeating Integers",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-11-05T21:59:08.436Z"
     }
   },
   "activeDraft": {
-    "date": "2026-11-04",
-    "problemKey": "leetcode:4247",
+    "date": "2026-11-05",
+    "problemKey": "leetcode:1758",
     "post": {
-      "slug": "minimum-capacity-box-solution-notes",
-      "title": "Minimum Capacity Box: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Minimum Capacity Box with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "distribute-repeating-integers-solution-notes",
+      "title": "Distribute Repeating Integers: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Distribute Repeating Integers with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -2040,10 +2048,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Minimum Capacity Box",
-      "sourceUrl": "https://leetcode.com/problems/minimum-capacity-box/",
-      "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Capacity Box with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Distribute Repeating Integers",
+      "sourceUrl": "https://leetcode.com/problems/distribute-repeating-integers/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Distribute Repeating Integers with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -2056,9 +2064,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Minimum Capacity Box\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Minimum Capacity Box\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Minimum Capacity Box\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Distribute Repeating Integers\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Distribute Repeating Integers\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Distribute Repeating Integers\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
