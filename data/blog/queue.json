@@ -2367,40 +2367,6 @@
       }
     },
     {
-      "problemKey": "leetcode:2352",
-      "post": {
-        "slug": "design-an-atm-machine-solution-notes",
-        "title": "Design an ATM Machine: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Design an ATM Machine with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Design an ATM Machine",
-        "sourceUrl": "https://leetcode.com/problems/design-an-atm-machine/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Design an ATM Machine with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Design an ATM Machine\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Design an ATM Machine\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Design an ATM Machine\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:722",
       "post": {
         "slug": "remove-comments-solution-notes",
