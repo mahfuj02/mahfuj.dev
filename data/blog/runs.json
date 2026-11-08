@@ -2052,7 +2052,50 @@
       "commitsToday": 3,
       "updatedAt": "2026-11-07T20:13:58.384Z",
       "publishedSlug": "design-an-atm-machine-solution-notes"
+    },
+    "2026-11-08": {
+      "problemKey": "leetcode:611",
+      "slug": "valid-triangle-number-solution-notes",
+      "sourceTitle": "Valid Triangle Number",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-11-08T15:10:47.590Z"
     }
   },
-  "activeDraft": null
+  "activeDraft": {
+    "date": "2026-11-08",
+    "problemKey": "leetcode:611",
+    "post": {
+      "slug": "valid-triangle-number-solution-notes",
+      "title": "Valid Triangle Number: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Valid Triangle Number with clear approach, complexity, and multi-language implementation templates.",
+      "publishedAt": "",
+      "readTimeMinutes": 3,
+      "categories": [
+        "algorithms",
+        "leetcode"
+      ],
+      "sourcePlatform": "leetcode",
+      "sourceTitle": "Valid Triangle Number",
+      "sourceUrl": "https://leetcode.com/problems/valid-triangle-number/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Valid Triangle Number with a correct and efficient strategy while handling edge cases cleanly.",
+      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
+      "complexity": {
+        "time": "O(n)",
+        "space": "O(n)"
+      },
+      "keyPoints": [
+        "Clarify constraints and expected output before coding.",
+        "Pick a data structure that minimizes repeated computation.",
+        "Validate with edge cases and explain complexity tradeoffs.",
+        "Start from a baseline idea and clearly explain why optimization is needed."
+      ],
+      "implementations": {
+        "typescript": "// TypeScript template for Valid Triangle Number\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Valid Triangle Number\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Valid Triangle Number\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+      }
+    }
+  }
 }
