@@ -2068,15 +2068,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-11-09T18:47:03.975Z"
+    },
+    "2026-11-10": {
+      "problemKey": "leetcode:2288",
+      "slug": "count-operations-to-obtain-zero-solution-notes",
+      "sourceTitle": "Count Operations to Obtain Zero",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-11-10T12:37:45.016Z"
     }
   },
   "activeDraft": {
-    "date": "2026-11-09",
-    "problemKey": "leetcode:2588",
+    "date": "2026-11-10",
+    "problemKey": "leetcode:2288",
     "post": {
-      "slug": "maximum-number-of-points-from-grid-queries-solution-notes",
-      "title": "Maximum Number of Points From Grid Queries: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Maximum Number of Points From Grid Queries with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "count-operations-to-obtain-zero-solution-notes",
+      "title": "Count Operations to Obtain Zero: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Count Operations to Obtain Zero with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -2084,10 +2092,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Maximum Number of Points From Grid Queries",
-      "sourceUrl": "https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Maximum Number of Points From Grid Queries with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Count Operations to Obtain Zero",
+      "sourceUrl": "https://leetcode.com/problems/count-operations-to-obtain-zero/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Count Operations to Obtain Zero with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -2100,9 +2108,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Maximum Number of Points From Grid Queries\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Maximum Number of Points From Grid Queries\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Maximum Number of Points From Grid Queries\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Count Operations to Obtain Zero\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Count Operations to Obtain Zero\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Count Operations to Obtain Zero\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
