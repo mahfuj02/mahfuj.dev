@@ -2076,42 +2076,50 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-11-10T21:48:07.102Z"
+    },
+    "2026-11-11": {
+      "problemKey": "leetcode:3241",
+      "slug": "divide-array-into-arrays-with-max-difference-solution-notes",
+      "sourceTitle": "Divide Array Into Arrays With Max Difference",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-11-11T16:09:16.042Z"
     }
   },
   "activeDraft": {
-    "date": "2026-11-10",
-    "problemKey": "leetcode:2288",
+    "date": "2026-11-11",
+    "problemKey": "leetcode:3241",
     "post": {
-      "slug": "count-operations-to-obtain-zero-solution-notes",
-      "title": "Count Operations to Obtain Zero: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Count Operations to Obtain Zero with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "divide-array-into-arrays-with-max-difference-solution-notes",
+      "title": "Divide Array Into Arrays With Max Difference: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Divide Array Into Arrays With Max Difference with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode"
+        "leetcode",
+        "data-structures"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Count Operations to Obtain Zero",
-      "sourceUrl": "https://leetcode.com/problems/count-operations-to-obtain-zero/",
-      "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Count Operations to Obtain Zero with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "sourceTitle": "Divide Array Into Arrays With Max Difference",
+      "sourceUrl": "https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Divide Array Into Arrays With Max Difference with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Count Operations to Obtain Zero\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Count Operations to Obtain Zero\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Count Operations to Obtain Zero\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Divide Array Into Arrays With Max Difference\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Divide Array Into Arrays With Max Difference\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Divide Array Into Arrays With Max Difference\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
