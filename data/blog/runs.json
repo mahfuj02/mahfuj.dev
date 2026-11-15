@@ -141,7 +141,8 @@
     "2026-10-31",
     "2026-11-01",
     "2026-11-06",
-    "2026-11-07"
+    "2026-11-07",
+    "2026-11-15"
   ],
   "dailyProgress": {
     "2026-03-31": {
@@ -2113,46 +2114,11 @@
       "problemKey": "leetcode:1894",
       "slug": "merge-strings-alternately-solution-notes",
       "sourceTitle": "Merge Strings Alternately",
-      "stage": 2,
-      "commitsToday": 2,
-      "updatedAt": "2026-11-15T15:39:22.647Z"
+      "stage": 3,
+      "commitsToday": 3,
+      "updatedAt": "2026-11-15T21:01:43.951Z",
+      "publishedSlug": "merge-strings-alternately-solution-notes"
     }
   },
-  "activeDraft": {
-    "date": "2026-11-15",
-    "problemKey": "leetcode:1894",
-    "post": {
-      "slug": "merge-strings-alternately-solution-notes",
-      "title": "Merge Strings Alternately: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Merge Strings Alternately with clear approach, complexity, and multi-language implementation templates.",
-      "publishedAt": "",
-      "readTimeMinutes": 3,
-      "categories": [
-        "algorithms",
-        "leetcode"
-      ],
-      "sourcePlatform": "leetcode",
-      "sourceTitle": "Merge Strings Alternately",
-      "sourceUrl": "https://leetcode.com/problems/merge-strings-alternately/",
-      "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Merge Strings Alternately with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
-      "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
-      "complexity": {
-        "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
-      },
-      "keyPoints": [
-        "Clarify constraints and expected output before coding.",
-        "Pick a data structure that minimizes repeated computation.",
-        "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
-      ],
-      "implementations": {
-        "typescript": "// TypeScript template for Merge Strings Alternately\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Merge Strings Alternately\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Merge Strings Alternately\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-      }
-    }
-  }
+  "activeDraft": null
 }
