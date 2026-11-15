@@ -2108,15 +2108,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-11-14T23:54:54.808Z"
+    },
+    "2026-11-15": {
+      "problemKey": "leetcode:1894",
+      "slug": "merge-strings-alternately-solution-notes",
+      "sourceTitle": "Merge Strings Alternately",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-11-15T06:27:44.785Z"
     }
   },
   "activeDraft": {
-    "date": "2026-11-14",
-    "problemKey": "leetcode:162",
+    "date": "2026-11-15",
+    "problemKey": "leetcode:1894",
     "post": {
-      "slug": "find-peak-element-solution-notes",
-      "title": "Find Peak Element: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Find Peak Element with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "merge-strings-alternately-solution-notes",
+      "title": "Merge Strings Alternately: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Merge Strings Alternately with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -2124,10 +2132,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Find Peak Element",
-      "sourceUrl": "https://leetcode.com/problems/find-peak-element/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Find Peak Element with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Merge Strings Alternately",
+      "sourceUrl": "https://leetcode.com/problems/merge-strings-alternately/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Merge Strings Alternately with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -2140,9 +2148,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Find Peak Element\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Find Peak Element\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Find Peak Element\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Merge Strings Alternately\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Merge Strings Alternately\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Merge Strings Alternately\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }

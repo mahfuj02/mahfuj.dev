@@ -4930,40 +4930,6 @@
       }
     },
     {
-      "problemKey": "leetcode:1894",
-      "post": {
-        "slug": "merge-strings-alternately-solution-notes",
-        "title": "Merge Strings Alternately: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Merge Strings Alternately with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Merge Strings Alternately",
-        "sourceUrl": "https://leetcode.com/problems/merge-strings-alternately/",
-        "difficulty": "Easy",
-        "problemInMyWords": "In my own words, this problem asks me to solve Merge Strings Alternately with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Merge Strings Alternately\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Merge Strings Alternately\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Merge Strings Alternately\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:287",
       "post": {
         "slug": "find-the-duplicate-number-solution-notes",
