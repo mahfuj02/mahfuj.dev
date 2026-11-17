@@ -2131,9 +2131,9 @@
       "problemKey": "leetcode:2550",
       "slug": "words-within-two-edits-of-dictionary-solution-notes",
       "sourceTitle": "Words Within Two Edits of Dictionary",
-      "stage": 1,
-      "commitsToday": 1,
-      "updatedAt": "2026-11-17T13:22:52.401Z"
+      "stage": 2,
+      "commitsToday": 2,
+      "updatedAt": "2026-11-17T23:30:39.790Z"
     }
   },
   "activeDraft": {
@@ -2153,17 +2153,18 @@
       "sourceTitle": "Words Within Two Edits of Dictionary",
       "sourceUrl": "https://leetcode.com/problems/words-within-two-edits-of-dictionary/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Words Within Two Edits of Dictionary with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Words Within Two Edits of Dictionary with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n)"
+        "space": "O(n) (can vary with chosen structure)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed."
+        "Start from a baseline idea and clearly explain why optimization is needed.",
+        "Call out tradeoffs and memory behavior in addition to time complexity."
       ],
       "implementations": {
         "typescript": "// TypeScript template for Words Within Two Edits of Dictionary\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
