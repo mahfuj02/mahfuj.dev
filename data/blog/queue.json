@@ -2058,40 +2058,6 @@
       }
     },
     {
-      "problemKey": "leetcode:1307",
-      "post": {
-        "slug": "ugly-number-iii-solution-notes",
-        "title": "Ugly Number III: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Ugly Number III with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Ugly Number III",
-        "sourceUrl": "https://leetcode.com/problems/ugly-number-iii/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Ugly Number III with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Ugly Number III\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Ugly Number III\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Ugly Number III\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:1531",
       "post": {
         "slug": "number-of-ways-to-wear-different-hats-to-each-other-solution-notes",
