@@ -2142,15 +2142,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-11-18T17:14:35.443Z"
+    },
+    "2026-11-19": {
+      "problemKey": "leetcode:1848",
+      "slug": "sum-of-unique-elements-solution-notes",
+      "sourceTitle": "Sum of Unique Elements",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-11-19T23:02:47.254Z"
     }
   },
   "activeDraft": {
-    "date": "2026-11-18",
-    "problemKey": "leetcode:1307",
+    "date": "2026-11-19",
+    "problemKey": "leetcode:1848",
     "post": {
-      "slug": "ugly-number-iii-solution-notes",
-      "title": "Ugly Number III: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Ugly Number III with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "sum-of-unique-elements-solution-notes",
+      "title": "Sum of Unique Elements: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Sum of Unique Elements with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -2158,10 +2166,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Ugly Number III",
-      "sourceUrl": "https://leetcode.com/problems/ugly-number-iii/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Ugly Number III with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Sum of Unique Elements",
+      "sourceUrl": "https://leetcode.com/problems/sum-of-unique-elements/",
+      "difficulty": "Easy",
+      "problemInMyWords": "In my own words, this problem asks me to solve Sum of Unique Elements with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -2174,9 +2182,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Ugly Number III\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Ugly Number III\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Ugly Number III\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Sum of Unique Elements\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Sum of Unique Elements\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Sum of Unique Elements\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
