@@ -2150,15 +2150,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-11-19T23:02:47.254Z"
+    },
+    "2026-11-20": {
+      "problemKey": "leetcode:2422",
+      "slug": "query-kth-smallest-trimmed-number-solution-notes",
+      "sourceTitle": "Query Kth Smallest Trimmed Number",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-11-20T16:57:36.399Z"
     }
   },
   "activeDraft": {
-    "date": "2026-11-19",
-    "problemKey": "leetcode:1848",
+    "date": "2026-11-20",
+    "problemKey": "leetcode:2422",
     "post": {
-      "slug": "sum-of-unique-elements-solution-notes",
-      "title": "Sum of Unique Elements: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Sum of Unique Elements with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "query-kth-smallest-trimmed-number-solution-notes",
+      "title": "Query Kth Smallest Trimmed Number: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Query Kth Smallest Trimmed Number with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -2166,10 +2174,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Sum of Unique Elements",
-      "sourceUrl": "https://leetcode.com/problems/sum-of-unique-elements/",
-      "difficulty": "Easy",
-      "problemInMyWords": "In my own words, this problem asks me to solve Sum of Unique Elements with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Query Kth Smallest Trimmed Number",
+      "sourceUrl": "https://leetcode.com/problems/query-kth-smallest-trimmed-number/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Query Kth Smallest Trimmed Number with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -2182,9 +2190,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Sum of Unique Elements\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Sum of Unique Elements\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Sum of Unique Elements\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Query Kth Smallest Trimmed Number\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Query Kth Smallest Trimmed Number\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Query Kth Smallest Trimmed Number\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
