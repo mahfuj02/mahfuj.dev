@@ -2158,15 +2158,23 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-11-20T16:57:36.399Z"
+    },
+    "2026-11-21": {
+      "problemKey": "leetcode:57",
+      "slug": "insert-interval-solution-notes",
+      "sourceTitle": "Insert Interval",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-11-21T12:37:35.994Z"
     }
   },
   "activeDraft": {
-    "date": "2026-11-20",
-    "problemKey": "leetcode:2422",
+    "date": "2026-11-21",
+    "problemKey": "leetcode:57",
     "post": {
-      "slug": "query-kth-smallest-trimmed-number-solution-notes",
-      "title": "Query Kth Smallest Trimmed Number: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Query Kth Smallest Trimmed Number with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "insert-interval-solution-notes",
+      "title": "Insert Interval: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Insert Interval with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -2174,10 +2182,10 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Query Kth Smallest Trimmed Number",
-      "sourceUrl": "https://leetcode.com/problems/query-kth-smallest-trimmed-number/",
+      "sourceTitle": "Insert Interval",
+      "sourceUrl": "https://leetcode.com/problems/insert-interval/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Query Kth Smallest Trimmed Number with a correct and efficient strategy while handling edge cases cleanly.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Insert Interval with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -2190,9 +2198,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Query Kth Smallest Trimmed Number\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Query Kth Smallest Trimmed Number\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Query Kth Smallest Trimmed Number\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Insert Interval\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Insert Interval\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Insert Interval\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
