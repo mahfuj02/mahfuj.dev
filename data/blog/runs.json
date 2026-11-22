@@ -2166,15 +2166,23 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-11-21T21:38:56.960Z"
+    },
+    "2026-11-22": {
+      "problemKey": "leetcode:4131",
+      "slug": "minimum-flips-to-make-binary-string-coherent-solution-notes",
+      "sourceTitle": "Minimum Flips to Make Binary String Coherent",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-11-22T16:15:57.436Z"
     }
   },
   "activeDraft": {
-    "date": "2026-11-21",
-    "problemKey": "leetcode:57",
+    "date": "2026-11-22",
+    "problemKey": "leetcode:4131",
     "post": {
-      "slug": "insert-interval-solution-notes",
-      "title": "Insert Interval: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Insert Interval with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "minimum-flips-to-make-binary-string-coherent-solution-notes",
+      "title": "Minimum Flips to Make Binary String Coherent: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Minimum Flips to Make Binary String Coherent with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -2182,26 +2190,25 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Insert Interval",
-      "sourceUrl": "https://leetcode.com/problems/insert-interval/",
+      "sourceTitle": "Minimum Flips to Make Binary String Coherent",
+      "sourceUrl": "https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Insert Interval with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Flips to Make Binary String Coherent with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Insert Interval\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Insert Interval\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Insert Interval\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Minimum Flips to Make Binary String Coherent\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Minimum Flips to Make Binary String Coherent\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Minimum Flips to Make Binary String Coherent\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
