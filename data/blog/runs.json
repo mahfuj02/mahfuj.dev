@@ -2174,15 +2174,23 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-11-22T21:47:50.108Z"
+    },
+    "2026-11-23": {
+      "problemKey": "leetcode:130",
+      "slug": "surrounded-regions-solution-notes",
+      "sourceTitle": "Surrounded Regions",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-11-23T20:12:17.877Z"
     }
   },
   "activeDraft": {
-    "date": "2026-11-22",
-    "problemKey": "leetcode:4131",
+    "date": "2026-11-23",
+    "problemKey": "leetcode:130",
     "post": {
-      "slug": "minimum-flips-to-make-binary-string-coherent-solution-notes",
-      "title": "Minimum Flips to Make Binary String Coherent: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Minimum Flips to Make Binary String Coherent with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "surrounded-regions-solution-notes",
+      "title": "Surrounded Regions: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Surrounded Regions with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -2190,26 +2198,25 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Minimum Flips to Make Binary String Coherent",
-      "sourceUrl": "https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/",
+      "sourceTitle": "Surrounded Regions",
+      "sourceUrl": "https://leetcode.com/problems/surrounded-regions/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Minimum Flips to Make Binary String Coherent with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Surrounded Regions with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Minimum Flips to Make Binary String Coherent\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Minimum Flips to Make Binary String Coherent\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Minimum Flips to Make Binary String Coherent\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Surrounded Regions\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Surrounded Regions\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Surrounded Regions\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }

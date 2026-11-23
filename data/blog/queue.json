@@ -1134,40 +1134,6 @@
       }
     },
     {
-      "problemKey": "leetcode:130",
-      "post": {
-        "slug": "surrounded-regions-solution-notes",
-        "title": "Surrounded Regions: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Surrounded Regions with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Surrounded Regions",
-        "sourceUrl": "https://leetcode.com/problems/surrounded-regions/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Surrounded Regions with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Surrounded Regions\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Surrounded Regions\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Surrounded Regions\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:1927",
       "post": {
         "slug": "maximum-ascending-subarray-sum-solution-notes",
