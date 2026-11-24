@@ -3975,40 +3975,6 @@
       }
     },
     {
-      "problemKey": "leetcode:1900",
-      "post": {
-        "slug": "closest-dessert-cost-solution-notes",
-        "title": "Closest Dessert Cost: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Closest Dessert Cost with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Closest Dessert Cost",
-        "sourceUrl": "https://leetcode.com/problems/closest-dessert-cost/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Closest Dessert Cost with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Closest Dessert Cost\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Closest Dessert Cost\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Closest Dessert Cost\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:2332",
       "post": {
         "slug": "count-lattice-points-inside-a-circle-solution-notes",
