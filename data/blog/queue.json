@@ -274,40 +274,6 @@
       }
     },
     {
-      "problemKey": "leetcode:4067",
-      "post": {
-        "slug": "design-auction-system-solution-notes",
-        "title": "Design Auction System: Pattern and Complexity Walkthrough",
-        "excerpt": "A concise walkthrough for Design Auction System with clear approach, complexity, and multi-language implementation templates.",
-        "publishedAt": "",
-        "readTimeMinutes": 3,
-        "categories": [
-          "algorithms",
-          "leetcode"
-        ],
-        "sourcePlatform": "leetcode",
-        "sourceTitle": "Design Auction System",
-        "sourceUrl": "https://leetcode.com/problems/design-auction-system/",
-        "difficulty": "Medium",
-        "problemInMyWords": "In my own words, this problem asks me to solve Design Auction System with a correct and efficient strategy while handling edge cases cleanly.",
-        "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion.",
-        "complexity": {
-          "time": "O(n)",
-          "space": "O(n)"
-        },
-        "keyPoints": [
-          "Clarify constraints and expected output before coding.",
-          "Pick a data structure that minimizes repeated computation.",
-          "Validate with edge cases and explain complexity tradeoffs."
-        ],
-        "implementations": {
-          "typescript": "// TypeScript template for Design Auction System\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-          "python": "# Python template for Design Auction System\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-          "cpp": "// C++ template for Design Auction System\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
-        }
-      }
-    },
-    {
       "problemKey": "leetcode:2012",
       "post": {
         "slug": "process-tasks-using-servers-solution-notes",

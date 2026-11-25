@@ -2190,15 +2190,23 @@
       "stage": 2,
       "commitsToday": 2,
       "updatedAt": "2026-11-24T19:30:25.232Z"
+    },
+    "2026-11-25": {
+      "problemKey": "leetcode:4067",
+      "slug": "design-auction-system-solution-notes",
+      "sourceTitle": "Design Auction System",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-11-25T14:19:49.373Z"
     }
   },
   "activeDraft": {
-    "date": "2026-11-24",
-    "problemKey": "leetcode:1900",
+    "date": "2026-11-25",
+    "problemKey": "leetcode:4067",
     "post": {
-      "slug": "closest-dessert-cost-solution-notes",
-      "title": "Closest Dessert Cost: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Closest Dessert Cost with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "design-auction-system-solution-notes",
+      "title": "Design Auction System: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Design Auction System with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
@@ -2206,26 +2214,25 @@
         "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Closest Dessert Cost",
-      "sourceUrl": "https://leetcode.com/problems/closest-dessert-cost/",
+      "sourceTitle": "Design Auction System",
+      "sourceUrl": "https://leetcode.com/problems/design-auction-system/",
       "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Closest Dessert Cost with a correct and efficient strategy while handling edge cases cleanly. I explicitly restate input-output intent to avoid ambiguity before coding.",
+      "problemInMyWords": "In my own words, this problem asks me to solve Design Auction System with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
-        "space": "O(n) (can vary with chosen structure)"
+        "space": "O(n)"
       },
       "keyPoints": [
         "Clarify constraints and expected output before coding.",
         "Pick a data structure that minimizes repeated computation.",
         "Validate with edge cases and explain complexity tradeoffs.",
-        "Start from a baseline idea and clearly explain why optimization is needed.",
-        "Call out tradeoffs and memory behavior in addition to time complexity."
+        "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Closest Dessert Cost\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Closest Dessert Cost\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Closest Dessert Cost\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Design Auction System\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Design Auction System\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Design Auction System\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
