@@ -2198,26 +2198,35 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-11-25T14:19:49.373Z"
+    },
+    "2026-11-26": {
+      "problemKey": "leetcode:3298",
+      "slug": "maximize-consecutive-elements-in-an-array-after-modification-solution-notes",
+      "sourceTitle": "Maximize Consecutive Elements in an Array After Modification",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-11-26T13:52:52.949Z"
     }
   },
   "activeDraft": {
-    "date": "2026-11-25",
-    "problemKey": "leetcode:4067",
+    "date": "2026-11-26",
+    "problemKey": "leetcode:3298",
     "post": {
-      "slug": "design-auction-system-solution-notes",
-      "title": "Design Auction System: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Design Auction System with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "maximize-consecutive-elements-in-an-array-after-modification-solution-notes",
+      "title": "Maximize Consecutive Elements in an Array After Modification: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Maximize Consecutive Elements in an Array After Modification with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode"
+        "leetcode",
+        "data-structures"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Design Auction System",
-      "sourceUrl": "https://leetcode.com/problems/design-auction-system/",
-      "difficulty": "Medium",
-      "problemInMyWords": "In my own words, this problem asks me to solve Design Auction System with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Maximize Consecutive Elements in an Array After Modification",
+      "sourceUrl": "https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/",
+      "difficulty": "Hard",
+      "problemInMyWords": "In my own words, this problem asks me to solve Maximize Consecutive Elements in an Array After Modification with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -2230,9 +2239,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Design Auction System\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Design Auction System\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Design Auction System\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Maximize Consecutive Elements in an Array After Modification\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Maximize Consecutive Elements in an Array After Modification\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Maximize Consecutive Elements in an Array After Modification\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
