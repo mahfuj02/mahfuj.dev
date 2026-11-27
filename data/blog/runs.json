@@ -2206,27 +2206,34 @@
       "stage": 1,
       "commitsToday": 1,
       "updatedAt": "2026-11-26T13:52:52.949Z"
+    },
+    "2026-11-27": {
+      "problemKey": "leetcode:3534",
+      "slug": "count-almost-equal-pairs-i-solution-notes",
+      "sourceTitle": "Count Almost Equal Pairs I",
+      "stage": 1,
+      "commitsToday": 1,
+      "updatedAt": "2026-11-27T13:50:45.447Z"
     }
   },
   "activeDraft": {
-    "date": "2026-11-26",
-    "problemKey": "leetcode:3298",
+    "date": "2026-11-27",
+    "problemKey": "leetcode:3534",
     "post": {
-      "slug": "maximize-consecutive-elements-in-an-array-after-modification-solution-notes",
-      "title": "Maximize Consecutive Elements in an Array After Modification: Pattern and Complexity Walkthrough",
-      "excerpt": "A concise walkthrough for Maximize Consecutive Elements in an Array After Modification with clear approach, complexity, and multi-language implementation templates.",
+      "slug": "count-almost-equal-pairs-i-solution-notes",
+      "title": "Count Almost Equal Pairs I: Pattern and Complexity Walkthrough",
+      "excerpt": "A concise walkthrough for Count Almost Equal Pairs I with clear approach, complexity, and multi-language implementation templates.",
       "publishedAt": "",
       "readTimeMinutes": 3,
       "categories": [
         "algorithms",
-        "leetcode",
-        "data-structures"
+        "leetcode"
       ],
       "sourcePlatform": "leetcode",
-      "sourceTitle": "Maximize Consecutive Elements in an Array After Modification",
-      "sourceUrl": "https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/",
-      "difficulty": "Hard",
-      "problemInMyWords": "In my own words, this problem asks me to solve Maximize Consecutive Elements in an Array After Modification with a correct and efficient strategy while handling edge cases cleanly.",
+      "sourceTitle": "Count Almost Equal Pairs I",
+      "sourceUrl": "https://leetcode.com/problems/count-almost-equal-pairs-i/",
+      "difficulty": "Medium",
+      "problemInMyWords": "In my own words, this problem asks me to solve Count Almost Equal Pairs I with a correct and efficient strategy while handling edge cases cleanly.",
       "approach": "I focus on choosing the right data structure and reducing repeated work. I validate complexity, edge cases, and produce maintainable code for interview discussion. I also note one brute-force baseline first, then explain the optimized path.",
       "complexity": {
         "time": "O(n)",
@@ -2239,9 +2246,9 @@
         "Start from a baseline idea and clearly explain why optimization is needed."
       ],
       "implementations": {
-        "typescript": "// TypeScript template for Maximize Consecutive Elements in an Array After Modification\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
-        "python": "# Python template for Maximize Consecutive Elements in an Array After Modification\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
-        "cpp": "// C++ template for Maximize Consecutive Elements in an Array After Modification\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
+        "typescript": "// TypeScript template for Count Almost Equal Pairs I\nfunction solve(input: unknown): unknown {\n  // TODO: implement final logic\n  return input;\n}",
+        "python": "# Python template for Count Almost Equal Pairs I\ndef solve(input_data):\n    # TODO: implement final logic\n    return input_data",
+        "cpp": "// C++ template for Count Almost Equal Pairs I\n#include <bits/stdc++.h>\nusing namespace std;\n\nauto solve(auto input) {\n  // TODO: implement final logic\n  return input;\n}"
       }
     }
   }
